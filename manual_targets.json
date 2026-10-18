@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "m-sapeli-cz",
+  "ico": "",
+  "name": "SAPELI, a.s.",
+  "kind": "vlastní",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.sapeli.cz/",
+  "check_urls": [
+   "https://www.sapeli.cz/kariera"
+  ],
+  "enabled": true,
+  "manual": true,
+  "added": "2026-10-18"
+ }
+]
