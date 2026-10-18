@@ -519,15 +519,15 @@
   "more": []
  },
  "https://www.kohut.cz/prace/": {
-  "hash": "99fa51706366657fa6a67d09a78cd447e29657fc",
+  "hash": "63178ff892c98f351661ff1120dbd5ac974a0660",
   "listings": [
    {
     "title": "SERVISNÍ TECHNIK",
     "url": "https://www.kohut.cz/prace/",
     "place": "Třinec / Smilovice",
-    "contract": "",
-    "shift": "Pracovní doba 6:00 – 14:30, volné víkendy",
-    "description": "Požadujeme SŠ/SOU technického směru nebo chuť se učit novému, řidičský průkaz skupiny B, zkušenost s opravou stavebních strojů je výhodou. Nabízíme zázemí stabilní rodinné společnosti, přátelský kolektiv, obědy zdarma, vzdělávání a mobilní telefon."
+    "contract": "HPP",
+    "shift": "6:00 – 14:30, volné víkendy",
+    "description": "Zázemí stabilní rodinné společnosti, přátelský kolektiv, obědy zdarma, systém vzdělávání, mobilní telefon. Požadujeme SŠ/SOU technického směru (nebo chuť se učit), řidičský průkaz skupiny B, zkušenost s opravami stavebních strojů je výhodou."
    }
   ],
   "more": []
@@ -2891,23 +2891,23 @@
   "more": []
  },
  "https://anaj.cz/kariera/volne-pozice/": {
-  "hash": "9c4012fafeb11fb324884de81b78b92bbf200bb6",
+  "hash": "92e88ad207627ef2d52b0be6e63fb91300857499",
   "listings": [
    {
     "title": "Pracovník technického směru/údržby",
     "url": "https://anaj.cz/kariera/volne-pozice/pracovnik-technickeho-smeru-udrzby/",
-    "place": "",
+    "place": "Frýdlant nad Ostravicí",
     "contract": "",
     "shift": "",
-    "description": "Volná pozice pro pracovníka technického směru nebo údržby. Detailní informace naleznete na odkazované stránce."
+    "description": "Pracovník technického směru nebo údržby. Detailní informace jsou k dispozici na odkazu."
    },
    {
     "title": "Kalkulant – podpora obchodu",
     "url": "https://anaj.cz/kariera/volne-pozice/kalkulant-podpora-obchodu",
-    "place": "",
+    "place": "Frýdlant nad Ostravicí",
     "contract": "",
     "shift": "",
-    "description": "Pozice kalkulanta pro podporu obchodu. Detailní informace naleznete na odkazované stránce."
+    "description": "Kalkulant pro podporu obchodu. Detailní informace naleznete na dedikované podstránce."
    }
   ],
   "more": []
@@ -2997,7 +2997,7 @@
   "listings": []
  },
  "https://lakum.cz/": {
-  "hash": "cf033fee471f2d33f5b949fb65ed5940d7e82083",
+  "hash": "64f603b88a41f3eab6007f70185074fd0282c4eb",
   "listings": []
  },
  "http://sky-cz.com/kariera": {
@@ -3044,7 +3044,7 @@
   ]
  },
  "https://www.jenprace.cz/": {
-  "hash": "66782391fb98c85595c760ea6fdc918b86db3338",
+  "hash": "a616e5913055b13c83d4c8576a51c6b4b0261f56",
   "listings": [],
   "more": []
  },
@@ -3058,7 +3058,7 @@
   "more": []
  },
  "https://www.jobs.cz/": {
-  "hash": "4e4b38bc013a49a9979332b07a9aabc0bd130422",
+  "hash": "de2afc959e008c6e110c304e309d483da0fbe503",
   "listings": [],
   "more": []
  },
@@ -3922,12 +3922,12 @@
   "more": []
  },
  "https://www.sssfno.cz/o-nas/kariera/pracovnik-v-socialnich-sluzbach/": {
-  "hash": "c43243d52d143b317420387d1d73d30c55211b76",
+  "hash": "228a496b9b7f550431202bcdf81a738ed86723a9",
   "listings": [],
   "more": []
  },
  "https://www.dsfm.cz/kontakt/kariera/": {
-  "hash": "b65f8d1b14b26ab675e05fe6963891894305f7bd",
+  "hash": "7ad2279ffc61b32193276ef980feed77213dd6bf",
   "listings": [
    {
     "title": "Pracovník v sociálních službách",
@@ -4386,7 +4386,7 @@
   "listings": []
  },
  "https://www.obechrcava.cz/": {
-  "hash": "4371471ab7440cef53f3b686728729f0832aeb4e",
+  "hash": "588c6bcc9b44996aebd77e2e17b35dba5de47e5c",
   "listings": [],
   "more": []
  },
@@ -4432,7 +4432,7 @@
   "listings": []
  },
  "https://www.sobesovice.cz/": {
-  "hash": "ede59da61b9c4ef6d4a0622c6bae01cbf84dbfb7",
+  "hash": "8a3f062fb4fdd13b66f4367826cbe02feb3049be",
   "listings": []
  },
  "https://www.niznilhoty.cz/": {
@@ -4461,7 +4461,7 @@
   "listings": []
  },
  "https://www.lucina.cz/": {
-  "hash": "00e884cee377217fee496c5695ad946857785754",
+  "hash": "44bc6432b3f284289920559c0d7a7185631979f8",
   "listings": []
  },
  "https://www.nosovice.cz/": {
@@ -4485,7 +4485,7 @@
   "listings": []
  },
  "https://www.malenovice.eu/": {
-  "hash": "55d4683d7b74b33f40d095a730aa9045d8ecb87f",
+  "hash": "542e0e34de933e05ec1aa22eac086327936881f3",
   "listings": []
  },
  "https://www.obeckanovice.cz/": {
@@ -4609,7 +4609,7 @@
   "listings": []
  },
  "https://www.oact.cz/": {
-  "hash": "0515da0cf0e139d521728fc68152b6d906f6be59",
+  "hash": "cc3064e5a5436a918e4da0fc74b30c3ed442cec5",
   "listings": []
  },
  "https://www.zsptesin.cz/": {
@@ -4785,7 +4785,7 @@
   "listings": []
  },
  "https://zssvobody.cz/": {
-  "hash": "965656b14a940d8b930890ccf8890d38903c84ca",
+  "hash": "01337297e3268c095d461c0a01474312ba51af06",
   "listings": []
  },
  "https://www.zsgh.cz/": {
@@ -4825,7 +4825,7 @@
   "listings": []
  },
  "https://www.skolastaremesto.cz/": {
-  "hash": "ebe913da415846f8145c77ed07c2f5d2a0ef0d24",
+  "hash": "82790cb466165081337b8fad367eac2f1caf36d9",
   "listings": []
  },
  "https://www.zsprzno.cz/": {
@@ -4849,7 +4849,7 @@
   "listings": []
  },
  "https://www.zskomenskehofno.cz/": {
-  "hash": "08f3de227462e923c57bca05b366ade54d01ecf6",
+  "hash": "c909b51828c25995dccdac6d0517e1f22568d2c8",
   "listings": []
  },
  "https://zsfrydlant.cz/": {
@@ -4873,7 +4873,7 @@
   "listings": []
  },
  "https://www.zus-senov.cz/": {
-  "hash": "7e42c6270c0379b7f66f50285371fc8e5b5db418",
+  "hash": "e7365ae9af74a83f979e1ee141b5be69d6e35a0b",
   "listings": []
  },
  "https://zsgalileoschool.edupage.org/": {
@@ -4961,7 +4961,7 @@
   "listings": []
  },
  "https://www.goa-orlova.cz/": {
-  "hash": "4d14f071f28fc528fb51db740d6cd234a496128e",
+  "hash": "0aff83380c9c7280ff063f998171fd13cf5d6bf4",
   "listings": []
  },
  "https://www.zspianeta.cz/": {
@@ -4977,7 +4977,7 @@
   "listings": []
  },
  "https://www.zsrepiste.cz/": {
-  "hash": "a251108c51858d19794daaf19b64006b61dd7b47",
+  "hash": "a04236abaabc56f63519f64881689ff4f116b9b1",
   "listings": []
  },
  "https://stonava.cz/vyberova-rizeni": {
@@ -4986,7 +4986,7 @@
   "more": []
  },
  "https://www.obeczermanice.cz/obecni-urad/vyberova-rizeni/": {
-  "hash": "54a2310ca04a52b5c318762ed8f9d8fb04bdc958",
+  "hash": "12c4b852739a8cf51cdfd481a0e8349ab8642d69",
   "listings": [],
   "more": []
  },
@@ -5071,7 +5071,7 @@
   ]
  },
  "https://www.obec-ostravice.cz/aktualne/volna-pracovni-mista/": {
-  "hash": "89a6b2dc76a11b8734f218a287f8be36d08f3004",
+  "hash": "4c8fec1b163fc0c4bef2d2970c3f66882fbc20c2",
   "listings": [
    {
     "title": "Beskydský pivovárek hledá posily do týmu",
@@ -5093,9 +5093,9 @@
     "title": "Matrika a evidence obyvatel",
     "url": "https://www.obec-ostravice.cz/aktualne/volna-pracovni-mista/starosta-obce-ostravice-vyhlasuje-vyberove-rizeni-c-1-2026-na-obsazeni-pracovniho-mista-3298cs.html",
     "place": "Ostravice",
-    "contract": "",
+    "contract": "HPP",
     "shift": "",
-    "description": "Starosta obce Ostravice vyhlašuje výběrové řízení č. 1/2026 na obsazení pracovního místa pro úsek matrika a evidence obyvatel."
+    "description": "Starosta obce Ostravice vyhlašuje výběrové řízení č. 1/2026 na obsazení pracovního místa v oblasti matrika a evidence obyvatel."
    }
   ],
   "more": []
@@ -5186,7 +5186,7 @@
   "more": []
  },
  "https://www.zshradek.cz/zakladni-skola/volna-mista/": {
-  "hash": "26fcba6805c1490356e39f0d6653437e2fde69b2",
+  "hash": "eae450bd9e7f21485693d9f5f19b8ec4566ac4eb",
   "listings": [
    {
     "title": "učitel/ka 1. stupně",
@@ -5194,7 +5194,7 @@
     "place": "Hrádek",
     "contract": "",
     "shift": "",
-    "description": "Volná pozice učitele/ky 1. stupně pro školní rok 2024/25."
+    "description": "Volná pozice učitele/ky 1. stupně pro aktuální školní rok."
    },
    {
     "title": "učitel/ka AJ",
@@ -5202,13 +5202,13 @@
     "place": "Hrádek",
     "contract": "",
     "shift": "",
-    "description": "Volná pozice učitele/ky anglického jazyka pro školní rok 2024/25."
+    "description": "Volná pozice učitele/ky anglického jazyka pro aktuální školní rok."
    }
   ],
   "more": []
  },
  "https://www.zshradek.cz/materska-skola/volna-mista/": {
-  "hash": "e5215df2e003c3e08fcda3cbbff1fb94ac0c5452",
+  "hash": "a0a7b11bc1cece4b9dfd8a1628e7dcc537fcfa24",
   "listings": [],
   "more": []
  },
@@ -5445,9 +5445,13 @@
   "more": []
  },
  "https://zuskarvina.cz/": {
-  "hash": "b106a6ca7533f85b4dde840c4ce162f137a5fb6e",
+  "hash": "4799433f4e31a96f3cc434d07ad2213bba723ef3",
   "listings": [],
-  "more": []
+  "more": [
+   "https://zuskarvina.cz/o-skole/",
+   "https://zuskarvina.cz/kontakty/",
+   "https://zuskarvina.cz/aktuality/"
+  ]
  },
  "https://www.borovskeho.cz/": {
   "hash": "857a1182fca1fa36fa960051c4099130cae5328c",
@@ -5555,20 +5559,20 @@
   "more": []
  },
  "https://www.zuslj-havirov.cz/cs/kariera.html": {
-  "hash": "040d592f1ef26efd68d18328c9cf427ef4d1f48a",
+  "hash": "6985c17814824e5fedf59a8158368f5bea42a24c",
   "listings": [],
   "more": []
  },
  "https://zsnabrezi.cz/": {
-  "hash": "7ebfd1aeed6d626799a3ae38d6ac3625063fb54e",
+  "hash": "2173072c162c2b180b9293d9aab2dddcc244abd7",
   "listings": [
    {
-    "title": "Kuchař či kuchařka do školní kuchyně",
+    "title": "Kuchař či kuchařka",
     "url": "https://zsnabrezi.cz/",
     "place": "ZŠ Na Nábřeží, Havířov",
     "contract": "",
     "shift": "",
-    "description": "Do kuchyně ZŠ Na Nábřeží hledáme vyučeného kuchaře či kuchařku s praxí. Pro další informace kontaktujte vedoucí školní jídelny na tel. č. 596 802 537 nebo na mailu vednalez@zsnabrezi.cz."
+    "description": "Do kuchyně ZŠ Na Nábřeží hledáme vyučeného kuchaře či kuchařku s praxí. Pro další informace kontaktujte vedoucí školní jídelny na tel. č. 596 802 537."
    }
   ],
   "more": []
@@ -5599,7 +5603,7 @@
   "more": []
  },
  "https://www.skola-sedliste.cz": {
-  "hash": "64898b84a36b5ae52f226735a1bb69569ec585f3",
+  "hash": "cd0dce38d62cb70a2d171d86e585a52edf8d2a0c",
   "listings": [],
   "more": []
  },
@@ -5894,6 +5898,29 @@
     "contract": "zástup",
     "shift": "",
     "description": "Do našeho týmu hledáme učitele nebo učitelku 1. stupně ZŠ na zástup v období od 1. 9. 2026 do 31. 12. 2026. Požadujeme odpovídající kvalifikaci a chuť pracovat s dětmi."
+   }
+  ],
+  "more": []
+ },
+ "https://zuskarvina.cz/o-skole/": {
+  "hash": "d9bb565f6e34d73a2779654d85b28542c495089d",
+  "listings": [],
+  "more": []
+ },
+ "https://zuskarvina.cz/kontakty/": {
+  "hash": "8a512c2b0cbaf88e06f1a3df9620411d30990966",
+  "listings": []
+ },
+ "https://zuskarvina.cz/aktuality/": {
+  "hash": "0d1a4b58ec3b164793fc95781a2dd6aa76375905",
+  "listings": [
+   {
+    "title": "referent/ka správy majetku",
+    "url": "https://zuskarvina.cz/2026/06/08/hledame-posilu-do-tymu/",
+    "place": "ZUŠ Bedřicha Smetany, Karviná",
+    "contract": "",
+    "shift": "",
+    "description": "Do našeho týmu hledáme spolehlivého kolegu / spolehlivou kolegyni na pozici referent/ka správy majetku."
    }
   ],
   "more": []
