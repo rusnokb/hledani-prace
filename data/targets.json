@@ -1,0 +1,8558 @@
+[
+ {
+  "id": "04635663",
+  "ico": "04635663",
+  "name": "BAJUSZ, s.r.o.",
+  "kind": "firma",
+  "place": "Bystřice",
+  "km": 4.1,
+  "polish": false,
+  "website": "https://www.bajusz.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25855247",
+  "ico": "25855247",
+  "name": "BERNDORF BÄDERBAU s.r.o.",
+  "kind": "firma",
+  "place": "Bystřice",
+  "km": 4.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "48398233",
+  "ico": "48398233",
+  "name": "JAP INDUSTRIES s.r.o.",
+  "kind": "firma",
+  "place": "Bystřice",
+  "km": 4.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "28574699",
+  "ico": "28574699",
+  "name": "METALSHOP.CZ, s.r.o.",
+  "kind": "firma",
+  "place": "Bystřice",
+  "km": 4.1,
+  "polish": false,
+  "website": "https://www.metalshop.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25904612",
+  "ico": "25904612",
+  "name": "MROZEK a.s.",
+  "kind": "firma",
+  "place": "Bystřice",
+  "km": 4.1,
+  "polish": false,
+  "website": "https://www.mrozek.cz/",
+  "check_urls": [
+   "https://www.mrozek.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "03619770",
+  "ico": "03619770",
+  "name": "Pickering Connect s.r.o.",
+  "kind": "firma",
+  "place": "Bystřice",
+  "km": 4.1,
+  "polish": false,
+  "website": "https://pickering.cz/",
+  "check_urls": [
+   "https://pickering.cz/prace-u-nas/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "26841398",
+  "ico": "26841398",
+  "name": "Pickering Interfaces s.r.o.",
+  "kind": "firma",
+  "place": "Bystřice",
+  "km": 4.1,
+  "polish": false,
+  "website": "https://pickering.cz/",
+  "check_urls": [
+   "https://pickering.cz/prace-u-nas/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "28602765",
+  "ico": "28602765",
+  "name": "TENIS HOTEL VITALITY, a.s.,",
+  "kind": "firma",
+  "place": "Vendryně",
+  "km": 4.7,
+  "polish": false,
+  "website": "https://www.hotelvitality.cz/",
+  "check_urls": [
+   "https://www.hotelvitality.cz/kontakty/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25871129",
+  "ico": "25871129",
+  "name": "VITALITY Slezsko, s.r.o.",
+  "kind": "firma",
+  "place": "Vendryně",
+  "km": 4.7,
+  "polish": false,
+  "website": "https://www.sportvitality.cz/",
+  "check_urls": [
+   "https://www.sportvitality.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25838938",
+  "ico": "25838938",
+  "name": "NETIS, a.s.",
+  "kind": "firma",
+  "place": "Návsí",
+  "km": 8.5,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "29314143",
+  "ico": "29314143",
+  "name": "ADOPE s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.adope.cz/",
+  "check_urls": [
+   "https://www.adope.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25870084",
+  "ico": "25870084",
+  "name": "AKVAHELP METAL spol. s r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://akvahelp.cz/cs/",
+  "check_urls": [
+   "https://akvahelp.cz/cs/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25354566",
+  "ico": "25354566",
+  "name": "AUTEL, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.autel.cz/",
+  "check_urls": [
+   "https://www.autel.cz/o-spolecnosti/volna-mista/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25886517",
+  "ico": "25886517",
+  "name": "Alergomed s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.alergomed.cz/",
+  "check_urls": [
+   "https://www.alergomed.cz/nabidka-zamestnani"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "03589277",
+  "ico": "03589277",
+  "name": "BeePartner a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://beepartner.cz/",
+  "check_urls": [
+   "https://beepartner.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "05307902",
+  "ico": "05307902",
+  "name": "Build Synergy s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.buildsynergy.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "42766923",
+  "ico": "42766923",
+  "name": "COR MOS spol. s r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27799492",
+  "ico": "27799492",
+  "name": "DONGWON CZ, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.dwmic.cz/webmail/login/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "27815099",
+  "ico": "27815099",
+  "name": "Daechang Seat s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.godsc.cz/",
+  "check_urls": [
+   "https://www.godsc.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "47675896",
+  "ico": "47675896",
+  "name": "ENERGETIKA TŘINEC, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25855344",
+  "ico": "25855344",
+  "name": "ENEZA, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.eneza.cz/",
+  "check_urls": [
+   "https://www.eneza.cz/kariera/",
+   "https://www.eneza.cz/kariera/volna-mista/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25839047",
+  "ico": "25839047",
+  "name": "ENVIFORM a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.enviform.cz/",
+  "check_urls": [
+   "https://www.enviform.cz/category/nabidka-zamestnani/",
+   "https://www.enviform.cz/2026/07/21/nabidka-zamestnani-zkusebni-technik-8/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "17711118",
+  "ico": "17711118",
+  "name": "GASTRO - MENU EXPRESS a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://gastromenu.cz/",
+  "check_urls": [
+   "https://gastromenu.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "03582345",
+  "ico": "03582345",
+  "name": "GEASTAV s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25841599",
+  "ico": "25841599",
+  "name": "HOCKEY CLUB OCELÁŘI TŘINEC, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.hcocelari.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "28618891",
+  "ico": "28618891",
+  "name": "IPS Třinec, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.ips-trinec.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "26784696",
+  "ico": "26784696",
+  "name": "ISMM & PressMetal s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.pressmetal.cz/",
+  "check_urls": [
+   "https://www.pressmetal.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25854836",
+  "ico": "25854836",
+  "name": "JELMARK, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25831429",
+  "ico": "25831429",
+  "name": "JUR Trans, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.jurtrans.cz/",
+  "check_urls": [
+   "https://www.jurtrans.cz/kariera"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26796228",
+  "ico": "26796228",
+  "name": "KARIREAL a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.karireal.cz/",
+  "check_urls": [
+   "https://www.karireal.cz/cs/kariera"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25860984",
+  "ico": "25860984",
+  "name": "KERN s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25864025",
+  "ico": "25864025",
+  "name": "KOHUT Třinec s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.kohut.cz/",
+  "check_urls": [
+   "https://www.kohut.cz/prace/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25861948",
+  "ico": "25861948",
+  "name": "KOVO Třinec s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.kovotrinec.cz/",
+  "check_urls": [
+   "https://www.kovotrinec.cz/volna-mista/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25911988",
+  "ico": "25911988",
+  "name": "KOVOMETAL-KS, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25897250",
+  "ico": "25897250",
+  "name": "Klimaprodukt, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.klimaprodukt.cz/",
+  "check_urls": [
+   "https://www.klimaprodukt.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "28562798",
+  "ico": "28562798",
+  "name": "Kovopol Industry, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.kovopol-industry.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "01881621",
+  "ico": "01881621",
+  "name": "MALÉ ZDRAVÍ a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.malezdravi.cz/",
+  "check_urls": [
+   "https://www.malezdravi.cz/cz/7/kariera",
+   "https://www.malezdravi.cz/nabidka-zamestnani"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26841304",
+  "ico": "26841304",
+  "name": "MEPAC CZ, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.mepac.cz/",
+  "check_urls": [
+   "https://www.mepac.cz/spolecnost/nabidka-prace/",
+   "https://www.mepac.cz/spolecnost/nabidka-prace/nabidka-prace-trinec/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "07652046",
+  "ico": "07652046",
+  "name": "MILKEFFEKT, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://milkeffekt.cz/",
+  "check_urls": [
+   "https://milkeffekt.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27798941",
+  "ico": "27798941",
+  "name": "MOJE AMBULANCE a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.mojeambulance.cz/",
+  "check_urls": [
+   "https://www.mojeambulance.cz/nabidka-zamestnani/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "63474808",
+  "ico": "63474808",
+  "name": "MORAVIA STEEL a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "23535032",
+  "ico": "23535032",
+  "name": "Michal Šál, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "41057155",
+  "ico": "41057155",
+  "name": "Milan Ligocki",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27835481",
+  "ico": "27835481",
+  "name": "Moravia Security, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.moraviasecurity.cz/",
+  "check_urls": [
+   "https://www.moraviasecurity.cz/volna-mista/",
+   "https://www.moraviasecurity.cz/clanek/nabidka-zamestnani/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "48401129",
+  "ico": "48401129",
+  "name": "Nemocnice AGEL Třinec-Podlesí a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "28569890",
+  "ico": "28569890",
+  "name": "Pickering Electronics s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://pickering.cz/",
+  "check_urls": [
+   "https://pickering.cz/prace-u-nas/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48395862",
+  "ico": "48395862",
+  "name": "REFRASIL, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "27802736",
+  "ico": "27802736",
+  "name": "RH elektro s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://rhelektro.com/",
+  "check_urls": [
+   "https://rhelektro.com/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "28568877",
+  "ico": "28568877",
+  "name": "SENIOR DOMY POHODA a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.ecpohoda.cz/",
+  "check_urls": [
+   "https://www.ecpohoda.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25355996",
+  "ico": "25355996",
+  "name": "SMOLO CZ, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.smolo.cz/",
+  "check_urls": [
+   "https://www.smolo.cz/kariera/",
+   "https://www.smolo.cz/kariera/stavbyvedouci-2/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "04606884",
+  "ico": "04606884",
+  "name": "SMOLO Recycling s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.smolo.cz/",
+  "check_urls": [
+   "https://www.smolo.cz/kariera/",
+   "https://www.smolo.cz/kariera/stavbyvedouci-2/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27841111",
+  "ico": "27841111",
+  "name": "STEEL RING TŘINEC s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.steelring.cz/",
+  "check_urls": [
+   "https://www.steelring.cz/nabidkyprace/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "19010567",
+  "ico": "19010567",
+  "name": "STEELTEC CZ, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.steeltec.cz/",
+  "check_urls": [
+   "https://www.steeltec.cz/kariera/",
+   "https://www.steeltec.cz/kariera/co-nabizime/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25830716",
+  "ico": "25830716",
+  "name": "Slévárny Třinec, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.trz.cz/",
+  "check_urls": [
+   "https://www.trz.cz/o-nas/vyberova-rizeni/",
+   "https://www.trz.cz/o-nas/vyberova-rizeni"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00051560",
+  "ico": "00051560",
+  "name": "Stavební bytové družstvo Třinec",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "47674539",
+  "ico": "47674539",
+  "name": "Strojírny a stavby Třinec, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.trz.cz/",
+  "check_urls": [
+   "https://www.trz.cz/o-nas/vyberova-rizeni/",
+   "https://www.trz.cz/o-nas/vyberova-rizeni"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "27805484",
+  "ico": "27805484",
+  "name": "TOS SECURITY, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.tossecurity.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "48390372",
+  "ico": "48390372",
+  "name": "TRITREG - TŘINEC, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "07441177",
+  "ico": "07441177",
+  "name": "Transport TSL s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "08703272",
+  "ico": "08703272",
+  "name": "Trimag-stav s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "18050646",
+  "ico": "18050646",
+  "name": "TŘINECKÉ ŽELEZÁRNY, a. s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.trz.cz/",
+  "check_urls": [
+   "https://www.trz.cz/o-nas/vyberova-rizeni/",
+   "https://www.trz.cz/o-nas/vyberova-rizeni"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25838148",
+  "ico": "25838148",
+  "name": "Třinecké gastroslužby, s.r.o.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.gastrosluzby.cz/",
+  "check_urls": [
+   "https://www.gastrosluzby.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "45192847",
+  "ico": "45192847",
+  "name": "VESUVIUS ČESKÁ REPUBLIKA, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "00536016",
+  "ico": "00536016",
+  "name": "WALMARK, a.s.",
+  "kind": "firma",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.walmark.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26520923",
+  "ico": "26520923",
+  "name": "Charita Jablunkov",
+  "kind": "firma",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "https://jablunkov.charita.cz/",
+  "check_urls": [
+   "https://jablunkov.charita.cz/aktualne/volna-mista/",
+   "https://jablunkov.charita.cz/aktualne/volna-mista/pecovatel-ka-v-charitni-pecovatelske-sluzbe/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00494330",
+  "ico": "00494330",
+  "name": "Konvent sester alžbětinek v Jablunkově",
+  "kind": "firma",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25372611",
+  "ico": "25372611",
+  "name": "LEXONA s.r.o.",
+  "kind": "firma",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "https://lexona.cz/",
+  "check_urls": [
+   "https://lexona.cz/kariera/",
+   "http://lexona.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "61944122",
+  "ico": "61944122",
+  "name": "OLZA, spol. s r.o.",
+  "kind": "firma",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "29463637",
+  "ico": "29463637",
+  "name": "RespoNET s.r.o.",
+  "kind": "firma",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "https://www.responet.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26824213",
+  "ico": "26824213",
+  "name": "SGM Route, a.s.",
+  "kind": "firma",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27835545",
+  "ico": "27835545",
+  "name": "Sanatorium Jablunkov, a.s.",
+  "kind": "firma",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26788357",
+  "ico": "26788357",
+  "name": "WINNER GROUP-WG, s.r.o.",
+  "kind": "firma",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25839667",
+  "ico": "25839667",
+  "name": "AC Steel a.s.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.acsteel.cz/",
+  "check_urls": [
+   "https://www.acsteel.cz/o-spolecnosti/kariera/index.html"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "03730689",
+  "ico": "03730689",
+  "name": "Aga24, s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.aga24.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00489778",
+  "ico": "00489778",
+  "name": "Apoštolská církev",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27797252",
+  "ico": "27797252",
+  "name": "Barny team, s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://barnyteam.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00032387",
+  "ico": "00032387",
+  "name": "COOP Beskydy, spotřební družstvo",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.coopbeskydy.cz/",
+  "check_urls": [
+   "https://www.coopbeskydy.cz/zamestnani/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60337842",
+  "ico": "60337842",
+  "name": "Charita Český Těšín",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://ceskytesin.charita.cz/",
+  "check_urls": [
+   "https://ceskytesin.charita.cz/volna-mista/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "27793117",
+  "ico": "27793117",
+  "name": "DONGHEE Czech s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.donghee.cz/",
+  "check_urls": [
+   "https://www.donghee.cz/career/offer/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "09686819",
+  "ico": "09686819",
+  "name": "DeLu WORK s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://deluwork.cz/",
+  "check_urls": [
+   "https://deluwork.cz/nabidky-prace/",
+   "https://deluwork.cz/job/delnik-ve-strojirenske-vyrobe-rychvald/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27370046",
+  "ico": "27370046",
+  "name": "Distrimed s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.distrimed.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26640899",
+  "ico": "26640899",
+  "name": "Ergon - sociální podnik, z.s.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "60778172",
+  "ico": "60778172",
+  "name": "FINIDR, s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.finidr.cz/",
+  "check_urls": [
+   "https://www.finidr.cz/kariera",
+   "https://www.finidr.cz/kariera/ocima-nasich-zamestnancu/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "63322447",
+  "ico": "63322447",
+  "name": "Garsys, s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25855646",
+  "ico": "25855646",
+  "name": "KOVONA SYSTEM, a.s.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://kovona.cz/",
+  "check_urls": [
+   "https://kovona.cz/kariera/",
+   "https://kovona.cz/job/konstrukter-nastroju/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25394282",
+  "ico": "25394282",
+  "name": "MEROPS spol. s r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.merops.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "28605284",
+  "ico": "28605284",
+  "name": "MFL Group s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.mfl-group.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "27821901",
+  "ico": "27821901",
+  "name": "NUBIRUM s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.nubirum.cz/",
+  "check_urls": [
+   "https://www.nubirum.cz/hledam-praci/volna-mista/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25897551",
+  "ico": "25897551",
+  "name": "Nemocnice AGEL Český Těšín a.s.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27872092",
+  "ico": "27872092",
+  "name": "PHA Czech s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "06017177",
+  "ico": "06017177",
+  "name": "R&T Limited s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "04848667",
+  "ico": "04848667",
+  "name": "STAVORENOL STAVEBNÍ s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.stavorenol.cz/",
+  "check_urls": [
+   "https://www.stavorenol.cz/profil-spolecnosti"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00445312",
+  "ico": "00445312",
+  "name": "Slezská církev evangelická augsburského vyznání",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.sceav.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "65468562",
+  "ico": "65468562",
+  "name": "Slezská diakonie",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.slezskadiakonie.cz/",
+  "check_urls": [
+   "https://www.slezskadiakonie.cz/kariera/",
+   "https://www.slezskadiakonie.cz/kariera/nabidka-volnych-pracovnich-mist/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "07329709",
+  "ico": "07329709",
+  "name": "Slezské uzeniny, s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00398675",
+  "ico": "00398675",
+  "name": "Stavební bytové družstvo Těšíňan",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "07329695",
+  "ico": "07329695",
+  "name": "Těšínské jatky, s. r. o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "05931037",
+  "ico": "05931037",
+  "name": "Well Well Potraviny s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://well-well.eu/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "01503057",
+  "ico": "01503057",
+  "name": "olzalogistic.com, s.r.o.",
+  "kind": "firma",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.olzalogistic.com/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "07527624",
+  "ico": "07527624",
+  "name": "Elpro-Energo Transformers s.r.o.",
+  "kind": "firma",
+  "place": "Hnojník",
+  "km": 16.1,
+  "polish": false,
+  "website": "https://www.czechtrafo.cz/",
+  "check_urls": [
+   "https://www.czechtrafo.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "64085741",
+  "ico": "64085741",
+  "name": "Optimont 2000 s.r.o.",
+  "kind": "firma",
+  "place": "Hnojník",
+  "km": 16.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "07684754",
+  "ico": "07684754",
+  "name": "Hotel Grůň Mosty u Jablunkova s.r.o.",
+  "kind": "firma",
+  "place": "Mosty u Jablunkova",
+  "km": 16.3,
+  "polish": false,
+  "website": "https://www.hotelgrun.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26797500",
+  "ico": "26797500",
+  "name": "MAFLEX-CZ s.r.o.",
+  "kind": "firma",
+  "place": "Mosty u Jablunkova",
+  "km": 16.3,
+  "polish": false,
+  "website": "https://www.maflex.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25816811",
+  "ico": "25816811",
+  "name": "SPETRA CZ s.r.o.",
+  "kind": "firma",
+  "place": "Třanovice",
+  "km": 17.5,
+  "polish": false,
+  "website": "https://www.spetra.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25822632",
+  "ico": "25822632",
+  "name": "Vitakraft CHOVEX s.r.o.",
+  "kind": "firma",
+  "place": "Třanovice",
+  "km": 17.5,
+  "polish": false,
+  "website": "https://www.vitakraft.com/cz/cs/",
+  "check_urls": [
+   "https://www.vitakraft.com/cz/cs/kariera"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "49610651",
+  "ico": "49610651",
+  "name": "TOZOS spol. s r.o.",
+  "kind": "firma",
+  "place": "Dolní Tošanovice",
+  "km": 19.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "07174357",
+  "ico": "07174357",
+  "name": "DZR Pohoda, z. ú.",
+  "kind": "firma",
+  "place": "Dolní Domaslavice",
+  "km": 20.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "03997804",
+  "ico": "03997804",
+  "name": "Conspiro qua, s.r.o.",
+  "kind": "firma",
+  "place": "Těrlicko",
+  "km": 20.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "04549333",
+  "ico": "04549333",
+  "name": "BUNOTUX CORPORATION s.r.o.",
+  "kind": "firma",
+  "place": "Albrechtice",
+  "km": 21.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "05031711",
+  "ico": "05031711",
+  "name": "ČistéDřevo s.r.o.",
+  "kind": "firma",
+  "place": "Albrechtice",
+  "km": 21.3,
+  "polish": false,
+  "website": "https://www.cistedrevo.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "01741861",
+  "ico": "01741861",
+  "name": "HYUNDAI ENGINEERING CZECH s.r.o.",
+  "kind": "firma",
+  "place": "Nižní Lhoty",
+  "km": 22.7,
+  "polish": false,
+  "website": "https://hec-czech.cz/",
+  "check_urls": [
+   "https://hec-czech.cz/volna-mista/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "27773035",
+  "ico": "27773035",
+  "name": "Hyundai Motor Manufacturing Czech s.r.o.",
+  "kind": "firma",
+  "place": "Nižní Lhoty",
+  "km": 22.7,
+  "polish": false,
+  "website": "https://www.hyundai-motor.cz/",
+  "check_urls": [
+   "https://www.hyundai-motor.cz/kariera/",
+   "https://www.kariera-hyundai.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "09276181",
+  "ico": "09276181",
+  "name": "Adámkova vila, Domov se zvláštním režimem, z. ú.",
+  "kind": "firma",
+  "place": "Raškovice",
+  "km": 22.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27094308",
+  "ico": "27094308",
+  "name": "Saft Ferak a.s.",
+  "kind": "firma",
+  "place": "Raškovice",
+  "km": 22.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "05979277",
+  "ico": "05979277",
+  "name": "OKD, a.s.",
+  "kind": "firma",
+  "place": "Stonava",
+  "km": 23.3,
+  "polish": false,
+  "website": "https://www.okd.cz/",
+  "check_urls": [
+   "https://www.okd.cz/prace-v-okd/volna-pracovni-mista/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "27801659",
+  "ico": "27801659",
+  "name": "Hyundai Steel Czech s.r.o.",
+  "kind": "firma",
+  "place": "Nošovice",
+  "km": 23.5,
+  "polish": false,
+  "website": "https://www.hyundai-steel.com/kr",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "27786161",
+  "ico": "27786161",
+  "name": "Hyundai Transys Czech, s.r.o.",
+  "kind": "firma",
+  "place": "Nošovice",
+  "km": 23.5,
+  "polish": false,
+  "website": "https://www.hyundai-transys.com/ko/main.do",
+  "check_urls": [
+   "https://www.hyundai-transys.com/ko/careers/jobs.do",
+   "https://www.hyundai-transys.com/ko/careers/story.do"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "27786269",
+  "ico": "27786269",
+  "name": "Mobis Automotive Czech s.r.o.",
+  "kind": "firma",
+  "place": "Nošovice",
+  "km": 23.5,
+  "polish": false,
+  "website": "https://mobis.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "47673222",
+  "ico": "47673222",
+  "name": "Zemědělské družstvo vlastníků Nošovice",
+  "kind": "firma",
+  "place": "Nošovice",
+  "km": 23.5,
+  "polish": false,
+  "website": "https://www.zdvnosovice.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "47902744",
+  "ico": "47902744",
+  "name": "AK 1324, s.r.o.",
+  "kind": "firma",
+  "place": "Krásná",
+  "km": 24.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "47677287",
+  "ico": "47677287",
+  "name": "Depos Horní Suchá, a.s.",
+  "kind": "firma",
+  "place": "Horní Suchá",
+  "km": 25.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "48399116",
+  "ico": "48399116",
+  "name": "KATEK Czech Republic s.r.o.",
+  "kind": "firma",
+  "place": "Horní Suchá",
+  "km": 25.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "60320371",
+  "ico": "60320371",
+  "name": "Lichtgitter CZ spol. s r. o.",
+  "kind": "firma",
+  "place": "Horní Suchá",
+  "km": 25.0,
+  "polish": false,
+  "website": "https://www.lichtgitter.cz/",
+  "check_urls": [
+   "https://www.lichtgitter.cz/kariera/",
+   "https://www.lichtgitter.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25872702",
+  "ico": "25872702",
+  "name": "METCOMP CZECH s.r.o.",
+  "kind": "firma",
+  "place": "Horní Suchá",
+  "km": 25.0,
+  "polish": false,
+  "website": "https://metcomp.cz/",
+  "check_urls": [
+   "https://metcomp.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "28623282",
+  "ico": "28623282",
+  "name": "Prádelna Lotos s.r.o.",
+  "kind": "firma",
+  "place": "Horní Suchá",
+  "km": 25.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27789080",
+  "ico": "27789080",
+  "name": "TRAFIN OIL, a.s.",
+  "kind": "firma",
+  "place": "Horní Suchá",
+  "km": 25.0,
+  "polish": false,
+  "website": "https://www.trafinoil.cz/",
+  "check_urls": [
+   "https://www.trafinoil.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27768953",
+  "ico": "27768953",
+  "name": "VÚHŽ a.s.",
+  "kind": "firma",
+  "place": "Dobrá",
+  "km": 25.5,
+  "polish": false,
+  "website": "https://www.vuhz.cz/",
+  "check_urls": [
+   "https://www.vuhz.cz/kariera",
+   "https://www.vuhz.cz/kariera/co-nabizime"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "27836797",
+  "ico": "27836797",
+  "name": "ALADIS služby s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://cosas.cz/",
+  "check_urls": [
+   "https://cosas.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "47672781",
+  "ico": "47672781",
+  "name": "ArcelorMittal Tubular Products Karviná a.s.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "47670860",
+  "ico": "47670860",
+  "name": "BYTservis - služby, spol. s r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.bskarvina.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "27424481",
+  "ico": "27424481",
+  "name": "Baumann Springs s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.baumann-group.com/",
+  "check_urls": [
+   "https://www.baumann-group.com/career",
+   "https://www.baumann-group.com/career/open-positions"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25853180",
+  "ico": "25853180",
+  "name": "CARBOKOV s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "65141458",
+  "ico": "65141458",
+  "name": "CZECH PLASTIC PRODUCTION, s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "09020403",
+  "ico": "09020403",
+  "name": "Chachar Karviná s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "29395917",
+  "ico": "29395917",
+  "name": "DEFENDIT CORDIS s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.defendit.cz/",
+  "check_urls": [
+   "https://www.defendit.cz/zamestnani/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "02496470",
+  "ico": "02496470",
+  "name": "Domov Alzheimer Darkov z.ú.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "24124818",
+  "ico": "24124818",
+  "name": "GS Caltex Czech, s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.gscaltex.cz/",
+  "check_urls": [
+   "https://www.gscaltex.cz/proc-pracovat-u-nas/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "26866439",
+  "ico": "26866439",
+  "name": "Gates Hydraulics s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.gates.com/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "46576568",
+  "ico": "46576568",
+  "name": "LAMA Plus s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.lama.cz/nelogin/index.php",
+  "check_urls": [
+   "https://lama.cz/kariera/",
+   "https://www.lama.cz/nelogin/index.php"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62362313",
+  "ico": "62362313",
+  "name": "LIFT COMPONENTS s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "61974935",
+  "ico": "61974935",
+  "name": "Lázně Darkov, a.s.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.laznedarkov.cz/",
+  "check_urls": [
+   "https://www.laznedarkov.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "27834425",
+  "ico": "27834425",
+  "name": "MANLOMKA s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://manlomka.cz/",
+  "check_urls": [
+   "https://manlomka.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "01390431",
+  "ico": "01390431",
+  "name": "MaAnBa Plus s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26850923",
+  "ico": "26850923",
+  "name": "MaAnBa s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.maanba.cz/",
+  "check_urls": [
+   "https://www.maanba.cz/nabidka-prace-2"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25886665",
+  "ico": "25886665",
+  "name": "Mölnlycke Health Care Klinipro s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.molnlycke.com/cs-cz/",
+  "check_urls": [
+   "https://www.molnlycke.com/cs-cz/careers/",
+   "https://www.molnlycke.com/cs-cz/search/?q=Kariéra"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "02948231",
+  "ico": "02948231",
+  "name": "Mölnlycke Health Care ProcedurePak s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.molnlycke.com/cs-cz/",
+  "check_urls": [
+   "https://www.molnlycke.com/cs-cz/careers/",
+   "https://www.molnlycke.com/cs-cz/search/?q=Kariéra"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "60793490",
+  "ico": "60793490",
+  "name": "Nemocnice AGEL Karviná a.s.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25827766",
+  "ico": "25827766",
+  "name": "POLYTEX COMPOSITE, s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.polytex.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "47678526",
+  "ico": "47678526",
+  "name": "RON Software, spol. s r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "44917899",
+  "ico": "44917899",
+  "name": "Richard Balcar",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25825691",
+  "ico": "25825691",
+  "name": "SAPLER a.s.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.sapler.cz/",
+  "check_urls": [
+   "https://www.sapler.cz/kariera"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27607631",
+  "ico": "27607631",
+  "name": "SJG CZECH s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.sjcz.cz/",
+  "check_urls": [
+   "https://www.sjcz.cz/volna-mista-sjg/",
+   "https://www.sjcz.cz/volna-mista-sjg"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "42864917",
+  "ico": "42864917",
+  "name": "SLEZSKÁ HUMANITA, obecně prospěšná společnost",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://slezskahumanita.cz/",
+  "check_urls": [
+   "https://slezskahumanita.cz/reditelstvi_volna_pracovni_mista"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "07474814",
+  "ico": "07474814",
+  "name": "STOW Karviná, s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25857444",
+  "ico": "25857444",
+  "name": "STaRS Karviná, s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://stars-karvina.cz/",
+  "check_urls": [
+   "https://stars-karvina.cz/o-nas/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "03535240",
+  "ico": "03535240",
+  "name": "SUNIX SAFE LIFE s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25875701",
+  "ico": "25875701",
+  "name": "Shimano Czech Republic, s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.shimano.com:443/en/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00052159",
+  "ico": "00052159",
+  "name": "Stavební bytové družstvo DRUBYD",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "http://www.drubyd.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "65138082",
+  "ico": "65138082",
+  "name": "Technické služby Karviná, a.s.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "27511511",
+  "ico": "27511511",
+  "name": "ČOS - Speciální servis s.r.o.",
+  "kind": "firma",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://cosas.cz/",
+  "check_urls": [
+   "https://cosas.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "64610047",
+  "ico": "64610047",
+  "name": "Frýdlantská zemědělská a.s.",
+  "kind": "firma",
+  "place": "Janovice",
+  "km": 26.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "48396133",
+  "ico": "48396133",
+  "name": "Technomont Frýdek-Místek s.r.o.",
+  "kind": "firma",
+  "place": "Janovice",
+  "km": 26.3,
+  "polish": false,
+  "website": "https://www.technomont.cz/",
+  "check_urls": [
+   "https://www.technomont.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "26830604",
+  "ico": "26830604",
+  "name": "Adas Security Group, s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.adas.cz/",
+  "check_urls": [
+   "https://www.adas.cz/cz/kontakt/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25385224",
+  "ico": "25385224",
+  "name": "ERPEKO, a.s.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.erpeko.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "28643941",
+  "ico": "28643941",
+  "name": "EXPRES ÚKLID s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "09972561",
+  "ico": "09972561",
+  "name": "Faceing MEET YOUR VISION s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "06339743",
+  "ico": "06339743",
+  "name": "Filip Szturc",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "46578021",
+  "ico": "46578021",
+  "name": "GASCONTROL, společnost s r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "61974706",
+  "ico": "61974706",
+  "name": "Havířovská teplárenská společnost, a.s.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "27785297",
+  "ico": "27785297",
+  "name": "JUDDY BAGETY, s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://juddybagety.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "12136735",
+  "ico": "12136735",
+  "name": "Josef Adamek",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27773981",
+  "ico": "27773981",
+  "name": "Lékařský servis, a.s.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "19334290",
+  "ico": "19334290",
+  "name": "MONVIA MORAVA, a.s.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.monviamorava.cz/",
+  "check_urls": [
+   "https://www.monviamorava.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "27766659",
+  "ico": "27766659",
+  "name": "Medplus s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.medplus.cz/",
+  "check_urls": [
+   "https://www.medplus.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "64084744",
+  "ico": "64084744",
+  "name": "Městská realitní agentura, s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25862731",
+  "ico": "25862731",
+  "name": "NAM system, a.s.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://nam.cz/",
+  "check_urls": [
+   "https://nam.cz/career",
+   "https://nam.cz/career/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25815288",
+  "ico": "25815288",
+  "name": "NBS Invest, a.s.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://nbsinvest.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27773493",
+  "ico": "27773493",
+  "name": "PONPOL, s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25385534",
+  "ico": "25385534",
+  "name": "Restaurace Radnice Havířov, s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.restauraceradnicehavirov.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "43962394",
+  "ico": "43962394",
+  "name": "SEMAG spol. s r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.semag.cz/",
+  "check_urls": [
+   "https://www.semag.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "61943690",
+  "ico": "61943690",
+  "name": "STERIWUND spol. s r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "02402106",
+  "ico": "02402106",
+  "name": "Sanatorium Kochova s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://sanatoriumkochova.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "00415227",
+  "ico": "00415227",
+  "name": "Stavební bytové družstvo Havířov",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://sbdhavirov.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25375601",
+  "ico": "25375601",
+  "name": "Technické služby Havířov a.s.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "45192081",
+  "ico": "45192081",
+  "name": "Transdev Slezsko a.s.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.transdev.com/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "26845148",
+  "ico": "26845148",
+  "name": "VINAMET CZ s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://vinamet.cz/",
+  "check_urls": [
+   "https://vinamet.cz/kariera-2/",
+   "https://vinamet.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "08365750",
+  "ico": "08365750",
+  "name": "WB Trim Czech, s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27843009",
+  "ico": "27843009",
+  "name": "YURA Corporation Czech, s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27834395",
+  "ico": "27834395",
+  "name": "Zámecký dvůr s.r.o.",
+  "kind": "firma",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "14077868",
+  "ico": "14077868",
+  "name": "Events CZ/SK s.r.o.",
+  "kind": "firma",
+  "place": "Staré Město",
+  "km": 28.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "14613221",
+  "ico": "14613221",
+  "name": "GTB GROUP, s.r.o.",
+  "kind": "firma",
+  "place": "Staré Město",
+  "km": 28.1,
+  "polish": false,
+  "website": "https://www.uniscool.cz/",
+  "check_urls": [
+   "https://www.uniscool.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25367625",
+  "ico": "25367625",
+  "name": "Motor Lučina spol. s r.o.",
+  "kind": "firma",
+  "place": "Staré Město",
+  "km": 28.1,
+  "polish": false,
+  "website": "https://motorlucina.cz/cs",
+  "check_urls": [
+   "https://motorlucina.cz/cs/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "28622782",
+  "ico": "28622782",
+  "name": "TopCNC s.r.o.",
+  "kind": "firma",
+  "place": "Staré Město",
+  "km": 28.1,
+  "polish": false,
+  "website": "https://www.topcnc.cz/",
+  "check_urls": [
+   "https://www.topcnc.cz/kariera"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25823817",
+  "ico": "25823817",
+  "name": "UNIS COOL, s.r.o.",
+  "kind": "firma",
+  "place": "Staré Město",
+  "km": 28.1,
+  "polish": false,
+  "website": "https://www.uniscool.cz/",
+  "check_urls": [
+   "https://www.uniscool.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27784487",
+  "ico": "27784487",
+  "name": "GMC tech s.r.o.",
+  "kind": "firma",
+  "place": "Baška",
+  "km": 29.2,
+  "polish": false,
+  "website": "https://www.gmctech.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "29391920",
+  "ico": "29391920",
+  "name": "NaniNails s.r.o.",
+  "kind": "firma",
+  "place": "Baška",
+  "km": 29.2,
+  "polish": false,
+  "website": "https://www.naninails.cz/",
+  "check_urls": [
+   "https://www.naninails.cz/o-nas/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25392221",
+  "ico": "25392221",
+  "name": "THERMA FM, s.r.o.",
+  "kind": "firma",
+  "place": "Pržno",
+  "km": 29.2,
+  "polish": false,
+  "website": "https://www.thermafm.cz/",
+  "check_urls": [
+   "https://www.thermafm.cz/nabidka-prace/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27835731",
+  "ico": "27835731",
+  "name": "HAST GROUP s.r.o.",
+  "kind": "firma",
+  "place": "Václavovice",
+  "km": 29.8,
+  "polish": false,
+  "website": "https://www.hastgroup.cz/",
+  "check_urls": [
+   "https://www.hastgroup.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26797810",
+  "ico": "26797810",
+  "name": "ANAJ Czech, a.s.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://anaj.cz/",
+  "check_urls": [
+   "https://anaj.cz/kariera/volne-pozice/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27764052",
+  "ico": "27764052",
+  "name": "BATZ CZECH, s.r.o.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26877635",
+  "ico": "26877635",
+  "name": "Balance Outdoor s.r.o.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "42868394",
+  "ico": "42868394",
+  "name": "Beskyd spol. s r.o.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "http://www.slevarnabeskyd.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25861832",
+  "ico": "25861832",
+  "name": "FERRCOMP, a. s.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://ferrcomp.cz/",
+  "check_urls": [
+   "https://ferrcomp.cz/kariera/",
+   "https://ferrcomp.cz/nabidka-prace-lakyrnik-kovu-ferrcomp-frydlant-nad-ostravici/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48400751",
+  "ico": "48400751",
+  "name": "FERRIT s.r.o.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25843371",
+  "ico": "25843371",
+  "name": "GIFF a.s.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://giff.cz/",
+  "check_urls": [
+   "https://giff.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "28570987",
+  "ico": "28570987",
+  "name": "GLOBAL SPORT ČUPA s.r.o.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://www.global-sport.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "14613794",
+  "ico": "14613794",
+  "name": "ING corporation, spol. s r.o.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "04496833",
+  "ico": "04496833",
+  "name": "Juta Agency s.r.o.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "66932840",
+  "ico": "66932840",
+  "name": "Křesťanská akademie mladých, z.s.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "28565860",
+  "ico": "28565860",
+  "name": "LAKUM - GALMA a.s.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://galma.cz/cz/",
+  "check_urls": [
+   "https://galma.cz/cz/kariera",
+   "https://galma.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25390538",
+  "ico": "25390538",
+  "name": "LAKUM - KTL, a.s.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://lakum.cz/cz/",
+  "check_urls": [
+   "https://lakum.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25397893",
+  "ico": "25397893",
+  "name": "Sky Paragliders a.s.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://sky-cz.com/",
+  "check_urls": [
+   "http://sky-cz.com/kariera"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27847799",
+  "ico": "27847799",
+  "name": "T-WOOD s.r.o.",
+  "kind": "firma",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://www.t-wood.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25398075",
+  "ico": "25398075",
+  "name": "Bekaert Petrovice s.r.o.",
+  "kind": "firma",
+  "place": "Petrovice u Karviné",
+  "km": 30.1,
+  "polish": false,
+  "website": "https://www.bekaert.com/",
+  "check_urls": [
+   "https://www.bekaert.com/en/careers",
+   "https://www.bekaert.com/en/careers/why-join-us"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "06014496",
+  "ico": "06014496",
+  "name": "Kremperit s.r.o.",
+  "kind": "firma",
+  "place": "Petrovice u Karviné",
+  "km": 30.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26825554",
+  "ico": "26825554",
+  "name": "Martin Kolek s.r.o.",
+  "kind": "firma",
+  "place": "Petrovice u Karviné",
+  "km": 30.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "11887109",
+  "ico": "11887109",
+  "name": "Rozumbradi, dětská skupina, z.s.",
+  "kind": "firma",
+  "place": "Petrovice u Karviné",
+  "km": 30.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "63319969",
+  "ico": "63319969",
+  "name": "SIMANDL, spol. s r.o.",
+  "kind": "firma",
+  "place": "Petrovice u Karviné",
+  "km": 30.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "06196586",
+  "ico": "06196586",
+  "name": "Zámeček Petrovice a.s.",
+  "kind": "firma",
+  "place": "Petrovice u Karviné",
+  "km": 30.1,
+  "polish": false,
+  "website": "https://zamecek-petrovice.cz/",
+  "check_urls": [
+   "https://zamecek-petrovice.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "05605202",
+  "ico": "05605202",
+  "name": "CNC Trčka s.r.o.",
+  "kind": "firma",
+  "place": "Ostravice",
+  "km": 30.3,
+  "polish": false,
+  "website": "https://www.cnctrcka.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "02141531",
+  "ico": "02141531",
+  "name": "Medela-péče o seniory o.p.s.",
+  "kind": "firma",
+  "place": "Ostravice",
+  "km": 30.3,
+  "polish": false,
+  "website": "https://medela-ops.cz/",
+  "check_urls": [
+   "https://medela-ops.cz/kariera/",
+   "https://www.jenprace.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "06871917",
+  "ico": "06871917",
+  "name": "Tatry mountain resorts CR, a.s.",
+  "kind": "firma",
+  "place": "Ostravice",
+  "km": 30.3,
+  "polish": false,
+  "website": "https://tmr.sk/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "27774368",
+  "ico": "27774368",
+  "name": "Anila s.r.o.",
+  "kind": "firma",
+  "place": "Šenov",
+  "km": 30.4,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "29381657",
+  "ico": "29381657",
+  "name": "BREBECK Composite s.r.o.",
+  "kind": "firma",
+  "place": "Šenov",
+  "km": 30.4,
+  "polish": false,
+  "website": "http://jsmebrebeck.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25881728",
+  "ico": "25881728",
+  "name": "CAPITAL REFRACTORIES s.r.o.",
+  "kind": "firma",
+  "place": "Šenov",
+  "km": 30.4,
+  "polish": false,
+  "website": "https://cz.teamio.com/",
+  "check_urls": [
+   "https://cz.teamio.com/ziskejte-dostatek-uchazecu/",
+   "https://www.jobs.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60292024",
+  "ico": "60292024",
+  "name": "David Ševčík",
+  "kind": "firma",
+  "place": "Šenov",
+  "km": 30.4,
+  "polish": false,
+  "website": "https://www.hotel-maria.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25871137",
+  "ico": "25871137",
+  "name": "K & K PNEU s.r.o.",
+  "kind": "firma",
+  "place": "Šenov",
+  "km": 30.4,
+  "polish": false,
+  "website": "https://www.rajpneu.cz/",
+  "check_urls": [
+   "https://www.rajpneu.cz/o-firma-volna-mista/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "63988186",
+  "ico": "63988186",
+  "name": "OQEMA, s.r.o.",
+  "kind": "firma",
+  "place": "Šenov",
+  "km": 30.4,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "03946100",
+  "ico": "03946100",
+  "name": "ADAMPOL CZECH s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://adampol.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "65138384",
+  "ico": "65138384",
+  "name": "ALNIA, a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "06464301",
+  "ico": "06464301",
+  "name": "Andros Pharma s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "10888560",
+  "ico": "10888560",
+  "name": "Artalo design s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.artalo.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "19014856",
+  "ico": "19014856",
+  "name": "Autodružstvo Frýdek - Místek",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "60321296",
+  "ico": "60321296",
+  "name": "B.PRO CZ s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://bprocz.teamio.net/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25865536",
+  "ico": "25865536",
+  "name": "BD SERVIS spol. s r. o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://raztoka.cz/",
+  "check_urls": [
+   "https://raztoka.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "26790203",
+  "ico": "26790203",
+  "name": "Beskydské uzeniny, a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.chodura.cz/",
+  "check_urls": [
+   "https://www.chodura.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "45235201",
+  "ico": "45235201",
+  "name": "Charita Frýdek - Místek",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://charitafm.cz/",
+  "check_urls": [
+   "https://charitafm.cz/volna-mista/",
+   "https://charitafm.cz/volna-mista/kontaktni-formular-prace/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "42868696",
+  "ico": "42868696",
+  "name": "D A S spol. s r. o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "61945226",
+  "ico": "61945226",
+  "name": "DEVA F-M. s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "65138091",
+  "ico": "65138091",
+  "name": "DISTEP a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "29446457",
+  "ico": "29446457",
+  "name": "Dual Borgstena Trim Czech Republic s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.borgstena.com/website/index.php",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25988531",
+  "ico": "25988531",
+  "name": "DŘEVO TRUST, a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://drevotrust.cz/cs",
+  "check_urls": [
+   "https://drevotrust.cz/cs/stranky/kariera"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25849051",
+  "ico": "25849051",
+  "name": "EKOMILK a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.ekomilk.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "17801346",
+  "ico": "17801346",
+  "name": "EWL Czech s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://ewl.com.pl/cs/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "17162581",
+  "ico": "17162581",
+  "name": "Festivalia s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "47151552",
+  "ico": "47151552",
+  "name": "Frýdecká skládka, a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://frydeckaskladka.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "04795784",
+  "ico": "04795784",
+  "name": "GO Steel a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.gosteel.cz/",
+  "check_urls": [
+   "https://www.gosteel.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26788799",
+  "ico": "26788799",
+  "name": "Gaudium Frýdek-Místek s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://senatorium.cz/gaudium",
+  "check_urls": [
+   "https://senatorium.cz/gaudium/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "47682281",
+  "ico": "47682281",
+  "name": "H. A. S. spol. s r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "27835944",
+  "ico": "27835944",
+  "name": "HM Czech, s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "http://www.hmczech.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "25825321",
+  "ico": "25825321",
+  "name": "HR systém, s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.hrsystem.cz/",
+  "check_urls": [
+   "https://www.hrsystem.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "45193584",
+  "ico": "45193584",
+  "name": "HUTNÍ PROJEKT Frýdek-Místek a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "28198638",
+  "ico": "28198638",
+  "name": "Hanwha Advanced Materials Europe, s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.hanwha.com/",
+  "check_urls": [
+   "https://www.hanwha.com/careers.do"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27805450",
+  "ico": "27805450",
+  "name": "Hyundai Glovis Czech Republic s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.glovis.net/kr/home",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25838377",
+  "ico": "25838377",
+  "name": "Inva Group a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.soudal.cz/",
+  "check_urls": [
+   "https://www.soudal.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "26798981",
+  "ico": "26798981",
+  "name": "Krevní centrum s. r. o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.krevnicentrum.cz/",
+  "check_urls": [
+   "https://www.krevnicentrum.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "45193118",
+  "ico": "45193118",
+  "name": "Lesostavby Frýdek-Místek a. s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://lesostavby.cz/",
+  "check_urls": [
+   "https://lesostavby.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "02763052",
+  "ico": "02763052",
+  "name": "Love production s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25900706",
+  "ico": "25900706",
+  "name": "MARLENKA international s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.marlenka.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "47987430",
+  "ico": "47987430",
+  "name": "MPM - QUALITY a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.mpm-quality.cz/",
+  "check_urls": [
+   "https://www.mpm-quality.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "64610080",
+  "ico": "64610080",
+  "name": "MSEM, a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "04422147",
+  "ico": "04422147",
+  "name": "NISIM Servis CZ s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "49611208",
+  "ico": "49611208",
+  "name": "NOVOGEAR, spol. s r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "00426440",
+  "ico": "00426440",
+  "name": "Oblastní spolek Českého červeného kříže Frýdek-Místek",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.cckfm.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26795221",
+  "ico": "26795221",
+  "name": "PELAN ÚČTO s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.pelanucto.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70632596",
+  "ico": "70632596",
+  "name": "Podané ruce - osobní asistence",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.podaneruce.eu/",
+  "check_urls": [
+   "https://www.podaneruce.eu/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25385127",
+  "ico": "25385127",
+  "name": "První KEY - STAV, a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "64084582",
+  "ico": "64084582",
+  "name": "SAGENA s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "21740275",
+  "ico": "21740275",
+  "name": "Shuplick crew s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26829495",
+  "ico": "26829495",
+  "name": "Sportplex Frýdek-Místek, s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://sportplex.cz/",
+  "check_urls": [
+   "https://sportplex.cz/spolecnost-sportplex/volna-pracovni-mista"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00090891",
+  "ico": "00090891",
+  "name": "Stavební bytové družstvo ve Frýdku - Místku",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25363883",
+  "ico": "25363883",
+  "name": "TECHNOSVAR a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://technosvar.com/cs/",
+  "check_urls": [
+   "https://technosvar.com/cs/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "60793716",
+  "ico": "60793716",
+  "name": "TS a.s.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "26841410",
+  "ico": "26841410",
+  "name": "VKUS-BUSTAN s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "48535478",
+  "ico": "48535478",
+  "name": "Vyncke s.r.o.",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "00031330",
+  "ico": "00031330",
+  "name": "Výrobní družstvo VKUS Frýdek-Místek",
+  "kind": "firma",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.vkusfm.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "24614289",
+  "ico": "24614289",
+  "name": "Annona s.r.o.",
+  "kind": "firma",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00052001",
+  "ico": "00052001",
+  "name": "Bytové družstvo v Orlové",
+  "kind": "firma",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://www.bdorlova.cz/",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "26849721",
+  "ico": "26849721",
+  "name": "DOMÁCÍ PÉČE SOS, spol. s r.o.",
+  "kind": "firma",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25530275",
+  "ico": "25530275",
+  "name": "ORFA, a.s.",
+  "kind": "firma",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "26847850",
+  "ico": "26847850",
+  "name": "ORLOVAN, bytové družstvo",
+  "kind": "firma",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "60793163",
+  "ico": "60793163",
+  "name": "SMO, městská akciová společnost Orlová",
+  "kind": "firma",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "29450586",
+  "ico": "29450586",
+  "name": "TorStav s.r.o.",
+  "kind": "firma",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "09207198",
+  "ico": "09207198",
+  "name": "Restaurace a penzion Pod Lipami Metylovice s.r.o.",
+  "kind": "firma",
+  "place": "Metylovice",
+  "km": 32.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "15502511",
+  "ico": "15502511",
+  "name": "ARCIMPEX s.r.o.",
+  "kind": "firma",
+  "place": "Sviadnov",
+  "km": 32.2,
+  "polish": false,
+  "website": "https://arcimpex.cz/",
+  "check_urls": [
+   "https://arcimpex.cz/kariera"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27366456",
+  "ico": "27366456",
+  "name": "ECP LOGISTIC, s.r.o.",
+  "kind": "firma",
+  "place": "Sviadnov",
+  "km": 32.2,
+  "polish": false,
+  "website": "https://www.ecplogistic.cz/",
+  "check_urls": [
+   "https://www.ecplogistic.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25370545",
+  "ico": "25370545",
+  "name": "Huisman Czech Republic s.r.o.",
+  "kind": "firma",
+  "place": "Sviadnov",
+  "km": 32.2,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27763897",
+  "ico": "27763897",
+  "name": "NETO HOLDING s.r.o.",
+  "kind": "firma",
+  "place": "Sviadnov",
+  "km": 32.2,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "47676175",
+  "ico": "47676175",
+  "name": "AWT Rekultivace a.s.",
+  "kind": "firma",
+  "place": "Petřvald",
+  "km": 32.4,
+  "polish": false,
+  "website": "https://www.awt-rekultivace.cz/cs",
+  "check_urls": [
+   "https://www.awt-rekultivace.cz/cs/o-nas/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25854232",
+  "ico": "25854232",
+  "name": "ORT - ART, s.r.o.",
+  "kind": "firma",
+  "place": "Petřvald",
+  "km": 32.4,
+  "polish": false,
+  "website": "https://ort-art.cz/",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "69572887",
+  "ico": "69572887",
+  "name": "Bc. Roman Sobocik",
+  "kind": "firma",
+  "place": "Dětmarovice",
+  "km": 32.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "07239947",
+  "ico": "07239947",
+  "name": "GUARANTEE OF LOGISTIC s.r.o.",
+  "kind": "firma",
+  "place": "Dětmarovice",
+  "km": 32.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "09056696",
+  "ico": "09056696",
+  "name": "ReindeerOIL s.r.o.",
+  "kind": "firma",
+  "place": "Dětmarovice",
+  "km": 32.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "06673465",
+  "ico": "06673465",
+  "name": "TRESTLES, a.s.",
+  "kind": "firma",
+  "place": "Dětmarovice",
+  "km": 32.7,
+  "polish": false,
+  "website": "https://trestles.cz/",
+  "check_urls": [
+   "https://trestles.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75055473",
+  "ico": "75055473",
+  "name": "Centrum sociální pomoci Třinec",
+  "kind": "instituce",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.csptrinec.cz/",
+  "check_urls": [
+   "https://www.csptrinec.cz/o-nas/kariera/",
+   "https://www.csptrinec.cz/rubriky/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00846678",
+  "ico": "00846678",
+  "name": "Knihovna Třinec",
+  "kind": "instituce",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.knihovnatrinec.cz/",
+  "check_urls": [
+   "https://www.knihovnatrinec.cz/o-knihovne/pracovni-prilezitosti/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00534242",
+  "ico": "00534242",
+  "name": "Moravskoslezská nemocnice Třinec",
+  "kind": "instituce",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00601187",
+  "ico": "00601187",
+  "name": "Městské kino Kosmos Třinec",
+  "kind": "instituce",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00600954",
+  "ico": "00600954",
+  "name": "Sociální služby města Třince",
+  "kind": "instituce",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.ssmt.cz/",
+  "check_urls": [
+   "https://www.ssmt.cz/nabidka-prace/",
+   "http://www.ssmt.cz/nabidka-prace/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00846686",
+  "ico": "00846686",
+  "name": "Správa tělovýchovných a rekreačních služeb města Třinec (STaRS)",
+  "kind": "instituce",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70985383",
+  "ico": "70985383",
+  "name": "Centrum sociálních služeb Český Těšín",
+  "kind": "instituce",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.csstesin.cz/",
+  "check_urls": [
+   "https://www.csstesin.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00417556",
+  "ico": "00417556",
+  "name": "Kulturní a společenské středisko \"Střelnice\"",
+  "kind": "instituce",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00305847",
+  "ico": "00305847",
+  "name": "Muzeum Těšínska",
+  "kind": "instituce",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.muzeumct.cz./",
+  "check_urls": [
+   "https://www.muzeumct.cz./"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "64628795",
+  "ico": "64628795",
+  "name": "Městská knihovna Český Těšín",
+  "kind": "instituce",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "75107040",
+  "ico": "75107040",
+  "name": "Správa účelových zařízení",
+  "kind": "instituce",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "00100536",
+  "ico": "00100536",
+  "name": "Těšínské divadlo Český Těšín",
+  "kind": "instituce",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00847038",
+  "ico": "00847038",
+  "name": "Integrovaný sociální ústav Komorní Lhotka čp. 184",
+  "kind": "instituce",
+  "place": "Komorní Lhotka",
+  "km": 17.2,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00847267",
+  "ico": "00847267",
+  "name": "Centrum rodinné podpory",
+  "kind": "instituce",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "48004898",
+  "ico": "48004898",
+  "name": "Dětský domov SRDCE a Školní jídelna, Karviná-Fryštát, Vydmuchov 10",
+  "kind": "instituce",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "00844853",
+  "ico": "00844853",
+  "name": "Moravskoslezská nemocnice Karviná - Ráj",
+  "kind": "instituce",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "http://www.nspka.cz/",
+  "check_urls": [
+   "http://www.nspka.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00320463",
+  "ico": "00320463",
+  "name": "Městský dům kultury Karviná",
+  "kind": "instituce",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00847330",
+  "ico": "00847330",
+  "name": "Nový domov",
+  "kind": "instituce",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00025224",
+  "ico": "00025224",
+  "name": "Okresní soud v Karviné",
+  "kind": "instituce",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00306355",
+  "ico": "00306355",
+  "name": "Regionální knihovna Karviná",
+  "kind": "instituce",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.rkka.cz/",
+  "check_urls": [
+   "https://www.rkka.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70997136",
+  "ico": "70997136",
+  "name": "Sociální služby Karviná",
+  "kind": "instituce",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "75139243",
+  "ico": "75139243",
+  "name": "Domov seniorů Havířov",
+  "kind": "instituce",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.dshavirov.cz/",
+  "check_urls": [
+   "https://www.dshavirov.cz/volna-mista"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48004774",
+  "ico": "48004774",
+  "name": "Dětský domov a Školní jídelna, Havířov-Podlesí, Čelakovského 1",
+  "kind": "instituce",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "00844896",
+  "ico": "00844896",
+  "name": "Moravskoslezská nemocnice Havířov",
+  "kind": "instituce",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00601250",
+  "ico": "00601250",
+  "name": "Městská knihovna Havířov",
+  "kind": "instituce",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00317985",
+  "ico": "00317985",
+  "name": "Městské kulturní středisko Havířov",
+  "kind": "instituce",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00847470",
+  "ico": "00847470",
+  "name": "SANTÉ - centrum ambulantních a pobytových sociálních služeb",
+  "kind": "instituce",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.sante-havirov.cz/",
+  "check_urls": [
+   "https://www.sante-havirov.cz/cs/nabidka-prace.html"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60337583",
+  "ico": "60337583",
+  "name": "Sociální služby města Havířova",
+  "kind": "instituce",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.ssmh.cz/",
+  "check_urls": [
+   "https://www.ssmh.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00306754",
+  "ico": "00306754",
+  "name": "Správa sportovních a rekreačních zařízení Havířov",
+  "kind": "instituce",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://ssrz.cz/",
+  "check_urls": [
+   "https://ssrz.cz/kariera",
+   "https://ssrz.cz/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00847046",
+  "ico": "00847046",
+  "name": "Náš svět",
+  "kind": "instituce",
+  "place": "Pržno",
+  "km": 29.2,
+  "polish": false,
+  "website": "https://www.nassvetprzno.cz/",
+  "check_urls": [
+   "https://www.nassvetprzno.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "03282724",
+  "ico": "03282724",
+  "name": "Kulturní centrum Frýdlant nad Ostravicí",
+  "kind": "instituce",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00847020",
+  "ico": "00847020",
+  "name": "Středisko sociálních služeb města Frýdlant nad Ostravicí",
+  "kind": "instituce",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://www.sssfno.cz/",
+  "check_urls": [
+   "https://www.sssfno.cz/o-nas/kariera/ ",
+   "https://www.sssfno.cz/o-nas/kariera/pracovnik-v-socialnich-sluzbach/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00562238",
+  "ico": "00562238",
+  "name": "MěPOS",
+  "kind": "instituce",
+  "place": "Šenov",
+  "km": 30.4,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "48772739",
+  "ico": "48772739",
+  "name": "Centrum pečovatelské služby Frýdek-Místek",
+  "kind": "instituce",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "68158025",
+  "ico": "68158025",
+  "name": "Domov pro seniory Frýdek-Místek",
+  "kind": "instituce",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.dsfm.cz/",
+  "check_urls": [
+   "https://www.dsfm.cz/kontakt/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "68334222",
+  "ico": "68334222",
+  "name": "Dětský domov a Školní jídelna, Frýdek-Místek",
+  "kind": "instituce",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "72046546",
+  "ico": "72046546",
+  "name": "Hospic Frýdek - Místek",
+  "kind": "instituce",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.hospicfm.cz/",
+  "check_urls": [
+   "https://www.hospicfm.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "49562461",
+  "ico": "49562461",
+  "name": "Jesle Frýdek-Místek",
+  "kind": "instituce",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "00534188",
+  "ico": "00534188",
+  "name": "Moravskoslezská nemocnice Frýdek-Místek",
+  "kind": "instituce",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.nemfm.cz/",
+  "check_urls": [
+   "https://www.nemfm.cz/kariera-a-vzdelavani/",
+   "https://www.nemfm.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00095630",
+  "ico": "00095630",
+  "name": "Muzeum Beskyd Frýdek-Místek",
+  "kind": "instituce",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.muzeumbeskyd.com/",
+  "check_urls": [
+   "https://www.muzeumbeskyd.com/sluzby/kariera/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "47999721",
+  "ico": "47999721",
+  "name": "Městská knihovna Frýdek-Místek",
+  "kind": "instituce",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "70632405",
+  "ico": "70632405",
+  "name": "Národní dům Frýdek-Místek",
+  "kind": "instituce",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "00025216",
+  "ico": "00025216",
+  "name": "Okresní soud ve Frýdku-Místku",
+  "kind": "instituce",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00847011",
+  "ico": "00847011",
+  "name": "ŽIRAFA - Integrované centrum Frýdek-Místek",
+  "kind": "instituce",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.zirafafm.cz/",
+  "check_urls": [
+   "https://www.zirafafm.cz/kariera"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75154391",
+  "ico": "75154391",
+  "name": "Domov Vesna",
+  "kind": "instituce",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "65890825",
+  "ico": "65890825",
+  "name": "Dům kultury Města Orlové",
+  "kind": "instituce",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "05547431",
+  "ico": "05547431",
+  "name": "Městský sportovní klub Orlová",
+  "kind": "instituce",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "72076674",
+  "ico": "72076674",
+  "name": "Sociální služby města Orlová",
+  "kind": "instituce",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true
+ },
+ {
+  "id": "00534200",
+  "ico": "00534200",
+  "name": "Moravskoslezské dětské sanatorium Metylovice",
+  "kind": "instituce",
+  "place": "Metylovice",
+  "km": 32.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00847461",
+  "ico": "00847461",
+  "name": "Benjamín",
+  "kind": "instituce",
+  "place": "Petřvald",
+  "km": 32.4,
+  "polish": false,
+  "website": "https://www.benjaminpetrvald.cz/",
+  "check_urls": [
+   "https://www.benjaminpetrvald.cz/?cat=15"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00847348",
+  "ico": "00847348",
+  "name": "Domov Březiny",
+  "kind": "instituce",
+  "place": "Petřvald",
+  "km": 32.4,
+  "polish": false,
+  "website": "https://domovbreziny.cz/",
+  "check_urls": [
+   "https://domovbreziny.cz/volna-pracovni-mista"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00492868",
+  "ico": "00492868",
+  "name": "Obec Nýdek",
+  "kind": "obec",
+  "place": "Nýdek",
+  "km": 2.5,
+  "polish": false,
+  "website": "https://www.nydek.cz/",
+  "check_urls": [
+   "https://www.nydek.cz/sluzby-pro-obcany/nabidka-prace/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296562",
+  "ico": "00296562",
+  "name": "Obec Bystřice",
+  "kind": "obec",
+  "place": "Bystřice",
+  "km": 4.1,
+  "polish": false,
+  "website": "https://www.bystrice.cz/",
+  "check_urls": [
+   "https://www.bystrice.cz/uvod/nabidky-prace/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "63026112",
+  "ico": "63026112",
+  "name": "Obec Vendryně",
+  "kind": "obec",
+  "place": "Vendryně",
+  "km": 4.7,
+  "polish": false,
+  "website": "https://www.vendryne.cz/",
+  "check_urls": [
+   "https://www.vendryne.cz/obec/sluzby-obce/nabidka-prace/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00535958",
+  "ico": "00535958",
+  "name": "Obec Hrádek",
+  "kind": "obec",
+  "place": "Hrádek",
+  "km": 6.3,
+  "polish": false,
+  "website": "https://obechradek.cz/",
+  "check_urls": [
+   "https://obechradek.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60781688",
+  "ico": "60781688",
+  "name": "Obec Návsí",
+  "kind": "obec",
+  "place": "Návsí",
+  "km": 8.5,
+  "polish": false,
+  "website": "https://www.navsi.cz/",
+  "check_urls": [
+   "https://www.navsi.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00297313",
+  "ico": "00297313",
+  "name": "Statutární město Třinec",
+  "kind": "obec",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.trinecko.cz/",
+  "check_urls": [
+   "https://www.trinecko.cz/volna-pracovni-mista-ve-skolstvi",
+   "https://www.trinecko.cz/vyberova-rizeni"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70632430",
+  "ico": "70632430",
+  "name": "Obec Písečná",
+  "kind": "obec",
+  "place": "Písečná",
+  "km": 10.4,
+  "polish": false,
+  "website": "https://www.obecpisecna.cz/",
+  "check_urls": [
+   "https://www.obecpisecna.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00492621",
+  "ico": "00492621",
+  "name": "Obec Milíkov",
+  "kind": "obec",
+  "place": "Milíkov",
+  "km": 10.6,
+  "polish": false,
+  "website": "http://www.obecmilikov.cz/",
+  "check_urls": [
+   "http://www.obecmilikov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296759",
+  "ico": "00296759",
+  "name": "Město Jablunkov",
+  "kind": "obec",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "https://www.jablunkov.cz/",
+  "check_urls": [
+   "https://www.jablunkov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00491845",
+  "ico": "00491845",
+  "name": "Obec Košařiska",
+  "kind": "obec",
+  "place": "Košařiska",
+  "km": 11.6,
+  "polish": false,
+  "website": "https://www.kosariska.cz/",
+  "check_urls": [
+   "https://www.kosariska.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00535982",
+  "ico": "00535982",
+  "name": "Obec Písek",
+  "kind": "obec",
+  "place": "Písek",
+  "km": 11.7,
+  "polish": false,
+  "website": "https://www.obecpisek.cz/",
+  "check_urls": [
+   "https://www.obecpisek.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00535931",
+  "ico": "00535931",
+  "name": "Obec Bocanovice",
+  "kind": "obec",
+  "place": "Bocanovice",
+  "km": 11.8,
+  "polish": false,
+  "website": "https://bocanovice.cz/",
+  "check_urls": [
+   "https://bocanovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70305587",
+  "ico": "70305587",
+  "name": "Obec Ropice",
+  "kind": "obec",
+  "place": "Ropice",
+  "km": 12.0,
+  "polish": false,
+  "website": "https://www.ropice.cz/",
+  "check_urls": [
+   "https://www.ropice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00576905",
+  "ico": "00576905",
+  "name": "Obec Smilovice",
+  "kind": "obec",
+  "place": "Smilovice",
+  "km": 14.0,
+  "polish": false,
+  "website": "https://www.smilovice.cz/",
+  "check_urls": [
+   "https://www.smilovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00576913",
+  "ico": "00576913",
+  "name": "Obec Střítež",
+  "kind": "obec",
+  "place": "Střítež",
+  "km": 14.0,
+  "polish": false,
+  "website": "https://www.obecstritez.cz/",
+  "check_urls": [
+   "https://www.obecstritez.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00576891",
+  "ico": "00576891",
+  "name": "Obec Řeka",
+  "kind": "obec",
+  "place": "Řeka",
+  "km": 14.3,
+  "polish": false,
+  "website": "https://reka.cz/",
+  "check_urls": [
+   "https://reka.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00535940",
+  "ico": "00535940",
+  "name": "Obec Bukovec",
+  "kind": "obec",
+  "place": "Bukovec",
+  "km": 14.8,
+  "polish": false,
+  "website": "https://www.bukovec.cz/",
+  "check_urls": [
+   "https://www.bukovec.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00576930",
+  "ico": "00576930",
+  "name": "Obec Vělopolí",
+  "kind": "obec",
+  "place": "Vělopolí",
+  "km": 14.8,
+  "polish": false,
+  "website": "https://www.velopoli.cz/",
+  "check_urls": [
+   "https://www.velopoli.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00297437",
+  "ico": "00297437",
+  "name": "Město Český Těšín",
+  "kind": "obec",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.tesin.cz/",
+  "check_urls": [
+   "https://www.tesin.cz/volna%2Dpracovni%2Dmista/ds-1600/archiv=0"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00535966",
+  "ico": "00535966",
+  "name": "Obec Dolní Lomná",
+  "kind": "obec",
+  "place": "Dolní Lomná",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.dolnilomna.cz/",
+  "check_urls": [
+   "https://www.dolnilomna.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296678",
+  "ico": "00296678",
+  "name": "Obec Hnojník",
+  "kind": "obec",
+  "place": "Hnojník",
+  "km": 16.1,
+  "polish": false,
+  "website": "https://www.hnojnik.cz/",
+  "check_urls": [
+   "https://www.hnojnik.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296953",
+  "ico": "00296953",
+  "name": "Obec Mosty u Jablunkova",
+  "kind": "obec",
+  "place": "Mosty u Jablunkova",
+  "km": 16.3,
+  "polish": false,
+  "website": "https://www.mostyujablunkova.cz/",
+  "check_urls": [
+   "https://www.mostyujablunkova.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296732",
+  "ico": "00296732",
+  "name": "Obec Hrčava",
+  "kind": "obec",
+  "place": "Hrčava",
+  "km": 16.7,
+  "polish": false,
+  "website": "https://www.obechrcava.cz/",
+  "check_urls": [
+   "https://www.obechrcava.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00494232",
+  "ico": "00494232",
+  "name": "Obec Komorní Lhotka",
+  "kind": "obec",
+  "place": "Komorní Lhotka",
+  "km": 17.2,
+  "polish": false,
+  "website": "https://www.komorni-lhotka.cz/",
+  "check_urls": [
+   "https://www.komorni-lhotka.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "67339158",
+  "ico": "67339158",
+  "name": "Obec Chotěbuz",
+  "kind": "obec",
+  "place": "Chotěbuz",
+  "km": 17.5,
+  "polish": false,
+  "website": "https://www.chotebuz.cz/",
+  "check_urls": [
+   "https://www.chotebuz.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00576921",
+  "ico": "00576921",
+  "name": "Obec Třanovice",
+  "kind": "obec",
+  "place": "Třanovice",
+  "km": 17.5,
+  "polish": false,
+  "website": "https://www.tranovice.cz/",
+  "check_urls": [
+   "https://www.tranovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00576883",
+  "ico": "00576883",
+  "name": "Obec Horní Tošanovice",
+  "kind": "obec",
+  "place": "Horní Tošanovice",
+  "km": 18.4,
+  "polish": false,
+  "website": "https://www.hornitosanovice.cz/",
+  "check_urls": [
+   "https://www.hornitosanovice.cz/vyberova-rizeni"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00535974",
+  "ico": "00535974",
+  "name": "Obec Horní Lomná",
+  "kind": "obec",
+  "place": "Horní Lomná",
+  "km": 18.6,
+  "polish": false,
+  "website": "https://www.hornilomna.cz/",
+  "check_urls": [
+   "https://www.hornilomna.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296945",
+  "ico": "00296945",
+  "name": "Obec Morávka",
+  "kind": "obec",
+  "place": "Morávka",
+  "km": 18.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00576875",
+  "ico": "00576875",
+  "name": "Obec Dolní Tošanovice",
+  "kind": "obec",
+  "place": "Dolní Tošanovice",
+  "km": 19.6,
+  "polish": false,
+  "website": "https://www.dolnitosanovice.cz/",
+  "check_urls": [
+   "https://www.dolnitosanovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00577057",
+  "ico": "00577057",
+  "name": "Obec Dobratice",
+  "kind": "obec",
+  "place": "Dobratice",
+  "km": 19.9,
+  "polish": false,
+  "website": "https://www.dobratice.cz/",
+  "check_urls": [
+   "https://www.dobratice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00494241",
+  "ico": "00494241",
+  "name": "Obec Dolní Domaslavice",
+  "kind": "obec",
+  "place": "Dolní Domaslavice",
+  "km": 20.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00297666",
+  "ico": "00297666",
+  "name": "Obec Těrlicko",
+  "kind": "obec",
+  "place": "Těrlicko",
+  "km": 20.6,
+  "polish": false,
+  "website": "https://terlicko.cz/",
+  "check_urls": [
+   "https://terlicko.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00577014",
+  "ico": "00577014",
+  "name": "Obec Vyšní Lhoty",
+  "kind": "obec",
+  "place": "Vyšní Lhoty",
+  "km": 21.2,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00297429",
+  "ico": "00297429",
+  "name": "Obec Albrechtice",
+  "kind": "obec",
+  "place": "Albrechtice",
+  "km": 21.3,
+  "polish": false,
+  "website": "https://www.obecalbrechtice.cz/",
+  "check_urls": [
+   "https://www.obecalbrechtice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00576999",
+  "ico": "00576999",
+  "name": "Obec Pražmo",
+  "kind": "obec",
+  "place": "Pražmo",
+  "km": 21.4,
+  "polish": false,
+  "website": "https://www.prazmo.cz/",
+  "check_urls": [
+   "https://www.prazmo.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00577081",
+  "ico": "00577081",
+  "name": "Obec Vojkovice",
+  "kind": "obec",
+  "place": "Vojkovice",
+  "km": 21.5,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00536008",
+  "ico": "00536008",
+  "name": "Obec Horní Domaslavice",
+  "kind": "obec",
+  "place": "Horní Domaslavice",
+  "km": 22.2,
+  "polish": false,
+  "website": "https://www.hornidomaslavice.cz/",
+  "check_urls": [
+   "https://www.hornidomaslavice.cz/obec/aktuality/nabidka-prace/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00576981",
+  "ico": "00576981",
+  "name": "Obec Soběšovice",
+  "kind": "obec",
+  "place": "Soběšovice",
+  "km": 22.5,
+  "polish": false,
+  "website": "https://www.sobesovice.cz/",
+  "check_urls": [
+   "https://www.sobesovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00577065",
+  "ico": "00577065",
+  "name": "Obec Nižní Lhoty",
+  "kind": "obec",
+  "place": "Nižní Lhoty",
+  "km": 22.7,
+  "polish": false,
+  "website": "https://www.niznilhoty.cz/",
+  "check_urls": [
+   "https://www.niznilhoty.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00577006",
+  "ico": "00577006",
+  "name": "Obec Raškovice",
+  "kind": "obec",
+  "place": "Raškovice",
+  "km": 22.9,
+  "polish": false,
+  "website": "https://www.raskovice.cz/",
+  "check_urls": [
+   "https://www.raskovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296899",
+  "ico": "00296899",
+  "name": "Obec Lučina",
+  "kind": "obec",
+  "place": "Lučina",
+  "km": 23.1,
+  "polish": false,
+  "website": "https://www.lucina.cz/",
+  "check_urls": [
+   "https://www.lucina.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00297658",
+  "ico": "00297658",
+  "name": "Obec Stonava",
+  "kind": "obec",
+  "place": "Stonava",
+  "km": 23.3,
+  "polish": false,
+  "website": "https://stonava.cz/",
+  "check_urls": [
+   "https://stonava.cz/vyberova-rizeni"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00577049",
+  "ico": "00577049",
+  "name": "Obec Nošovice",
+  "kind": "obec",
+  "place": "Nošovice",
+  "km": 23.5,
+  "polish": false,
+  "website": "https://www.nosovice.cz/",
+  "check_urls": [
+   "https://www.nosovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00577022",
+  "ico": "00577022",
+  "name": "Obec Krásná",
+  "kind": "obec",
+  "place": "Krásná",
+  "km": 24.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00577073",
+  "ico": "00577073",
+  "name": "Obec Pazderna",
+  "kind": "obec",
+  "place": "Pazderna",
+  "km": 24.2,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00494259",
+  "ico": "00494259",
+  "name": "Obec Žermanice",
+  "kind": "obec",
+  "place": "Žermanice",
+  "km": 24.5,
+  "polish": false,
+  "website": "https://www.obeczermanice.cz/",
+  "check_urls": [
+   "https://www.obeczermanice.cz/obecni-urad/vyberova-rizeni/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00575917",
+  "ico": "00575917",
+  "name": "Obec Horní Suchá",
+  "kind": "obec",
+  "place": "Horní Suchá",
+  "km": 25.0,
+  "polish": false,
+  "website": "https://www.hornisucha.cz/",
+  "check_urls": [
+   "https://www.hornisucha.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296589",
+  "ico": "00296589",
+  "name": "Obec Dobrá",
+  "kind": "obec",
+  "place": "Dobrá",
+  "km": 25.5,
+  "polish": false,
+  "website": "https://www.dobra.cz/",
+  "check_urls": [
+   "https://www.dobra.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296686",
+  "ico": "00296686",
+  "name": "Obec Horní Bludovice",
+  "kind": "obec",
+  "place": "Horní Bludovice",
+  "km": 25.5,
+  "polish": false,
+  "website": "https://www.horni-bludovice.cz/",
+  "check_urls": [
+   "https://www.horni-bludovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00297534",
+  "ico": "00297534",
+  "name": "Statutární město Karviná",
+  "kind": "obec",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.karvina.cz/",
+  "check_urls": [
+   "https://www.karvina.cz/magistrat/pracovni-mista",
+   "https://www.karvina.cz/mestska-policie/volna-pracovni-mista"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00493619",
+  "ico": "00493619",
+  "name": "Obec Janovice",
+  "kind": "obec",
+  "place": "Janovice",
+  "km": 26.3,
+  "polish": false,
+  "website": "https://www.obecjanovice.cz/",
+  "check_urls": [
+   "https://www.obecjanovice.cz/vyberova%2Drizeni%2Dverejne%2Dzakazky/ds-1069/p1=1038"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296546",
+  "ico": "00296546",
+  "name": "Obec Bruzovice",
+  "kind": "obec",
+  "place": "Bruzovice",
+  "km": 26.6,
+  "polish": false,
+  "website": "https://www.bruzovice.cz/",
+  "check_urls": [
+   "https://www.bruzovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00297488",
+  "ico": "00297488",
+  "name": "Statutární město Havířov",
+  "kind": "obec",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.havirov-city.cz/",
+  "check_urls": [
+   "https://www.havirov-city.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00576964",
+  "ico": "00576964",
+  "name": "Obec Malenovice",
+  "kind": "obec",
+  "place": "Malenovice",
+  "km": 27.6,
+  "polish": false,
+  "website": "https://www.malenovice.eu/",
+  "check_urls": [
+   "https://www.malenovice.eu/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00576948",
+  "ico": "00576948",
+  "name": "Obec Staré Město",
+  "kind": "obec",
+  "place": "Staré Město",
+  "km": 28.1,
+  "polish": false,
+  "website": "https://www.stare-mesto.cz/",
+  "check_urls": [
+   "https://www.stare-mesto.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00494267",
+  "ico": "00494267",
+  "name": "Obec Kaňovice",
+  "kind": "obec",
+  "place": "Kaňovice",
+  "km": 28.4,
+  "polish": false,
+  "website": "https://www.obeckanovice.cz/",
+  "check_urls": [
+   "https://www.obeckanovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296511",
+  "ico": "00296511",
+  "name": "Obec Baška",
+  "kind": "obec",
+  "place": "Baška",
+  "km": 29.2,
+  "polish": false,
+  "website": "https://www.baska.cz/",
+  "check_urls": [
+   "https://www.baska.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00494216",
+  "ico": "00494216",
+  "name": "Obec Pržno",
+  "kind": "obec",
+  "place": "Pržno",
+  "km": 29.2,
+  "polish": false,
+  "website": "https://www.przno.cz/",
+  "check_urls": [
+   "https://www.przno.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00297178",
+  "ico": "00297178",
+  "name": "Obec Sedliště",
+  "kind": "obec",
+  "place": "Sedliště",
+  "km": 29.7,
+  "polish": false,
+  "website": "https://www.obecsedliste.cz/",
+  "check_urls": [
+   "https://www.obecsedliste.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00297330",
+  "ico": "00297330",
+  "name": "Obec Václavovice",
+  "kind": "obec",
+  "place": "Václavovice",
+  "km": 29.8,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00562424",
+  "ico": "00562424",
+  "name": "Obec Doubrava",
+  "kind": "obec",
+  "place": "Doubrava",
+  "km": 29.9,
+  "polish": false,
+  "website": "https://www.doubrava.cz/cs",
+  "check_urls": [
+   "https://www.doubrava.cz/cs"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296651",
+  "ico": "00296651",
+  "name": "Město Frýdlant nad Ostravicí",
+  "kind": "obec",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://www.frydlantno.cz/",
+  "check_urls": [
+   "https://www.frydlantno.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00297585",
+  "ico": "00297585",
+  "name": "Obec Petrovice u Karviné",
+  "kind": "obec",
+  "place": "Petrovice u Karviné",
+  "km": 30.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00297046",
+  "ico": "00297046",
+  "name": "Obec Ostravice",
+  "kind": "obec",
+  "place": "Ostravice",
+  "km": 30.3,
+  "polish": false,
+  "website": "https://www.obec-ostravice.cz/",
+  "check_urls": [
+   "https://www.obec-ostravice.cz/aktualne/volna-pracovni-mista/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00297241",
+  "ico": "00297241",
+  "name": "Obec Staré Hamry",
+  "kind": "obec",
+  "place": "Staré Hamry",
+  "km": 30.3,
+  "polish": false,
+  "website": "https://www.stare-hamry.cz/",
+  "check_urls": [
+   "https://www.stare-hamry.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00297291",
+  "ico": "00297291",
+  "name": "Město Šenov",
+  "kind": "obec",
+  "place": "Šenov",
+  "km": 30.4,
+  "polish": false,
+  "website": "https://mesto-senov.cz/",
+  "check_urls": [
+   "https://mesto-senov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00296643",
+  "ico": "00296643",
+  "name": "Statutární město Frýdek-Místek",
+  "kind": "obec",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.frydekmistek.cz",
+  "check_urls": [
+   "https://www.frydekmistek.cz/magistrat/volna-pracovni-mista/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00297577",
+  "ico": "00297577",
+  "name": "Město Orlová",
+  "kind": "obec",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://www.mesto-orlova.cz/",
+  "check_urls": [
+   "https://www.mesto-orlova.cz/cz/radnice/pracovni-prilezitosti/",
+   "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00535991",
+  "ico": "00535991",
+  "name": "Obec Metylovice",
+  "kind": "obec",
+  "place": "Metylovice",
+  "km": 32.1,
+  "polish": false,
+  "website": "https://metylovice.cz/",
+  "check_urls": [
+   "https://metylovice.cz/vse-o-metylovicich/aktuality/2512-volne-pracovni-misto-v-zakladni-skole"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00846872",
+  "ico": "00846872",
+  "name": "Obec Sviadnov",
+  "kind": "obec",
+  "place": "Sviadnov",
+  "km": 32.2,
+  "polish": false,
+  "website": "https://www.sviadnov.cz/",
+  "check_urls": [
+   "https://www.sviadnov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00297593",
+  "ico": "00297593",
+  "name": "Město Petřvald",
+  "kind": "obec",
+  "place": "Petřvald",
+  "km": 32.4,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00297445",
+  "ico": "00297445",
+  "name": "Obec Dětmarovice",
+  "kind": "obec",
+  "place": "Dětmarovice",
+  "km": 32.7,
+  "polish": false,
+  "website": "https://www.detmarovice.cz/",
+  "check_urls": [
+   "https://www.detmarovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00577031",
+  "ico": "00577031",
+  "name": "Obec Řepiště",
+  "kind": "obec",
+  "place": "Řepiště",
+  "km": 32.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "60801701",
+  "ico": "60801701",
+  "name": "Základní škola a mateřská škola Nýdek",
+  "kind": "škola",
+  "place": "Nýdek",
+  "km": 2.5,
+  "polish": false,
+  "website": "https://www.zsnydek.cz/",
+  "check_urls": [
+   "https://www.zsnydek.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75093936",
+  "ico": "75093936",
+  "name": "Dům dětí a mládeže, Bystřice 106, okr. Frýdek-Místek",
+  "kind": "škola",
+  "place": "Bystřice",
+  "km": 4.1,
+  "polish": false,
+  "website": "https://www.ddmbystrice.cz/",
+  "check_urls": [
+   "https://www.ddmbystrice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70942641",
+  "ico": "70942641",
+  "name": "Základní škola a mateřská škola Bystřice 848, okr. Frýdek-Místek",
+  "kind": "škola",
+  "place": "Bystřice",
+  "km": 4.1,
+  "polish": false,
+  "website": "https://zs-bystrice.cz/",
+  "check_urls": [
+   "https://zs-bystrice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70942650",
+  "ico": "70942650",
+  "name": "Základní škola a mateřská škola Stanisława Hadyny s polským jazykem vyučovacím Bystřice 366, okr. Frýdek-Místek",
+  "kind": "škola",
+  "place": "Bystřice",
+  "km": 4.1,
+  "polish": true,
+  "website": "https://pspbystrice.cz/",
+  "check_urls": [
+   "https://pspbystrice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70640271",
+  "ico": "70640271",
+  "name": "Polská základní škola - Polska Szkoła Podstawowa im. Wisławy Szymborskiej, Vendryně",
+  "kind": "škola",
+  "place": "Vendryně",
+  "km": 4.7,
+  "polish": true,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "61955639",
+  "ico": "61955639",
+  "name": "Základní škola Vendryně 236, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Vendryně",
+  "km": 4.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70640173",
+  "ico": "70640173",
+  "name": "Základní škola a Mateřská škola Hrádek 144, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Hrádek",
+  "km": 6.3,
+  "polish": false,
+  "website": "https://www.zshradek.cz/",
+  "check_urls": [
+   "https://www.zshradek.cz/zakladni-skola/volna-mista/",
+   "https://www.zshradek.cz/materska-skola/volna-mista/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70640181",
+  "ico": "70640181",
+  "name": "Základní škola s polským vyučovacím jazykem a Mateřská škola s polským vyučovacím jazykem Hrádek 77, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Hrádek",
+  "km": 6.3,
+  "polish": true,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "68334257",
+  "ico": "68334257",
+  "name": "Masarykova základní škola Návsí",
+  "kind": "škola",
+  "place": "Návsí",
+  "km": 8.5,
+  "polish": false,
+  "website": "https://www.zsnavsi.cz/",
+  "check_urls": [
+   "https://www.zsnavsi.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70984000",
+  "ico": "70984000",
+  "name": "Základní škola a mateřská škola s polským jazykem vyučovacím Návsí",
+  "kind": "škola",
+  "place": "Návsí",
+  "km": 8.5,
+  "polish": true,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "71249460",
+  "ico": "71249460",
+  "name": "Církevní základní škola a mateřská škola Třinec",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.czstrinec.cz/",
+  "check_urls": [
+   "https://www.czstrinec.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75089424",
+  "ico": "75089424",
+  "name": "Dům dětí a mládeže, Třinec",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.ddmtrinec.cz/",
+  "check_urls": [
+   "https://www.ddmtrinec.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00601390",
+  "ico": "00601390",
+  "name": "Gymnázium, Třinec",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.gymtri.cz/",
+  "check_urls": [
+   "https://www.gymtri.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70640009",
+  "ico": "70640009",
+  "name": "Jubilejní Masarykova základní škola a mateřská škola, Třinec",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "64085147",
+  "ico": "64085147",
+  "name": "Soukromá základní umělecká škola TUTTI MUSIC spol. s r.o.",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "27856216",
+  "ico": "27856216",
+  "name": "Střední průmyslová škola Třineckých železáren",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.spstz.cz/",
+  "check_urls": [
+   "https://www.spstz.cz/kariera",
+   "https://www.spstz.cz/nabidka-prace"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "69610126",
+  "ico": "69610126",
+  "name": "Střední škola, Základní škola a Mateřská škola, Třinec, Jablunkovská 241",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.zstrinec.cz/",
+  "check_urls": [
+   "https://www.zstrinec.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "61944084",
+  "ico": "61944084",
+  "name": "TŘINECKÁ OBCHODNÍ AKADEMIE INFORMAČNÍCH TECHNOLOGIÍ A VEŘEJNÉ SPRÁVY, s.r.o.",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.tria-tr.cz/",
+  "check_urls": [
+   "https://www.tria-tr.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "61955574",
+  "ico": "61955574",
+  "name": "Základní umělecká škola, Třinec, Třanovského 596",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.zustrinec.cz/",
+  "check_urls": [
+   "https://www.zustrinec.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "61955612",
+  "ico": "61955612",
+  "name": "Základní škola Dany a Emila Zátopkových, Třinec",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://zszatopkovych.eu/",
+  "check_urls": [
+   "https://zszatopkovych.eu/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00847097",
+  "ico": "00847097",
+  "name": "Základní škola Petra Bezruče a mateřská škola, Třinec",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70983721",
+  "ico": "70983721",
+  "name": "Základní škola a mateřská škola Gustawa Przeczka s polským jazykem vyučovacím, Třinec, Nádražní 10",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": true,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00847135",
+  "ico": "00847135",
+  "name": "Základní škola a mateřská škola, Třinec, Kaštanová 412",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.zsamskastanova.cz/",
+  "check_urls": [
+   "https://www.zsamskastanova.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "61955531",
+  "ico": "61955531",
+  "name": "Základní škola a mateřská škola, Třinec, Koperníkova 696",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.zstrikop.cz/",
+  "check_urls": [
+   "https://www.zstrikop.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70983712",
+  "ico": "70983712",
+  "name": "Základní škola a mateřská škola, Třinec, Míru 247",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70983739",
+  "ico": "70983739",
+  "name": "Základní škola a mateřská škola, Třinec, Oldřichovice 275",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00847119",
+  "ico": "00847119",
+  "name": "Základní škola, Třinec, Slezská 773",
+  "kind": "škola",
+  "place": "Třinec",
+  "km": 8.9,
+  "polish": false,
+  "website": "https://www.6zstrinec.cz/",
+  "check_urls": [
+   "https://www.6zstrinec.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70640289",
+  "ico": "70640289",
+  "name": "Základní škola a Mateřská škola Písečná",
+  "kind": "škola",
+  "place": "Písečná",
+  "km": 10.4,
+  "polish": false,
+  "website": "https://zspisecna.cz/",
+  "check_urls": [
+   "https://zspisecna.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75026392",
+  "ico": "75026392",
+  "name": "Základní škola a Mateřská škola Milíkov",
+  "kind": "škola",
+  "place": "Milíkov",
+  "km": 10.6,
+  "polish": false,
+  "website": "https://www.zsmilikov.cz/",
+  "check_urls": [
+   "https://www.zsmilikov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75026406",
+  "ico": "75026406",
+  "name": "Základní škola s polským jazykem vyučovacím a Mateřská škola - Przedszkole Milíkov",
+  "kind": "škola",
+  "place": "Milíkov",
+  "km": 10.6,
+  "polish": true,
+  "website": "https://www.zsmilikov.cz/",
+  "check_urls": [
+   "https://www.zsmilikov.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75088380",
+  "ico": "75088380",
+  "name": "Dům dětí a mládeže, Jablunkov, Dukelská 145",
+  "kind": "škola",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "https://www.ddmjablunkov.cz/",
+  "check_urls": [
+   "https://www.ddmjablunkov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00100340",
+  "ico": "00100340",
+  "name": "Střední škola, Jablunkov",
+  "kind": "škola",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "64120392",
+  "ico": "64120392",
+  "name": "Základní umělecká škola, Jablunkov",
+  "kind": "škola",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "https://www.zusjablunkov.cz/",
+  "check_urls": [
+   "https://www.zusjablunkov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70640076",
+  "ico": "70640076",
+  "name": "Základní škola H. Sienkiewicze s polským jazykem vyučovacím Jablunkov",
+  "kind": "škola",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": true,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "68334265",
+  "ico": "68334265",
+  "name": "Základní škola Jablunkov, Lesní 190",
+  "kind": "škola",
+  "place": "Jablunkov",
+  "km": 10.7,
+  "polish": false,
+  "website": "https://www.zsjablunkov.cz/cs",
+  "check_urls": [
+   "https://www.zsjablunkov.cz/cs/vyberova-rizeni"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75028930",
+  "ico": "75028930",
+  "name": "Základní škola a Mateřská škola, Szkoła Podstawowa, Przedszkole Košařiska",
+  "kind": "škola",
+  "place": "Košařiska",
+  "km": 11.6,
+  "polish": true,
+  "website": "https://www.zskosariska.cz/",
+  "check_urls": [
+   "https://www.zskosariska.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75026937",
+  "ico": "75026937",
+  "name": "Základní škola a mateřská škola Písek",
+  "kind": "škola",
+  "place": "Písek",
+  "km": 11.7,
+  "polish": false,
+  "website": "https://www.zspisek.cz/cs",
+  "check_urls": [
+   "https://www.zspisek.cz/cs/pracovni-nabidky"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75026473",
+  "ico": "75026473",
+  "name": "Základní škola a Mateřská škola Ropice",
+  "kind": "škola",
+  "place": "Ropice",
+  "km": 12.0,
+  "polish": true,
+  "website": "https://zsams-ropice.cz/",
+  "check_urls": [
+   "https://zsams-ropice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70645973",
+  "ico": "70645973",
+  "name": "Základní škola a Mateřská škola Smilovice, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Smilovice",
+  "km": 14.0,
+  "polish": false,
+  "website": "https://www.zssmilovice.cz/",
+  "check_urls": [
+   "https://www.zssmilovice.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75026457",
+  "ico": "75026457",
+  "name": "Základní škola a Mateřská škola Střítež, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Střítež",
+  "km": 14.0,
+  "polish": false,
+  "website": "https://www.zsstritez.cz/",
+  "check_urls": [
+   "https://www.zsstritez.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75027283",
+  "ico": "75027283",
+  "name": "Základní škola a Mateřská škola Bukovec",
+  "kind": "škola",
+  "place": "Bukovec",
+  "km": 14.8,
+  "polish": false,
+  "website": "https://www.zsbukovec.cz/",
+  "check_urls": [
+   "https://www.zsbukovec.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75027291",
+  "ico": "75027291",
+  "name": "Základní škola a mateřská škola s polským jazykem vyučovacím Bukovec",
+  "kind": "škola",
+  "place": "Bukovec",
+  "km": 14.8,
+  "polish": true,
+  "website": "https://www.zsbukovec.cz/",
+  "check_urls": [
+   "https://www.zsbukovec.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "00577235",
+  "ico": "00577235",
+  "name": "Albrechtova střední škola, Český Těšín",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.albrechtovastredni.cz/",
+  "check_urls": [
+   "https://www.albrechtovastredni.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331639",
+  "ico": "62331639",
+  "name": "Gymnázium Josefa Božka, Český Těšín",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "http://www.gmct.cz/",
+  "check_urls": [
+   "http://www.gmct.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60784512",
+  "ico": "60784512",
+  "name": "Masarykova základní škola a mateřská škola Český Těšín",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70240655",
+  "ico": "70240655",
+  "name": "Mateřská škola, základní škola a střední škola Slezské diakonie",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://skolasd.eu/",
+  "check_urls": [
+   "https://skolasd.eu/uredni-deska/pracovni-prilezitosti/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60337320",
+  "ico": "60337320",
+  "name": "Obchodní akademie, Český Těšín",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.oact.cz/",
+  "check_urls": [
+   "https://www.oact.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48805491",
+  "ico": "48805491",
+  "name": "Polská základní škola a mateřská škola – Polska Szkoła Podstawowa i Przedszkole Český Těšín",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": true,
+  "website": "https://www.zsptesin.cz/",
+  "check_urls": [
+   "https://www.zsptesin.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331493",
+  "ico": "62331493",
+  "name": "Polské gymnázium - Polskie Gimnazjum im. Juliusza Słowackiego, Český Těšín",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": true,
+  "website": "https://www.gympol.cz/",
+  "check_urls": [
+   "https://www.gympol.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75075113",
+  "ico": "75075113",
+  "name": "Středisko volného času Amos, Český Těšín",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.svcamos.cz/",
+  "check_urls": [
+   "https://www.svcamos.cz/informace-o-svc-amos-volna-pracovni-mista"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "64618480",
+  "ico": "64618480",
+  "name": "Základní umělecká škola A PLUS, spol. s r.o.",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.zusaplus.cz/",
+  "check_urls": [
+   "https://www.zusaplus.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "68899106",
+  "ico": "68899106",
+  "name": "Základní umělecká škola Pavla Kalety, Český Těšín",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "http://www.zus-tesin.cz/",
+  "check_urls": [
+   "http://www.zus-tesin.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75026724",
+  "ico": "75026724",
+  "name": "Základní škola a Mateřská škola Dolní Lomná 149",
+  "kind": "škola",
+  "place": "Dolní Lomná",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://www.zsdolnilomna.cz/",
+  "check_urls": [
+   "https://www.zsdolnilomna.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "72545933",
+  "ico": "72545933",
+  "name": "Základní škola a mateřská škola Český Těšín Hrabina",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://zshrabina.cz/",
+  "check_urls": [
+   "https://zshrabina.cz/o-skole/volna-pracovni-mista"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "72545917",
+  "ico": "72545917",
+  "name": "Základní škola a mateřská škola Český Těšín Kontešinec",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "https://zskontesinec.net/",
+  "check_urls": [
+   "https://zskontesinec.net/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48004693",
+  "ico": "48004693",
+  "name": "Základní škola a mateřská škola Český Těšín Pod Zvonek",
+  "kind": "škola",
+  "place": "Český Těšín",
+  "km": 15.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75026708",
+  "ico": "75026708",
+  "name": "Masarykova Základní škola a mateřská škola Hnojník 120, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Hnojník",
+  "km": 16.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75026716",
+  "ico": "75026716",
+  "name": "Základní škola a mateřská škola s polským jazykem vyučovacím Jana Kubisze, Szkoła Podstawowa i Przedszkole im. Jana Kubisza Hnojník",
+  "kind": "škola",
+  "place": "Hnojník",
+  "km": 16.1,
+  "polish": true,
+  "website": "https://www.pzshnojnik.cz/",
+  "check_urls": [
+   "https://www.pzshnojnik.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75029901",
+  "ico": "75029901",
+  "name": "Základní škola a mateřská škola Mosty u Jablunkova 750",
+  "kind": "škola",
+  "place": "Mosty u Jablunkova",
+  "km": 16.3,
+  "polish": false,
+  "website": "https://www.zsmostyujablunkova.cz/",
+  "check_urls": [
+   "https://www.zsmostyujablunkova.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "73184209",
+  "ico": "73184209",
+  "name": "Základní škola T. G. Masaryka a Mateřská škola Komorní Lhotka",
+  "kind": "škola",
+  "place": "Komorní Lhotka",
+  "km": 17.2,
+  "polish": false,
+  "website": "https://www.zskomornilhotka.cz/",
+  "check_urls": [
+   "https://www.zskomornilhotka.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "14339200",
+  "ico": "14339200",
+  "name": "Základní škola Lokahi",
+  "kind": "škola",
+  "place": "Chotěbuz",
+  "km": 17.5,
+  "polish": false,
+  "website": "https://www.skolalokahi.cz/",
+  "check_urls": [
+   "https://www.skolalokahi.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "71000984",
+  "ico": "71000984",
+  "name": "Základní škola a Mateřská škola Chotěbuz",
+  "kind": "škola",
+  "place": "Chotěbuz",
+  "km": 17.5,
+  "polish": false,
+  "website": "https://www.zschotebuz.cz/",
+  "check_urls": [
+   "https://www.zschotebuz.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75027089",
+  "ico": "75027089",
+  "name": "Základní škola a mateřská škola Třanovice",
+  "kind": "škola",
+  "place": "Třanovice",
+  "km": 17.5,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70942129",
+  "ico": "70942129",
+  "name": "Základní škola a mateřská škola Morávka",
+  "kind": "škola",
+  "place": "Morávka",
+  "km": 18.9,
+  "polish": false,
+  "website": "https://www.zsmoravka.cz/",
+  "check_urls": [
+   "https://www.zsmoravka.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70640017",
+  "ico": "70640017",
+  "name": "Základní škola a mateřská škola Dobratice, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Dobratice",
+  "km": 19.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75026465",
+  "ico": "75026465",
+  "name": "Základní škola a Mateřská škola Dolní Domaslavice, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Dolní Domaslavice",
+  "km": 20.3,
+  "polish": false,
+  "website": "https://zsddomaslavice.cz/",
+  "check_urls": [
+   "https://zsddomaslavice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331507",
+  "ico": "62331507",
+  "name": "Dětský domov se školou a základní škola, Těrlicko-Horní Těrlicko",
+  "kind": "škola",
+  "place": "Těrlicko",
+  "km": 20.6,
+  "polish": false,
+  "website": "https://www.terlickodds.cz/cs",
+  "check_urls": [
+   "https://www.terlickodds.cz/cs"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "72545461",
+  "ico": "72545461",
+  "name": "Základní škola a Mateřská škola Těrlicko",
+  "kind": "škola",
+  "place": "Těrlicko",
+  "km": 20.6,
+  "polish": false,
+  "website": "https://www.skolaterlicko.cz/",
+  "check_urls": [
+   "https://www.skolaterlicko.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70646066",
+  "ico": "70646066",
+  "name": "Základní škola a Mateřská škola s polským vyučovacím jazykem Źwirki i Wigury Těrlicko",
+  "kind": "škola",
+  "place": "Těrlicko",
+  "km": 20.6,
+  "polish": true,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "48004286",
+  "ico": "48004286",
+  "name": "Základní škola a mateřská škola Albrechtice",
+  "kind": "škola",
+  "place": "Albrechtice",
+  "km": 21.3,
+  "polish": false,
+  "website": "https://www.zsalbrechtice.cz/",
+  "check_urls": [
+   "https://www.zsalbrechtice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75026953",
+  "ico": "75026953",
+  "name": "Základní škola a mateřská škola s polským jazykem vyučovacím Albrechtice, Školní 11, okres Karviná",
+  "kind": "škola",
+  "place": "Albrechtice",
+  "km": 21.3,
+  "polish": true,
+  "website": "https://pspolbrachcice.cz/",
+  "check_urls": [
+   "https://pspolbrachcice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70989451",
+  "ico": "70989451",
+  "name": "Základní škola a Mateřská škola Soběšovice, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Soběšovice",
+  "km": 22.5,
+  "polish": false,
+  "website": "https://www.zssobesovice.cz/",
+  "check_urls": [
+   "https://www.zssobesovice.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "60045990",
+  "ico": "60045990",
+  "name": "Základní škola a mateřská škola Raškovice",
+  "kind": "škola",
+  "place": "Raškovice",
+  "km": 22.9,
+  "polish": false,
+  "website": "https://www.zsraskovice.cz/",
+  "check_urls": [
+   "https://www.zsraskovice.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70982961",
+  "ico": "70982961",
+  "name": "Základní škola a mateřská škola Lučina, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Lučina",
+  "km": 23.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "64628531",
+  "ico": "64628531",
+  "name": "Základní škola a Mateřská škola Stonava",
+  "kind": "škola",
+  "place": "Stonava",
+  "km": 23.3,
+  "polish": true,
+  "website": "https://stonava.cz/",
+  "check_urls": [
+   "https://stonava.cz/vyberova-rizeni"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70978816",
+  "ico": "70978816",
+  "name": "Základní škola a mateřská škola Nošovice",
+  "kind": "škola",
+  "place": "Nošovice",
+  "km": 23.5,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75029332",
+  "ico": "75029332",
+  "name": "Základní škola a mateřská škola s polským jazykem vyučovacím Horní Suchá",
+  "kind": "škola",
+  "place": "Horní Suchá",
+  "km": 25.0,
+  "polish": true,
+  "website": "https://www.pspsuchagorna.cz/",
+  "check_urls": [
+   "https://www.pspsuchagorna.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75029324",
+  "ico": "75029324",
+  "name": "Základní škola a mateřská škola, Horní Suchá",
+  "kind": "škola",
+  "place": "Horní Suchá",
+  "km": 25.0,
+  "polish": false,
+  "website": "https://www.zs-hornisucha.cz/",
+  "check_urls": [
+   "https://www.zs-hornisucha.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "68334273",
+  "ico": "68334273",
+  "name": "Základní škola Dobrá",
+  "kind": "škola",
+  "place": "Dobrá",
+  "km": 25.5,
+  "polish": false,
+  "website": "https://www.zsdobra.cz/",
+  "check_urls": [
+   "https://www.zsdobra.cz/o-skole/pracovni-prilezitosti/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70989800",
+  "ico": "70989800",
+  "name": "Základní škola a Mateřská škola Horní Bludovice",
+  "kind": "škola",
+  "place": "Horní Bludovice",
+  "km": 25.5,
+  "polish": false,
+  "website": "https://www.zshornibludovice.cz/",
+  "check_urls": [
+   "https://www.zshornibludovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331795",
+  "ico": "62331795",
+  "name": "Gymnázium, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.gym-karvina.cz/",
+  "check_urls": [
+   "https://www.gym-karvina.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "46580336",
+  "ico": "46580336",
+  "name": "Obchodní akademie a Česko - anglická základní škola s.r.o.",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.obaka-karvina.cz/",
+  "check_urls": [
+   "https://www.obaka-karvina.cz/volna-mista"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331752",
+  "ico": "62331752",
+  "name": "Pedagogicko-psychologická poradna, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://pppkarvina.cz/",
+  "check_urls": [
+   "https://pppkarvina.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "08385891",
+  "ico": "08385891",
+  "name": "Středisko volného času JUVENTUS, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.juventus.cz/",
+  "check_urls": [
+   "https://www.juventus.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25383205",
+  "ico": "25383205",
+  "name": "Střední odborná škola ochrany osob a majetku s.r.o.",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.sosoom.cz/",
+  "check_urls": [
+   "https://www.sosoom.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331515",
+  "ico": "62331515",
+  "name": "Střední průmyslová škola, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://sps-karvina.cz/",
+  "check_urls": [
+   "https://sps-karvina.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00844985",
+  "ico": "00844985",
+  "name": "Střední zdravotnická škola, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.sszdra-karvina.cz/",
+  "check_urls": [
+   "https://www.sszdra-karvina.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "13644254",
+  "ico": "13644254",
+  "name": "Střední škola techniky a služeb, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.sstas-karvina.cz/",
+  "check_urls": [
+   "https://www.sstas-karvina.cz/cz/skola/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "63024616",
+  "ico": "63024616",
+  "name": "Střední škola, Základní škola a Mateřská škola, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://szmkarvina.cz/",
+  "check_urls": [
+   "https://szmkarvina.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "68899092",
+  "ico": "68899092",
+  "name": "Základní umělecká škola Bedřicha Smetany, Karviná-Mizerov",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://zuskarvina.cz/",
+  "check_urls": [
+   "https://zuskarvina.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "21410054",
+  "ico": "21410054",
+  "name": "Základní škola Open school Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.open-school-karvina.cz",
+  "check_urls": [
+   "https://www.open-school-karvina.cz"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "62331353",
+  "ico": "62331353",
+  "name": "Základní škola a Mateřská škola Borovského, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.borovskeho.cz/",
+  "check_urls": [
+   "https://www.borovskeho.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48004537",
+  "ico": "48004537",
+  "name": "Základní škola a Mateřská škola Cihelní, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.cihelni.cz/",
+  "check_urls": [
+   "https://www.cihelni.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48004472",
+  "ico": "48004472",
+  "name": "Základní škola a Mateřská škola Družby, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://zsdruzby.cz/",
+  "check_urls": [
+   "https://zsdruzby.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "62331418",
+  "ico": "62331418",
+  "name": "Základní škola a Mateřská škola Dělnická, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.zs-delnicka.cz/",
+  "check_urls": [
+   "https://www.zs-delnicka.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331388",
+  "ico": "62331388",
+  "name": "Základní škola a Mateřská škola Mendelova, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.mendelova.cz/",
+  "check_urls": [
+   "https://www.mendelova.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "72035480",
+  "ico": "72035480",
+  "name": "Základní škola a Mateřská škola Prameny, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://zsprameny.cz/",
+  "check_urls": [
+   "https://zsprameny.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "62331361",
+  "ico": "62331361",
+  "name": "Základní škola a Mateřská škola Slovenská, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.zs-slovenska.eu/",
+  "check_urls": [
+   "https://www.zs-slovenska.eu/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48004529",
+  "ico": "48004529",
+  "name": "Základní škola a Mateřská škola U Lesa, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.ulesakarvina.cz/",
+  "check_urls": [
+   "https://www.ulesakarvina.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48004511",
+  "ico": "48004511",
+  "name": "Základní škola a Mateřská škola U Studny, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.ustudny.cz/",
+  "check_urls": [
+   "https://www.ustudny.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "64628680",
+  "ico": "64628680",
+  "name": "Základní škola a Mateřská škola s polským jazykem vyučovacím - Szkoła Podstawowa i Przedszkole, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": true,
+  "website": "https://www.pzskarvina.cz/",
+  "check_urls": [
+   "https://www.pzskarvina.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48004545",
+  "ico": "48004545",
+  "name": "Základní škola a Mateřská škola Školská, Karviná",
+  "kind": "škola",
+  "place": "Karviná",
+  "km": 25.6,
+  "polish": false,
+  "website": "https://www.zsskolska.eu/",
+  "check_urls": [
+   "https://www.zsskolska.eu/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "73184357",
+  "ico": "73184357",
+  "name": "Základní škola a Mateřská škola Janovice, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Janovice",
+  "km": 26.3,
+  "polish": false,
+  "website": "https://ucet.centrum.cz/prihlaseni",
+  "check_urls": [
+   "https://ucet.centrum.cz/prihlaseni"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48772569",
+  "ico": "48772569",
+  "name": "Základní škola a Mateřská škola Bruzovice",
+  "kind": "škola",
+  "place": "Bruzovice",
+  "km": 26.6,
+  "polish": false,
+  "website": "https://www.bruzovice.cz/",
+  "check_urls": [
+   "https://www.bruzovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75085747",
+  "ico": "75085747",
+  "name": "ASTERIX - středisko volného času Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.asterix-havirov.cz",
+  "check_urls": [
+   "https://www.asterix-havirov.cz/informace-o-svc-volna-pracovni-mista",
+   "https://www.asterix-havirov.cz/hlavni-udalosti/212-volna-mista-v-krouzcich"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48806030",
+  "ico": "48806030",
+  "name": "Církevní středisko volného času sv. Jana Boska v Havířově",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.csvc.cz/",
+  "check_urls": [
+   "https://www.csvc.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331558",
+  "ico": "62331558",
+  "name": "Gymnázium, Havířov-Město, Komenského 2",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "62331582",
+  "ico": "62331582",
+  "name": "Gymnázium, Havířov-Podlesí",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://gsh.cz/",
+  "check_urls": [
+   "https://gsh.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25378066",
+  "ico": "25378066",
+  "name": "Hotelová škola a Obchodní akademie Havířov s.r.o.",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.obaka-havirov.cz/",
+  "check_urls": [
+   "https://www.obaka-havirov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "06045154",
+  "ico": "06045154",
+  "name": "Montessori základní škola Úsměv",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://usmev.edupage.org/",
+  "check_urls": [
+   "https://usmev.edupage.org/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331574",
+  "ico": "62331574",
+  "name": "Střední průmyslová škola elektrotechnická, Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://spsehavirov.cz/",
+  "check_urls": [
+   "https://spsehavirov.cz/o-skole/pracovni-prilezitosti/",
+   "https://spsehavirov.cz/uchazec/karierni-moznosti-studentu/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331566",
+  "ico": "62331566",
+  "name": "Střední průmyslová škola stavební, Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.stavha.cz/",
+  "check_urls": [
+   "https://www.stavha.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "13644297",
+  "ico": "13644297",
+  "name": "Střední škola a Základní škola, Havířov-Šumbark",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.ssazs-havirov.cz/",
+  "check_urls": [
+   "https://www.ssazs-havirov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "13644289",
+  "ico": "13644289",
+  "name": "Střední škola polytechnická, Havířov-Šumbark",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.ssph.cz/",
+  "check_urls": [
+   "https://www.ssph.cz/nabidka-prace-a-brigad/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "68321261",
+  "ico": "68321261",
+  "name": "Střední škola technických oborů, Havířov-Šumbark, Lidická 1a/600",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://ssto-havirov.cz/",
+  "check_urls": [
+   "https://ssto-havirov.cz/volna-mista/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "13644271",
+  "ico": "13644271",
+  "name": "Střední škola, Havířov-Prostřední Suchá",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.stredniskola-sucha.cz/",
+  "check_urls": [
+   "https://www.stredniskola-sucha.cz/vyberova-rizeni-a-verejne-zakazky"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25378023",
+  "ico": "25378023",
+  "name": "Vyšší odborná škola Havířov s.r.o.",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.obaka-havirov.cz/",
+  "check_urls": [
+   "https://www.obaka-havirov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331663",
+  "ico": "62331663",
+  "name": "Základní umělecká škola Bohuslava Martinů, Havířov - Město, Na Schodech 1",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "http://www.zusbm.cz/",
+  "check_urls": [
+   "http://www.zusbm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331647",
+  "ico": "62331647",
+  "name": "Základní umělecká škola Leoše Janáčka, Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.zuslj-havirov.cz/",
+  "check_urls": [
+   "https://www.zuslj-havirov.cz/cs/kariera.html"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70958122",
+  "ico": "70958122",
+  "name": "Základní škola 1. máje Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.zs1maje.cz/",
+  "check_urls": [
+   "https://www.zs1maje.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48805513",
+  "ico": "48805513",
+  "name": "Základní škola Gen. Svobody Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://zssvobody.cz/",
+  "check_urls": [
+   "https://zssvobody.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331221",
+  "ico": "62331221",
+  "name": "Základní škola Gorkého Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.zsgh.cz/",
+  "check_urls": [
+   "https://www.zsgh.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48805424",
+  "ico": "48805424",
+  "name": "Základní škola K. Světlé Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.zssvetle.cz/cs/",
+  "check_urls": [
+   "https://www.zssvetle.cz/cs/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "61988600",
+  "ico": "61988600",
+  "name": "Základní škola Kapitána Jasioka Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.zsjasioka-havirov.cz/",
+  "check_urls": [
+   "https://www.zsjasioka-havirov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331248",
+  "ico": "62331248",
+  "name": "Základní škola M. Kudeříkové Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "http://www.zsmk.eu/",
+  "check_urls": [
+   "http://www.zsmk.eu/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48805475",
+  "ico": "48805475",
+  "name": "Základní škola M. Pujmanové Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.zsph.cz/zakladni-skola/uvod.php",
+  "check_urls": [
+   "https://www.zsph.cz/zakladni-skola/uvod.php"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70958114",
+  "ico": "70958114",
+  "name": "Základní škola Mládežnická Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.mladezka.cz/",
+  "check_urls": [
+   "https://www.mladezka.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "61988723",
+  "ico": "61988723",
+  "name": "Základní škola a mateřská škola F. Hrubína Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "48805289",
+  "ico": "48805289",
+  "name": "Základní škola a mateřská škola Frýdecká Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70958131",
+  "ico": "70958131",
+  "name": "Základní škola a mateřská škola Moravská Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.zsmoravska.cz/",
+  "check_urls": [
+   "https://www.zsmoravska.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48805271",
+  "ico": "48805271",
+  "name": "Základní škola a mateřská škola Na Nábřeží Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://zsnabrezi.cz/",
+  "check_urls": [
+   "https://zsnabrezi.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75027569",
+  "ico": "75027569",
+  "name": "Základní škola a mateřská škola Zelená Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.zszelena.cz/",
+  "check_urls": [
+   "https://www.zszelena.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75027577",
+  "ico": "75027577",
+  "name": "Základní škola a mateřská škola s polským jazykem vyučovacím Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": true,
+  "website": "https://www.psp.bledowice.cz/",
+  "check_urls": [
+   "https://www.psp.bledowice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70958149",
+  "ico": "70958149",
+  "name": "Základní škola a mateřská škola Školní 1 Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://www.zsskolni-havirov.eu/",
+  "check_urls": [
+   "https://www.zsskolni-havirov.eu/volna-pracovni-mista/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331230",
+  "ico": "62331230",
+  "name": "Základní škola Žákovská Havířov",
+  "kind": "škola",
+  "place": "Havířov",
+  "km": 26.9,
+  "polish": false,
+  "website": "https://zakovska-havirov.cz/",
+  "check_urls": [
+   "https://zakovska-havirov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70983950",
+  "ico": "70983950",
+  "name": "Základní škola a mateřská škola Staré Město, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Staré Město",
+  "km": 28.1,
+  "polish": false,
+  "website": "https://www.skolastaremesto.cz/",
+  "check_urls": [
+   "https://www.skolastaremesto.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "73185001",
+  "ico": "73185001",
+  "name": "ZÁKLADNÍ ŠKOLA A MATEŘSKÁ ŠKOLA PRŽNO, OKRES FRÝDEK-MÍSTEK",
+  "kind": "škola",
+  "place": "Pržno",
+  "km": 29.2,
+  "polish": false,
+  "website": "https://www.zsprzno.cz/",
+  "check_urls": [
+   "https://www.zsprzno.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70985570",
+  "ico": "70985570",
+  "name": "Základní škola a Mateřská škola, Baška",
+  "kind": "škola",
+  "place": "Baška",
+  "km": 29.2,
+  "polish": false,
+  "website": "https://www.skolabaska.cz/",
+  "check_urls": [
+   "https://www.skolabaska.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "61963607",
+  "ico": "61963607",
+  "name": "Jubilejní Masarykova základní škola a mateřská škola Sedliště",
+  "kind": "škola",
+  "place": "Sedliště",
+  "km": 29.7,
+  "polish": false,
+  "website": "https://www.skola-sedliste.cz",
+  "check_urls": [
+   "https://www.skola-sedliste.cz"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70973911",
+  "ico": "70973911",
+  "name": "Základní škola a Mateřská škola Václavovice",
+  "kind": "škola",
+  "place": "Václavovice",
+  "km": 29.8,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75026350",
+  "ico": "75026350",
+  "name": "Základní škola a Mateřská škola Doubrava, okres Karviná",
+  "kind": "škola",
+  "place": "Doubrava",
+  "km": 29.9,
+  "polish": false,
+  "website": "https://www.zsdoubrava.cz/",
+  "check_urls": [
+   "https://www.zsdoubrava.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "26787806",
+  "ico": "26787806",
+  "name": "Gymnázium BESKYDY MOUNTAIN ACADEMY, s.r.o.",
+  "kind": "škola",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://gymnaziumbma.edupage.org",
+  "check_urls": [
+   "https://gymnaziumbma.edupage.org"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00601403",
+  "ico": "00601403",
+  "name": "Gymnázium, Frýdlant nad Ostravicí, nám. T. G. Masaryka 1260",
+  "kind": "škola",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://www.gymfrydl.cz/",
+  "check_urls": [
+   "https://www.gymfrydl.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "64120384",
+  "ico": "64120384",
+  "name": "Základní umělecká škola Leoše Janáčka, Frýdlant nad Ostravicí",
+  "kind": "škola",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "73184519",
+  "ico": "73184519",
+  "name": "Základní škola Frýdlant nad Ostravicí, Komenského 420",
+  "kind": "škola",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://www.zskomenskehofno.cz/",
+  "check_urls": [
+   "https://www.zskomenskehofno.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "73184535",
+  "ico": "73184535",
+  "name": "Základní škola Frýdlant nad Ostravicí, náměstí T. G. Masaryka 1260",
+  "kind": "škola",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://zsfrydlant.cz/",
+  "check_urls": [
+   "https://zsfrydlant.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70632090",
+  "ico": "70632090",
+  "name": "Základní škola a Mateřská škola, Frýdlant nad Ostravicí, Náměstí 7",
+  "kind": "škola",
+  "place": "Frýdlant nad Ostravicí",
+  "km": 30.0,
+  "polish": false,
+  "website": "https://www.skolananamesti.cz/",
+  "check_urls": [
+   "https://www.skolananamesti.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25831101",
+  "ico": "25831101",
+  "name": "Střední odborné učiliště DAKOL, s. r. o.",
+  "kind": "škola",
+  "place": "Petrovice u Karviné",
+  "km": 30.1,
+  "polish": false,
+  "website": "https://www.dakol-karvina.cz/",
+  "check_urls": [
+   "https://www.dakol-karvina.cz/cz/volna-pracovni-mista/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25353446",
+  "ico": "25353446",
+  "name": "Vyšší odborná škola DAKOL a Střední škola DAKOL, o.p.s.",
+  "kind": "škola",
+  "place": "Petrovice u Karviné",
+  "km": 30.1,
+  "polish": false,
+  "website": "https://www.dakol-karvina.cz/",
+  "check_urls": [
+   "https://www.dakol-karvina.cz/cz/volna-pracovni-mista/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75028913",
+  "ico": "75028913",
+  "name": "Základní škola a Mateřská škola Petrovice u Karviné",
+  "kind": "škola",
+  "place": "Petrovice u Karviné",
+  "km": 30.1,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "70981400",
+  "ico": "70981400",
+  "name": "Základní škola Staré Hamry, okres Frýdek-Místek",
+  "kind": "škola",
+  "place": "Staré Hamry",
+  "km": 30.3,
+  "polish": false,
+  "website": "https://www.skolastarehamry.cz/cs",
+  "check_urls": [
+   "https://www.skolastarehamry.cz/cs"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "17124620",
+  "ico": "17124620",
+  "name": "Základní škola a Lesní mateřská škola Hnízdo - škola, která voní lesem",
+  "kind": "škola",
+  "place": "Ostravice",
+  "km": 30.3,
+  "polish": false,
+  "website": "https://vlesedu.cz?password-protected=login&redirect_to=https%3A%2F%2Fwww.vlesedu.cz%2F",
+  "check_urls": [
+   "https://vlesedu.cz?password-protected=login&redirect_to=https%3A%2F%2Fwww.vlesedu.cz%2F"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75029715",
+  "ico": "75029715",
+  "name": "Základní škola a Mateřská škola Ostravice",
+  "kind": "škola",
+  "place": "Ostravice",
+  "km": 30.3,
+  "polish": false,
+  "website": "https://zsostravice.cz/",
+  "check_urls": [
+   "https://zsostravice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60802154",
+  "ico": "60802154",
+  "name": "Základní umělecká škola Viléma Wünsche, Šenov, Zámecká 2",
+  "kind": "škola",
+  "place": "Šenov",
+  "km": 30.4,
+  "polish": false,
+  "website": "https://www.zus-senov.cz/",
+  "check_urls": [
+   "https://www.zus-senov.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "61955647",
+  "ico": "61955647",
+  "name": "Základní škola Šenov, Radniční náměstí 1040",
+  "kind": "škola",
+  "place": "Šenov",
+  "km": 30.4,
+  "polish": false,
+  "website": "https://www.zs-senov.cz/",
+  "check_urls": [
+   "https://www.zs-senov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "28660790",
+  "ico": "28660790",
+  "name": "GALILEO SCHOOL - bilingvní mateřská škola a základní škola, s. r. o.",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://zsgalileoschool.edupage.org/",
+  "check_urls": [
+   "https://zsgalileoschool.edupage.org/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25364294",
+  "ico": "25364294",
+  "name": "GOODWILL - vyšší odborná škola, s.r.o.",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.vos-goodwill.cz/",
+  "check_urls": [
+   "https://www.vos-goodwill.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00846881",
+  "ico": "00846881",
+  "name": "Gymnázium Cihelní, Frýdek-Místek",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.gcfm.cz/",
+  "check_urls": [
+   "https://www.gcfm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00601411",
+  "ico": "00601411",
+  "name": "Gymnázium Petra Bezruče, Frýdek-Místek",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.gpbfm.cz/",
+  "check_urls": [
+   "https://www.gpbfm.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "08090599",
+  "ico": "08090599",
+  "name": "PLANETA - Montessori základní škola s.r.o.",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.skolaplaneta.cz/",
+  "check_urls": [
+   "https://www.skolaplaneta.cz/kariera/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60045922",
+  "ico": "60045922",
+  "name": "Pedagogicko-psychologická poradna, Frýdek-Místek",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.pppfm.cz/",
+  "check_urls": [
+   "https://www.pppfm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25376357",
+  "ico": "25376357",
+  "name": "PrimMat - Soukromá střední škola podnikatelská, s.r.o.",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.primmat.cz/",
+  "check_urls": [
+   "https://www.primmat.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "05738016",
+  "ico": "05738016",
+  "name": "ScioŠkola Frýdek-Místek - základní škola, s.r.o.",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.scio.cz/",
+  "check_urls": [
+   "https://www.scio.cz/prace-u-nas"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25383442",
+  "ico": "25383442",
+  "name": "Soukromá střední odborná škola Frýdek-Místek, s.r.o.",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.ssosfm.cz/",
+  "check_urls": [
+   "https://www.ssosfm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75105993",
+  "ico": "75105993",
+  "name": "Středisko volného času Klíč",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.klicfm.cz/",
+  "check_urls": [
+   "https://www.klicfm.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "64122654",
+  "ico": "64122654",
+  "name": "Střední odborná škola požární ochrany a Vyšší odborná škola požární ochrany",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://hzscr.gov.cz/",
+  "check_urls": [
+   "https://hzscr.gov.cz/kariera"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00844691",
+  "ico": "00844691",
+  "name": "Střední odborná škola, Frýdek-Místek",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.sosfm.cz/",
+  "check_urls": [
+   "https://www.sosfm.cz/category/volna-mista/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00601381",
+  "ico": "00601381",
+  "name": "Střední průmyslová škola, Obchodní akademie a Jazyková škola s právem státní jazykové zkoušky, Frýdek-Místek",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://pojfm.cz/",
+  "check_urls": [
+   "https://pojfm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "25371169",
+  "ico": "25371169",
+  "name": "Střední uměleckoprůmyslová škola s.r.o.",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.sumprum.cz/",
+  "check_urls": [
+   "https://www.sumprum.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00561151",
+  "ico": "00561151",
+  "name": "Střední zdravotnická škola, Frýdek-Místek",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.zdrskolafm.cz/",
+  "check_urls": [
+   "https://www.zdrskolafm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00577243",
+  "ico": "00577243",
+  "name": "Střední škola gastronomie, oděvnictví a služeb, Frýdek-Místek",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "25378767",
+  "ico": "25378767",
+  "name": "Střední škola informačních technologií, s.r.o.",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.ssinfotech.cz/",
+  "check_urls": [
+   "https://www.ssinfotech.cz/pro-studenty-a-rodice/nabidky-praxi-stazi-prac.-prilezitosti/kariera-zivotopis-motivacni-dopis.php"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "13644301",
+  "ico": "13644301",
+  "name": "Střední škola řemesel, Frýdek-Místek",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.ssremesel.cz/",
+  "check_urls": [
+   "https://www.ssremesel.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "69610134",
+  "ico": "69610134",
+  "name": "Střední škola, Základní škola a Mateřská škola, Frýdek-Místek",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.ruzovka.eu/zakladni-informace/zakladni-informace-o-skole.php",
+  "check_urls": [
+   "https://www.ruzovka.eu/zakladni-informace/zakladni-informace-o-skole.php"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "00847071",
+  "ico": "00847071",
+  "name": "Základní umělecká škola Frýdek-Místek, Hlavní třída 11",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.zusfm.cz/",
+  "check_urls": [
+   "https://www.zusfm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "63026376",
+  "ico": "63026376",
+  "name": "Základní umělecká škola duchovní hudby Frýdek-Místek",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.zusdh.cz/",
+  "check_urls": [
+   "https://www.zusdh.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "68157860",
+  "ico": "68157860",
+  "name": "Základní škola Frýdek-Místek, 1. máje 1700",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://7zsfm.cz/",
+  "check_urls": [
+   "https://7zsfm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "68157797",
+  "ico": "68157797",
+  "name": "Základní škola Frýdek-Místek, El. Krásnohorské 2254",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.5zsfm.cz/",
+  "check_urls": [
+   "https://www.5zsfm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "64120341",
+  "ico": "64120341",
+  "name": "Základní škola Frýdek-Místek, Jana Čapka 2555",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.2zsfm.cz/",
+  "check_urls": [
+   "https://www.2zsfm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "49562291",
+  "ico": "49562291",
+  "name": "Základní škola Frýdek-Místek, Jiřího z Poděbrad 3109",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.11zsfm.cz/",
+  "check_urls": [
+   "https://www.11zsfm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "68157894",
+  "ico": "68157894",
+  "name": "Základní škola Frýdek-Místek, Komenského 402",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.4zsfm.cz/",
+  "check_urls": [
+   "https://www.4zsfm.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60046121",
+  "ico": "60046121",
+  "name": "Základní škola Frýdek-Místek, Pionýrů 400",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://web.sestka-fm.cz",
+  "check_urls": [
+   "https://web.sestka-fm.cz"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60803550",
+  "ico": "60803550",
+  "name": "Základní škola Frýdek-Místek, Československé armády 570",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://osmicka.cz/",
+  "check_urls": [
+   "https://osmicka.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "19589212",
+  "ico": "19589212",
+  "name": "Základní škola a Lesní mateřská škola Bez Lavice, s.r.o.",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.bezlavice.cz/",
+  "check_urls": [
+   "https://www.bezlavice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "70971692",
+  "ico": "70971692",
+  "name": "Základní škola a mateřská škola Frýdek-Místek - Chlebovice, Pod Kabáticí 107",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75029782",
+  "ico": "75029782",
+  "name": "Základní škola a mateřská škola Frýdek-Místek - Skalice 192",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.skolaskalice.cz/",
+  "check_urls": [
+   "https://www.skolaskalice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "68157801",
+  "ico": "68157801",
+  "name": "Základní škola a mateřská škola Frýdek-Místek, Lískovec, K Sedlištím 320",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "https://www.liskovec.cz/",
+  "check_urls": [
+   "https://www.liskovec.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60046104",
+  "ico": "60046104",
+  "name": "Základní škola a mateřská škola Naděje, Frýdek-Místek, Škarabelova 562",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "60045965",
+  "ico": "60045965",
+  "name": "Základní škola národního umělce Petra Bezruče, Frýdek-Místek, tř. T. G. Masaryka 454",
+  "kind": "škola",
+  "place": "Frýdek-Místek",
+  "km": 31.3,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75122073",
+  "ico": "75122073",
+  "name": "Dům dětí a mládeže, Orlová",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://www.ddmorlova.cz/",
+  "check_urls": [
+   "https://www.ddmorlova.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "26867940",
+  "ico": "26867940",
+  "name": "Gymnázium Jana Šabršuly s.r.o.",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://linguistic.cz/",
+  "check_urls": [
+   "https://linguistic.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331540",
+  "ico": "62331540",
+  "name": "Gymnázium a Obchodní akademie, Orlová",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://www.goa-orlova.cz/",
+  "check_urls": [
+   "https://www.goa-orlova.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "29445191",
+  "ico": "29445191",
+  "name": "Soukromá základní škola PIANETA, s.r.o.",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://www.zspianeta.cz/",
+  "check_urls": [
+   "https://www.zspianeta.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "60775645",
+  "ico": "60775645",
+  "name": "Střední odborná škola NET OFFICE Orlová, spol. s r.o.",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://www.nosch.cz/",
+  "check_urls": [
+   "https://www.nosch.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331680",
+  "ico": "62331680",
+  "name": "Základní umělecká škola J. R. Míši, Orlová",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "75026635",
+  "ico": "75026635",
+  "name": "Základní škola Orlová-Lutyně K. Dvořáčka 1230 okres Karviná",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://www.zsdvoracka.cz/",
+  "check_urls": [
+   "https://www.zsdvoracka.cz/volna-pracovni-mista"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "48004219",
+  "ico": "48004219",
+  "name": "Základní škola Orlová-Lutyně Ke Studánce 1050 okres Karviná",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://www.kestud.cz/",
+  "check_urls": [
+   "https://www.kestud.cz/volna-mista/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75026643",
+  "ico": "75026643",
+  "name": "Základní škola Orlová-Lutyně Mládí 726 okres Karviná",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://www.skolamladi.cz/",
+  "check_urls": [
+   "https://www.skolamladi.cz/o-škole/nabídka-zaměstnání"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "62331426",
+  "ico": "62331426",
+  "name": "Základní škola Orlová-Lutyně U Kapličky 959 okres Karviná",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "48004201",
+  "ico": "48004201",
+  "name": "Základní škola Orlová-Lutyně Školní 862 okres Karviná",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://www.zsskolni.org/",
+  "check_urls": [
+   "https://www.zsskolni.org/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75026678",
+  "ico": "75026678",
+  "name": "Základní škola Orlová-Poruba Jarní 400 okres Karviná",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": false,
+  "website": "https://www.zsjarniorlova.cz/",
+  "check_urls": [
+   "https://www.zsjarniorlova.cz/pracovniprilezitosti.php"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75026694",
+  "ico": "75026694",
+  "name": "Základní škola a mateřská škola s polským vyučovacím jazykem Orlová",
+  "kind": "škola",
+  "place": "Orlová",
+  "km": 31.7,
+  "polish": true,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "61963682",
+  "ico": "61963682",
+  "name": "Základní škola Mjr. Ambrože Bílka a Mateřská škola Metylovice",
+  "kind": "škola",
+  "place": "Metylovice",
+  "km": 32.1,
+  "polish": false,
+  "website": "https://www.skolametylovice.cz/",
+  "check_urls": [
+   "https://www.skolametylovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "07260806",
+  "ico": "07260806",
+  "name": "Základní škola J. Šlosara Sviadnov",
+  "kind": "škola",
+  "place": "Sviadnov",
+  "km": 32.2,
+  "polish": false,
+  "website": "https://www.zssviadnov.cz/",
+  "check_urls": [
+   "https://www.zssviadnov.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "73184985",
+  "ico": "73184985",
+  "name": "Základní škola a Základní umělecká škola Petřvald Školní 246",
+  "kind": "škola",
+  "place": "Petřvald",
+  "km": 32.4,
+  "polish": false,
+  "website": "",
+  "check_urls": [],
+  "enabled": true,
+  "guessed": true
+ },
+ {
+  "id": "73184501",
+  "ico": "73184501",
+  "name": "Základní škola a Mateřská škola Dětmarovice",
+  "kind": "škola",
+  "place": "Dětmarovice",
+  "km": 32.7,
+  "polish": false,
+  "website": "https://www.zsdetmarovice.cz/",
+  "check_urls": [
+   "https://www.zsdetmarovice.cz/"
+  ],
+  "enabled": true
+ },
+ {
+  "id": "75029278",
+  "ico": "75029278",
+  "name": "Základní škola a Mateřská škola Řepiště",
+  "kind": "škola",
+  "place": "Řepiště",
+  "km": 32.7,
+  "polish": false,
+  "website": "https://www.zsrepiste.cz/",
+  "check_urls": [
+   "https://www.zsrepiste.cz/"
+  ],
+  "enabled": true,
+  "guessed": true
+ }
+]
