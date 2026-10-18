@@ -123,7 +123,9 @@ def fetch(ai, log=print):
     cache = _load_cache()
     out, ok = [], set()
     ai_skipped = 0
-    for t in targets:
+    for n, t in enumerate(targets, 1):
+        if n % 50 == 0:
+            log(f"  … {n}/{len(targets)} organizací, AI volání: {ai.calls}")
         key = f"web:{t['id']}"
         found = []
         failed = False
@@ -156,7 +158,7 @@ def fetch(ai, log=print):
             if not _has_job_words(text):
                 cache[url] = {"hash": h, "listings": []}
                 continue
-            if not ai.available:
+            if not ai.available_for_web:
                 ai_skipped += 1
                 if prev:
                     found.extend(prev["listings"])  # zkusíme příště, zatím držíme starý stav

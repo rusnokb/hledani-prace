@@ -105,9 +105,10 @@
   "ai": {
     "provider": "gemini",
     "gemini_model": "gemini-flash-lite-latest",
-    "max_calls_per_run": 180,
+    "max_calls_per_run": 260,
     "pause_seconds": 7,
     "gemini_search_model": "gemini-flash-latest",
-    "claude_model": "claude-haiku-5-5"
+    "claude_model": "claude-haiku-5-5",
+    "reserve_for_scoring": 60
   }
 }

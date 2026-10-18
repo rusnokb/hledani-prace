@@ -54,6 +54,9 @@ def merge(db, found, ok_sources, today=None):
         x["status"] = "active"
         old[x["id"]] = x
 
+    for lid, x in old.items():
+        x["is_new"] = lid in new_ids and bool(db["runs"])  # v úplně prvním běhu není nic „nové“
+
     for lid, x in list(old.items()):
         if lid in seen:
             continue

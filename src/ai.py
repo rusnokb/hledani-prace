@@ -26,6 +26,11 @@ class AI:
     def available(self):
         return bool(self.key) and self.calls < self.max_calls
 
+    @property
+    def available_for_web(self):
+        """Čtení webů nesmí spotřebovat dotazy vyhrazené pro hodnocení nabídek."""
+        return bool(self.key) and self.calls < self.max_calls - CONFIG["ai"].get("reserve_for_scoring", 0)
+
     def json(self, prompt, max_tokens=4096):
         if not self.key:
             raise QuotaExhausted("chybí API klíč")

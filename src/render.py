@@ -6,7 +6,7 @@ from config import CONFIG, ROOT
 OUT = ROOT / "docs" / "index.html"
 
 FIELDS = ("id", "source", "title", "employer", "place", "km", "wage", "shift", "contract", "url", "description",
-          "score", "category", "reason", "shift_risk", "first_seen", "last_seen", "status", "removed_on", "polish")
+          "score", "category", "reason", "shift_risk", "first_seen", "last_seen", "status", "removed_on", "polish", "is_new")
 
 
 def render(db):
@@ -128,7 +128,7 @@ const store = {
 };
 let marks = store.get();
 const lastDate = D.lastRun && D.lastRun.date;
-const isNew = x => x.status === 'active' && x.first_seen === lastDate && D.prevRunDate;
+const isNew = x => x.status === 'active' && x.is_new;
 const fmtDate = s => s ? new Date(s + 'T12:00:00').toLocaleDateString('cs-CZ') : '';
 const state = { tab: 'active', cat: null, showLow: false };
 const tabs = [
