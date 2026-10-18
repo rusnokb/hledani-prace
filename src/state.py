@@ -79,8 +79,13 @@ def merge(db, found, ok_sources, today=None, active_sources=None):
     return new_ids, removed_ids
 
 
+def scoring_key(x):
+    from scoring import SCORING_VERSION
+    return f"{x.get('content_hash')}:{SCORING_VERSION}"
+
+
 def needs_scoring(x):
-    return "score" not in x or x.get("scored_hash") != x.get("content_hash")
+    return "score" not in x or x.get("scored_hash") != scoring_key(x)
 
 
 def load_source_status():

@@ -45,7 +45,7 @@ def run(download=True, skip_web=False):
         n = score_listings(ai, todo)
         for x in todo:
             if "score" in x:
-                x["scored_hash"] = x["content_hash"]
+                x["scored_hash"] = state.scoring_key(x)
         print(f"  ohodnoceno {n}, AI volání v tomto běhu: {ai.calls}")
 
     db["runs"].append({"date": date.today().isoformat(), "found": len(found), "new": len(new_ids),
