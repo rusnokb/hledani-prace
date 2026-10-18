@@ -105,6 +105,7 @@ def fetch(download=True):
             "polish": polish,
             "posted": (x.get("datumVlozeni") or "")[:10],
             "url": DETAIL.format(x["portalId"]),
+            "source_url": "https://up.gov.cz/volna-mista-v-cr",
             "employer_url": x.get("urlAdresa") or "",
             "description": desc.strip()[:3000],
         })

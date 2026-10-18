@@ -5,6 +5,7 @@ from datetime import date, timedelta
 from config import DATA_DIR
 
 FILE = DATA_DIR / "listings.json"
+STATUS_FILE = DATA_DIR / "source_status.json"
 MISSING_RUNS_TO_REMOVE = 2   # kolikrát po sobě musí nabídka chybět, než jde do archivu
 ARCHIVE_DAYS = 60            # jak dlouho archiv držet
 
@@ -27,7 +28,7 @@ def content_hash(x):
     return hashlib.sha1(key.encode("utf-8")).hexdigest()[:12]
 
 
-def merge(db, found, ok_sources, today=None):
+def merge(db, found, ok_sources, today=None, active_sources=None):
     """found: listingy z tohoto běhu; ok_sources: zdroje, které se podařilo načíst.
 
     Vrací (nové, odstraněné) seznamy id."""
@@ -64,6 +65,10 @@ def merge(db, found, ok_sources, today=None):
             if x.get("removed_on", today) < (date.fromisoformat(today) - timedelta(days=ARCHIVE_DAYS)).isoformat():
                 del old[lid]
             continue
+        if active_sources is not None and x.get("source_key") not in active_sources:
+            x["status"], x["removed_on"] = "removed", today  # web byl odebrán ze seznamu
+            removed_ids.append(lid)
+            continue
         if x.get("source_key") not in ok_sources:
             continue  # zdroj tentokrát nešel načíst – nic nemažeme
         x["missing_runs"] = x.get("missing_runs", 0) + 1
@@ -76,3 +81,25 @@ def merge(db, found, ok_sources, today=None):
 
 def needs_scoring(x):
     return "score" not in x or x.get("scored_hash") != x.get("content_hash")
+
+
+def load_source_status():
+    if STATUS_FILE.exists():
+        return json.loads(STATUS_FILE.read_text(encoding="utf-8"))
+    return {}
+
+
+def save_source_status(status, today=None):
+    """Kdy byl který web naposledy úspěšně načten a kolik nabídek měl."""
+    today = today or date.today().isoformat()
+    db = load_source_status()
+    for tid, st in status.items():
+        rec = db.setdefault(tid, {})
+        rec["last_check"] = today
+        rec["listings"] = st["listings"]
+        if st["ok"]:
+            rec["last_ok"] = today
+            rec.pop("error_since", None)
+        else:
+            rec.setdefault("error_since", today)
+    STATUS_FILE.write_text(json.dumps(db, ensure_ascii=False, indent=1), encoding="utf-8")

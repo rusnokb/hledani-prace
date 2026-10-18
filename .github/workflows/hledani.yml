@@ -32,6 +32,6 @@ jobs:
         run: |
           git config user.name "job-seeker bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/listings.json data/web_cache.json docs
+          git add data/listings.json data/web_cache.json data/source_status.json docs
           git diff --cached --quiet || git commit -m "Aktualizace nabídek $(date +%F)"
-          git push
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 10; done

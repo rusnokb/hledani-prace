@@ -29,12 +29,14 @@ def run(download=True, skip_web=False):
     targets = careers.load_targets()
     if not skip_web and targets:
         print(f"Weby zaměstnavatelů ({len(targets)}) …")
-        items, ok_web = careers.fetch(ai)
+        items, ok_web, status = careers.fetch(ai)
         found += items
         ok |= ok_web
+        state.save_source_status(status)
         print(f"  {len(items)} nabídek z webů, načteno {len(ok_web)}/{len(targets)} organizací")
 
-    new_ids, removed_ids = state.merge(db, found, ok)
+    active = {"upcr"} | {f"web:{t['id']}" for t in targets}
+    new_ids, removed_ids = state.merge(db, found, ok, active_sources=active)
     print(f"Porovnání s minulým během: {len(new_ids)} nových, {len(removed_ids)} smazaných.")
 
     todo = [x for x in db["listings"].values() if x["status"] == "active" and state.needs_scoring(x)]

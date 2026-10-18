@@ -1,0 +1,56 @@
+name: Správa seznamu webů
+
+# Požadavky z formuláře na stránce („Přidat web“ / „Odebrat“) přicházejí jako GitHub Issues.
+# Zpracují se jen požadavky od vlastníka repozitáře (nebo přizvaných spolupracovníků).
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  apply:
+    if: >-
+      startsWith(github.event.issue.title, '[web]') &&
+      contains(fromJSON('["OWNER","COLLABORATOR","MEMBER"]'), github.event.issue.author_association)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Provést změnu
+        id: apply
+        env:
+          BODY: ${{ github.event.issue.body }}
+        run: |
+          printf '%s' "$BODY" > "$RUNNER_TEMP/pozadavek.txt"
+          set +e
+          python src/manage.py issue "$RUNNER_TEMP/pozadavek.txt" > "$RUNNER_TEMP/vysledek.txt" 2>&1
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+          cat "$RUNNER_TEMP/vysledek.txt"
+      - name: Uložit
+        if: steps.apply.outputs.code == '0'
+        env:
+          TITLE: ${{ github.event.issue.title }}
+        run: |
+          git config user.name "job-seeker bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/targets.json manual_targets.json data/listings.json docs
+          git diff --cached --quiet || git commit -m "Seznam webů: $TITLE"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 10; done
+      - name: Odpovědět a zavřít
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+          CODE: ${{ steps.apply.outputs.code }}
+        run: |
+          if [ "$CODE" = "0" ]; then MARK="✅"; else MARK="⚠️"; fi
+          { echo "$MARK $(tail -n 5 "$RUNNER_TEMP/vysledek.txt")"; echo; echo "Stránka se aktualizuje do pár minut."; } > "$RUNNER_TEMP/komentar.txt"
+          gh issue comment "$ISSUE" --body-file "$RUNNER_TEMP/komentar.txt" -R "$GITHUB_REPOSITORY"
+          if [ "$CODE" = "0" ]; then gh issue close "$ISSUE" -R "$GITHUB_REPOSITORY"; fi

@@ -110,5 +110,6 @@
     "gemini_search_model": "gemini-flash-latest",
     "claude_model": "claude-haiku-5-5",
     "reserve_for_scoring": 60
-  }
+  },
+  "github_repo": "rusnokb/hledani-prace"
 }

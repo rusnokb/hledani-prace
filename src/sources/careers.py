@@ -118,15 +118,21 @@ def _has_job_words(text):
 
 
 def fetch(ai, log=print):
-    """Vrací (listingy, množina úspěšně načtených source_key)."""
+    """Vrací (listingy, množina úspěšně načtených source_key, stav jednotlivých organizací)."""
     targets = load_targets()
     cache = _load_cache()
-    out, ok = [], set()
+    out, ok, status = [], set(), {}
     ai_skipped = 0
+    seen_pages = set()
     for n, t in enumerate(targets, 1):
         if n % 50 == 0:
             log(f"  … {n}/{len(targets)} organizací, AI volání: {ai.calls}")
         key = f"web:{t['id']}"
+        pages = frozenset(u.strip() for u in t.get("check_urls", []))
+        if pages and pages <= seen_pages:  # stejná kariérní stránka jako jiná firma ze skupiny
+            ok.add(key)
+            continue
+        seen_pages |= pages
         found = []
         failed = False
         queue = [(u.strip(), 0) for u in t.get("check_urls", [])]
@@ -151,7 +157,7 @@ def fetch(ai, log=print):
             h = hashlib.sha1(text.encode("utf-8")).hexdigest()
             prev = cache.get(url)
             if prev and prev["hash"] == h:
-                found.extend(prev["listings"])
+                found.extend(dict(i, page=url) for i in prev["listings"])
                 if depth < MAX_DEPTH:
                     queue += [(m, depth + 1) for m in prev.get("more", [])]
                 continue
@@ -161,7 +167,7 @@ def fetch(ai, log=print):
             if not ai.available_for_web:
                 ai_skipped += 1
                 if prev:
-                    found.extend(prev["listings"])  # zkusíme příště, zatím držíme starý stav
+                    found.extend(dict(i, page=url) for i in prev["listings"])  # zkusíme příště
                 else:
                     failed = True  # nepotvrzeno – nic nemazat
                 continue
@@ -171,7 +177,7 @@ def fetch(ai, log=print):
                 ai_skipped += 1
                 failed = True
                 if prev:
-                    found.extend(prev["listings"])
+                    found.extend(dict(i, page=url) for i in prev["listings"])
                 continue
             except Exception as e:
                 log(f"  ! {t['name']}: AI chyba ({e})")
@@ -184,11 +190,12 @@ def fetch(ai, log=print):
             more = [urljoin(url, m) for m in res.get("more_pages", []) if isinstance(m, str)]
             more = [m for m in more if urlparse(m).netloc == host and m != url][:3]
             cache[url] = {"hash": h, "listings": items, "more": more}
-            found.extend(items)
+            found.extend(dict(i, page=url) for i in items)
             if depth < MAX_DEPTH:
                 queue += [(m, depth + 1) for m in more]
         if not failed:
             ok.add(key)
+        before = len(out)
         for i in found:
             title = clean_ws(i.get("title"))
             if excluded_reason(title, i.get("shift"), i.get("description")):
@@ -206,11 +213,14 @@ def fetch(ai, log=print):
                 "shift": clean_ws(i.get("shift")),
                 "contract": clean_ws(i.get("contract")),
                 "url": i.get("url") or t["check_urls"][0],
+                "source_url": i.get("page") or t["check_urls"][0],
                 "description": clean_ws(i.get("description")),
             })
+        if t.get("check_urls"):
+            status[t["id"]] = {"ok": not failed, "listings": len(out) - before}
     _save_cache(cache)
     if ai_skipped:
         log(f"  Weby: {ai_skipped} změněných stránek čeká na AI (limit) – dokončí se příště.")
     # stejná nabídka může být na více stránkách jedné organizace
     uniq = {x["id"]: x for x in out}
-    return list(uniq.values()), ok
+    return list(uniq.values()), ok, status
