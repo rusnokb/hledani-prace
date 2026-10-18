@@ -116,7 +116,10 @@ def remove(key):
             x["status"], x["removed_on"] = "removed", date.today().isoformat()
             gone += 1
     state.save(db)
-    return True, f"Odebráno: {', '.join(names)}" + (f" ({gone} nabídek přesunuto do archivu)." if gone else ".")
+    msg = "Odebráno: " + ", ".join(names)
+    if gone:
+        msg += f" ({gone} nabídek přesunuto do archivu)"
+    return True, msg if msg.endswith(".") else msg + "."
 
 
 def from_issue(body):
