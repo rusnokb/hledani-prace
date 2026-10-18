@@ -26,7 +26,8 @@ def _sources():
         out.append({"id": t["id"], "name": t["name"], "kind": KIND_LABEL.get(t["kind"], t["kind"]),
                     "place": t.get("place", ""), "km": t.get("km"), "web": t.get("website", ""),
                     "urls": t.get("check_urls", []), "on": t.get("enabled", True),
-                    "ok": st.get("last_ok"), "err": st.get("error_since"), "n": st.get("listings")})
+                    "ok": st.get("last_ok"), "err": st.get("error_since"), "n": st.get("listings"),
+                    "shared": st.get("shared")})
     return out, sum(1 for t in targets if not t.get("check_urls"))
 
 
@@ -234,6 +235,7 @@ function issueUrl(title, body){
 function srcState(s){
   if (!s.on) return ['off', 'vypnuto'];
   if (s.err) return ['err', `nejde načíst od ${fmtDate(s.err)}`];
+  if (s.shared) return ['', `stejná stránka jako ${s.shared} – nabídky jsou uvedeny tam`];
   if (s.ok) return ['', `zkontrolováno ${fmtDate(s.ok)} · nabídek: ${s.n ?? 0}`];
   return ['wait', 'zatím nekontrolováno'];
 }

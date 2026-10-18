@@ -123,16 +123,18 @@ def fetch(ai, log=print):
     cache = _load_cache()
     out, ok, status = [], set(), {}
     ai_skipped = 0
-    seen_pages = set()
+    seen_pages = {}  # url -> název organizace, která ji kontroluje
     for n, t in enumerate(targets, 1):
         if n % 50 == 0:
             log(f"  … {n}/{len(targets)} organizací, AI volání: {ai.calls}")
         key = f"web:{t['id']}"
         pages = frozenset(u.strip() for u in t.get("check_urls", []))
-        if pages and pages <= seen_pages:  # stejná kariérní stránka jako jiná firma ze skupiny
+        if pages and pages <= set(seen_pages):  # stejná kariérní stránka jako jiná firma ze skupiny
             ok.add(key)
+            status[t["id"]] = {"ok": True, "listings": 0, "shared": seen_pages[next(iter(pages))]}
             continue
-        seen_pages |= pages
+        for u in pages:
+            seen_pages.setdefault(u, t["name"])
         found = []
         failed = False
         queue = [(u.strip(), 0) for u in t.get("check_urls", [])]
@@ -172,7 +174,8 @@ def fetch(ai, log=print):
                     failed = True  # nepotvrzeno – nic nemazat
                 continue
             try:
-                res = ai.json(PROMPT.format(name=t["name"], place=t.get("place", ""), url=url, text=text))
+                res = ai.json(PROMPT.format(name=t["name"], place=t.get("place", ""), url=url, text=text),
+                              max_tokens=8192)
             except QuotaExhausted:
                 ai_skipped += 1
                 failed = True

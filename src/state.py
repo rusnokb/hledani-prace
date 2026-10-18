@@ -102,6 +102,10 @@ def save_source_status(status, today=None):
         rec = db.setdefault(tid, {})
         rec["last_check"] = today
         rec["listings"] = st["listings"]
+        if st.get("shared"):
+            rec["shared"] = st["shared"]
+        else:
+            rec.pop("shared", None)
         if st["ok"]:
             rec["last_ok"] = today
             rec.pop("error_since", None)
