@@ -519,15 +519,15 @@
   "more": []
  },
  "https://www.kohut.cz/prace/": {
-  "hash": "e3dcd472c85be9433115fdf21249f1f4ddbffb3d",
+  "hash": "99fa51706366657fa6a67d09a78cd447e29657fc",
   "listings": [
    {
     "title": "SERVISNÍ TECHNIK",
     "url": "https://www.kohut.cz/prace/",
     "place": "Třinec / Smilovice",
     "contract": "",
-    "shift": "6:00 – 14:30, volné víkendy",
-    "description": "Zázemí stabilní rodinné společnosti, přátelský kolektiv, obědy zdarma, vzdělávání, mobilní telefon. Požadujeme SŠ/SOU technického směru (nebo chuť se učit), řidičský průkaz skupiny B. Zkušenost s opravami stavebních strojů je výhodou."
+    "shift": "Pracovní doba 6:00 – 14:30, volné víkendy",
+    "description": "Požadujeme SŠ/SOU technického směru nebo chuť se učit novému, řidičský průkaz skupiny B, zkušenost s opravou stavebních strojů je výhodou. Nabízíme zázemí stabilní rodinné společnosti, přátelský kolektiv, obědy zdarma, vzdělávání a mobilní telefon."
    }
   ],
   "more": []
@@ -2891,7 +2891,7 @@
   "more": []
  },
  "https://anaj.cz/kariera/volne-pozice/": {
-  "hash": "c3eb97d37ccb985c26ae856812fb32ab1131f1d7",
+  "hash": "9c4012fafeb11fb324884de81b78b92bbf200bb6",
   "listings": [
    {
     "title": "Pracovník technického směru/údržby",
@@ -2899,7 +2899,7 @@
     "place": "",
     "contract": "",
     "shift": "",
-    "description": "Pracovník technického směru/údržby. Detailní informace naleznete na odkazované stránce."
+    "description": "Volná pozice pro pracovníka technického směru nebo údržby. Detailní informace naleznete na odkazované stránce."
    },
    {
     "title": "Kalkulant – podpora obchodu",
@@ -2907,7 +2907,7 @@
     "place": "",
     "contract": "",
     "shift": "",
-    "description": "Kalkulant – podpora obchodu. Detailní informace naleznete na odkazované stránce."
+    "description": "Pozice kalkulanta pro podporu obchodu. Detailní informace naleznete na odkazované stránce."
    }
   ],
   "more": []
@@ -2997,7 +2997,7 @@
   "listings": []
  },
  "https://lakum.cz/": {
-  "hash": "660fa4cd8bddd7f63dffe1aa1c2fc6cca5a5a066",
+  "hash": "cf033fee471f2d33f5b949fb65ed5940d7e82083",
   "listings": []
  },
  "http://sky-cz.com/kariera": {
@@ -3044,7 +3044,7 @@
   ]
  },
  "https://www.jenprace.cz/": {
-  "hash": "374fbc12a584eadcf4919dd059608063dee24f16",
+  "hash": "66782391fb98c85595c760ea6fdc918b86db3338",
   "listings": [],
   "more": []
  },
@@ -3058,12 +3058,9 @@
   "more": []
  },
  "https://www.jobs.cz/": {
-  "hash": "3059724c8ec06e833836aee02871753395115d55",
+  "hash": "4e4b38bc013a49a9979332b07a9aabc0bd130422",
   "listings": [],
-  "more": [
-   "https://www.jobs.cz/prace/",
-   "https://www.jobs.cz/spolecnosti/"
-  ]
+  "more": []
  },
  "https://www.jobs.cz/prace/": {
   "hash": "b7b6c72e454ea01b3b4fe85ceb433203cbfd513c",
@@ -3895,7 +3892,7 @@
   "more": []
  },
  "https://www.sssfno.cz/o-nas/kariera/": {
-  "hash": "120637b6740549369b7c09b6947a3c2c31f39e0d",
+  "hash": "585c4ca1708c416921fc98779b1e1e1461b2f86c",
   "listings": [
    {
     "title": "Pracovník v sociálních službách v pobytové službě",
@@ -3903,7 +3900,7 @@
     "place": "Frýdlant nad Ostravicí",
     "contract": "",
     "shift": "",
-    "description": "Hledáme spolehlivého a empatického člověka na pozici pracovník v sociálních službách v pobytové službě."
+    "description": "Hledáme spolehlivého a empatického člověka na pozici pracovník v sociálních službách v pobytové službě. Náplní práce je poskytování pomoci a podpory klientům v pobytovém zařízení."
    },
    {
     "title": "Vedoucí Pečovatelské služby",
@@ -3930,7 +3927,7 @@
   "more": []
  },
  "https://www.dsfm.cz/kontakt/kariera/": {
-  "hash": "200cc923c3b924aa80a9add38af7c331baf2d2ea",
+  "hash": "b65f8d1b14b26ab675e05fe6963891894305f7bd",
   "listings": [
    {
     "title": "Pracovník v sociálních službách",
@@ -4389,17 +4386,8 @@
   "listings": []
  },
  "https://www.obechrcava.cz/": {
-  "hash": "573bd2a9e8bdfe42550664973c4dc801c9fc9bf9",
-  "listings": [
-   {
-    "title": "referent obecního úřadu Písek",
-    "url": "https://www.obechrcava.cz/urad/informace-ou/vyberove-rizeni-na-pozici-referent-obecniho-uradu-pisek-162cs.html",
-    "place": "Písek",
-    "contract": null,
-    "shift": null,
-    "description": "Výběrové řízení na pozici referent obecního úřadu Písek."
-   }
-  ],
+  "hash": "4371471ab7440cef53f3b686728729f0832aeb4e",
+  "listings": [],
   "more": []
  },
  "https://www.komorni-lhotka.cz/": {
@@ -4444,7 +4432,7 @@
   "listings": []
  },
  "https://www.sobesovice.cz/": {
-  "hash": "c91f158c54d86952b67f170d4bef0268ce2cf7d3",
+  "hash": "ede59da61b9c4ef6d4a0622c6bae01cbf84dbfb7",
   "listings": []
  },
  "https://www.niznilhoty.cz/": {
@@ -4473,7 +4461,7 @@
   "listings": []
  },
  "https://www.lucina.cz/": {
-  "hash": "0b49f59a55594811bcfeccf289fbcc5f3320407a",
+  "hash": "00e884cee377217fee496c5695ad946857785754",
   "listings": []
  },
  "https://www.nosovice.cz/": {
@@ -4797,7 +4785,7 @@
   "listings": []
  },
  "https://zssvobody.cz/": {
-  "hash": "173a5c32d6d63b4617b2f9b74a9297b4c3f0faf5",
+  "hash": "965656b14a940d8b930890ccf8890d38903c84ca",
   "listings": []
  },
  "https://www.zsgh.cz/": {
@@ -4837,7 +4825,7 @@
   "listings": []
  },
  "https://www.skolastaremesto.cz/": {
-  "hash": "481d69a86526583ff506cab764b47daabeb7a4c4",
+  "hash": "ebe913da415846f8145c77ed07c2f5d2a0ef0d24",
   "listings": []
  },
  "https://www.zsprzno.cz/": {
@@ -4861,7 +4849,7 @@
   "listings": []
  },
  "https://www.zskomenskehofno.cz/": {
-  "hash": "37d087a82a2b26e404d09537ea2ab76ada9a1d88",
+  "hash": "08f3de227462e923c57bca05b366ade54d01ecf6",
   "listings": []
  },
  "https://zsfrydlant.cz/": {
@@ -4885,7 +4873,7 @@
   "listings": []
  },
  "https://www.zus-senov.cz/": {
-  "hash": "3ce281efbbe217e9d8c8221aca68d573024744c5",
+  "hash": "7e42c6270c0379b7f66f50285371fc8e5b5db418",
   "listings": []
  },
  "https://zsgalileoschool.edupage.org/": {
@@ -4989,7 +4977,925 @@
   "listings": []
  },
  "https://www.zsrepiste.cz/": {
-  "hash": "667c73bde27ad63889539c44f42a2f9ef79b6e9a",
+  "hash": "a251108c51858d19794daaf19b64006b61dd7b47",
   "listings": []
+ },
+ "https://stonava.cz/vyberova-rizeni": {
+  "hash": "cddd13c87603a0029d7eb3deafcd5536d7d50817",
+  "listings": [],
+  "more": []
+ },
+ "https://www.obeczermanice.cz/obecni-urad/vyberova-rizeni/": {
+  "hash": "54a2310ca04a52b5c318762ed8f9d8fb04bdc958",
+  "listings": [],
+  "more": []
+ },
+ "https://www.dobra.cz/": {
+  "hash": "92995d2cbfee9facb2e36fe5177e92af80bbc786",
+  "listings": [],
+  "more": []
+ },
+ "https://www.karvina.cz/magistrat/pracovni-mista": {
+  "hash": "97c570c463347ddad8488cb445271fe3eb293425",
+  "listings": [],
+  "more": [
+   "https://www.karvina.cz/magistrat/uredni-deska?category=10&submit=Filtrovat"
+  ]
+ },
+ "https://www.karvina.cz/mestska-policie/volna-pracovni-mista": {
+  "hash": "65fe833b07a4062a6c4b4ea9db4666471a201ad6",
+  "listings": [],
+  "more": []
+ },
+ "https://www.karvina.cz/magistrat/uredni-deska?category=10&submit=Filtrovat": {
+  "hash": "01a3cf65b39e110c223b8568437bc84bffbade70",
+  "listings": []
+ },
+ "https://www.stare-mesto.cz/": {
+  "hash": "0a75e11cc206a511a4f5fca7bf5505b721a930b8",
+  "listings": [],
+  "more": [
+   "https://www.stare-mesto.cz/uredni-deska",
+   "https://www.stare-mesto.cz/aktuality"
+  ]
+ },
+ "https://www.stare-mesto.cz/uredni-deska": {
+  "hash": "9a2d870d5f8e4d8223cc84dd3ba2e818809bd831",
+  "listings": [],
+  "more": []
+ },
+ "https://www.stare-mesto.cz/aktuality": {
+  "hash": "3b05b0bf5b2176c05fad4a343c79ebfbc79d0ad9",
+  "listings": [],
+  "more": [
+   "https://www.stare-mesto.cz/uredni-deska"
+  ]
+ },
+ "https://www.doubrava.cz/cs": {
+  "hash": "f2db81f3b7422cee465de46b569db14af307623d",
+  "listings": [
+   {
+    "title": "Hledáme knihovníka/knihovnici do naší knihovny",
+    "url": "https://www.doubrava.cz/cs/hledame-knihovnika-knihovnici-do-nasi-knihovny/3709-r-8",
+    "place": "Obecní knihovna Doubrava",
+    "contract": "",
+    "shift": "",
+    "description": "Hledáme knihovníka či knihovnici do naší knihovny. Máte-li rádi knihy, práci s lidmi a klidné, příjemné prostředí knihovny, přidejte se k nám."
+   }
+  ],
+  "more": [
+   "https://www.doubrava.cz/cs/uredni-deska/1-w-m",
+   "https://www.doubrava.cz/cs/aktuality/5-w-m"
+  ]
+ },
+ "https://www.doubrava.cz/cs/uredni-deska/1-w-m": {
+  "hash": "9aad05cc5eacf9d6995f6a7337250ed6db92c53d",
+  "listings": []
+ },
+ "https://www.doubrava.cz/cs/aktuality/5-w-m": {
+  "hash": "8132f383f3ca6f7460343cf38c0931b923789dc0",
+  "listings": [
+   {
+    "title": "Knihovník / knihovnice",
+    "url": "https://www.doubrava.cz/cs/hledame-knihovnika-knihovnici-do-nasi-knihovny/3709-r-5",
+    "place": "Obecní knihovna Doubrava",
+    "contract": "",
+    "shift": "",
+    "description": "Hledáme nového kolegu či kolegyni do naší knihovny. Pokud máte rádi knihy, práci s lidmi a hledáte klidné a příjemné prostředí, přidejte se k nám."
+   }
+  ],
+  "more": [
+   "https://www.doubrava.cz/cs/aktuality/5-w-m?stranka=2",
+   "https://www.doubrava.cz/cs/aktuality/5-w-m?stranka=3",
+   "https://www.doubrava.cz/cs/aktuality/5-w-m?stranka=4"
+  ]
+ },
+ "https://www.obec-ostravice.cz/aktualne/volna-pracovni-mista/": {
+  "hash": "89a6b2dc76a11b8734f218a287f8be36d08f3004",
+  "listings": [
+   {
+    "title": "Beskydský pivovárek hledá posily do týmu",
+    "url": "https://www.obec-ostravice.cz/aktualne/volna-pracovni-mista/beskydsky-pivovarek-hleda-posily-do-tymu-3327cs.html",
+    "place": "Ostravice",
+    "contract": "",
+    "shift": "",
+    "description": "Beskydský pivovárek hledá posily do týmu na pozice číšníci, úklid a pomoc v kuchyni."
+   },
+   {
+    "title": "Úklid železniční stanice ve městě Frýdlant nad Ostravicí",
+    "url": "https://www.obec-ostravice.cz/aktualne/volna-pracovni-mista/uklid-zeleznicni-stanice-ve-meste-frydlant-nad-ostravici-3321cs.html",
+    "place": "Frýdlant nad Ostravicí",
+    "contract": "",
+    "shift": "",
+    "description": "Nabídka úklidu železniční stanice ve městě Frýdlant nad Ostravicí."
+   },
+   {
+    "title": "Matrika a evidence obyvatel",
+    "url": "https://www.obec-ostravice.cz/aktualne/volna-pracovni-mista/starosta-obce-ostravice-vyhlasuje-vyberove-rizeni-c-1-2026-na-obsazeni-pracovniho-mista-3298cs.html",
+    "place": "Ostravice",
+    "contract": "",
+    "shift": "",
+    "description": "Starosta obce Ostravice vyhlašuje výběrové řízení č. 1/2026 na obsazení pracovního místa pro úsek matrika a evidence obyvatel."
+   }
+  ],
+  "more": []
+ },
+ "https://www.frydekmistek.cz/magistrat/volna-pracovni-mista/": {
+  "hash": "d77dec19c04ecd3dbe298d2c252b8d415ac7ea96",
+  "listings": [
+   {
+    "title": "Sociální pracovník oddělení sociálně-právní ochrany dětí OSS",
+    "url": "https://www.frydekmistek.cz/uredni-deska/vyberove-rizeni-socialni-pracovnik-oddeleni-socialne-pravni-ochrany-deti-oss-t-16-10-2026/",
+    "place": "Frýdek-Místek",
+    "contract": "",
+    "shift": "",
+    "description": "Výběrové řízení na pozici sociálního pracovníka oddělení sociálně-právní ochrany dětí OSS. Termín pro podání přihlášek je do 16. 10. 2026. Přihlášky s požadovanými doklady je nutné zaslat na e-mail podatelna@frydekmistek.cz nebo poštou na adresu odboru vnitřních věcí Magistrátu města Frýdku-Místku."
+   }
+  ],
+  "more": []
+ },
+ "https://www.mesto-orlova.cz/cz/radnice/pracovni-prilezitosti/": {
+  "hash": "43324395cbe3634c5e6bd53a4b92c68891b149a3",
+  "listings": [
+   {
+    "title": "Výběrové řízení 3/2026 - úředník registru vozidel, zkušební komisař",
+    "url": "https://www.mesto-orlova.cz/cz/radnice/pracovni-prilezitosti/cz/radnice/pracovni-prilezitosti/46532-vyberove-rizeni-3-2026-urednik-registru-vozidel-zkuebni-komisar.html",
+    "place": "Městský úřad Orlová",
+    "contract": "",
+    "shift": "",
+    "description": "Tajemník MěÚ Orlová vyhlásil výběrové řízení na obsazení pracovní pozice úředníka/-nice registru vozidel a zkušebního komisaře. Bližší požadavky pro podání přihlášky naleznete v textu výběrového řízení."
+   }
+  ],
+  "more": [
+   "https://www.mesto-orlova.cz/cz/radnice/pracovni-prilezitosti/cz/radnice/pracovni-prilezitosti/"
+  ]
+ },
+ "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/": {
+  "hash": "88d68b5659dd389f5c99710afc473dd7a1cc13c1",
+  "listings": [],
+  "more": [
+   "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/cz/zpravodajstvi/nabidky-prace/",
+   "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/cz/radnice/pracovni-prilezitosti/"
+  ]
+ },
+ "https://www.mesto-orlova.cz/cz/radnice/pracovni-prilezitosti/cz/radnice/pracovni-prilezitosti/": {
+  "hash": "665f6e5bae391e31257abfbee848e514a3bdbd34",
+  "listings": [],
+  "more": [
+   "https://www.mesto-orlova.cz/cz/radnice/uredni-deska/"
+  ]
+ },
+ "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/cz/zpravodajstvi/nabidky-prace/": {
+  "hash": "b011d7cc11a6fcf0746bd3344c2e353f12730c23",
+  "listings": [],
+  "more": [
+   "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/cz/zpravodajstvi/nabidky-prace/cz/radnice/pracovni-prilezitosti/",
+   "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/cz/zpravodajstvi/nabidky-prace/cz/zpravodajstvi/nabidky-prace/"
+  ]
+ },
+ "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/cz/radnice/pracovni-prilezitosti/": {
+  "hash": "f8951cf833fe1268f70499331550c93ea60d39bc",
+  "listings": [],
+  "more": [
+   "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/cz/radnice/pracovni-prilezitosti/cz/zpravodajstvi/nabidky-prace/",
+   "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/cz/radnice/pracovni-prilezitosti/cz/radnice/pracovni-prilezitosti/"
+  ]
+ },
+ "https://metylovice.cz/vse-o-metylovicich/aktuality/2512-volne-pracovni-misto-v-zakladni-skole": {
+  "hash": "5f828d98fd953a71d71dd997338dc62902feb4a5",
+  "listings": [
+   {
+    "title": "Volné pracovní místo v základní škole",
+    "url": "https://metylovice.cz/vse-o-metylovicich/aktuality/2512-volne-pracovni-misto-v-zakladni-skole",
+    "place": "Základní škola Mjr. Ambrože Bílka a Mateřská škola Metylovice, p.o.",
+    "contract": "",
+    "shift": "Nástup možný již od 1. října 2026",
+    "description": "Základní škola Mjr. Ambrože Bílka a Mateřská škola Metylovice, p.o., hledá novou posilu do svého kolektivu."
+   }
+  ],
+  "more": []
+ },
+ "https://www.detmarovice.cz/": {
+  "hash": "578be1e1b462593a41fa423c2b363aa3f01a0c30",
+  "listings": [],
+  "more": []
+ },
+ "https://www.ddmbystrice.cz/": {
+  "hash": "9b7caa6b5a26ce42729b52034603a8ac4f48833e",
+  "listings": [],
+  "more": []
+ },
+ "https://www.zshradek.cz/zakladni-skola/volna-mista/": {
+  "hash": "26fcba6805c1490356e39f0d6653437e2fde69b2",
+  "listings": [
+   {
+    "title": "učitel/ka 1. stupně",
+    "url": "https://www.zshradek.cz/zakladni-skola/volna-mista/",
+    "place": "Hrádek",
+    "contract": "",
+    "shift": "",
+    "description": "Volná pozice učitele/ky 1. stupně pro školní rok 2024/25."
+   },
+   {
+    "title": "učitel/ka AJ",
+    "url": "https://www.zshradek.cz/zakladni-skola/volna-mista/",
+    "place": "Hrádek",
+    "contract": "",
+    "shift": "",
+    "description": "Volná pozice učitele/ky anglického jazyka pro školní rok 2024/25."
+   }
+  ],
+  "more": []
+ },
+ "https://www.zshradek.cz/materska-skola/volna-mista/": {
+  "hash": "e5215df2e003c3e08fcda3cbbff1fb94ac0c5452",
+  "listings": [],
+  "more": []
+ },
+ "https://www.gymtri.cz/": {
+  "hash": "46b3afc9dda5b7aaf5a0e083bd9bd1c445d84e42",
+  "listings": [
+   {
+    "title": "Učitel/učitelka anglického jazyka",
+    "url": "https://www.gymtri.cz/nabidka-pracovniho-mista-ucitel-ucitelka-anglickeho-jazyka/",
+    "place": "Třinec",
+    "contract": "",
+    "shift": "",
+    "description": "Nabídka pracovního místa na pozici učitel/učitelka anglického jazyka na Gymnáziu, Třinec."
+   }
+  ],
+  "more": []
+ },
+ "https://www.spstz.cz/kariera": {
+  "hash": "88c43a5c2587b33e6f8e8d8d1974d347eae0cf37",
+  "listings": [
+   {
+    "title": "Volná pracovní pozice - Firma Refrasil",
+    "url": "https://www.spstz.cz/_files/ugd/c3bacb_5518e2e3b807424285ed0f8e586c6429.pdf",
+    "place": "Třinec",
+    "contract": "",
+    "shift": "",
+    "description": "Volná pracovní pozice ve firmě Refrasil. Více informací naleznete v přiloženém dokumentu."
+   },
+   {
+    "title": "Volná pracovní pozice - Energetika Třinec",
+    "url": "https://www.spstz.cz/_files/ugd/c3bacb_862ab4f41ac3488fa9a3c1a2d5b8e8df.pdf",
+    "place": "Třinec",
+    "contract": "",
+    "shift": "",
+    "description": "Volná pracovní pozice v Energetice Třinec. Více informací naleznete v přiloženém dokumentu."
+   },
+   {
+    "title": "Volná pracovní pozice - Energetika Třinec",
+    "url": "https://www.spstz.cz/_files/ugd/c3bacb_b5cf4712d88a430b9c26995fe67be999.pdf",
+    "place": "Třinec",
+    "contract": "",
+    "shift": "",
+    "description": "Volná pracovní pozice v Energetice Třinec. Více informací naleznete v přiloženém dokumentu."
+   },
+   {
+    "title": "Volná pracovní pozice - Pickering",
+    "url": "https://www.spstz.cz/_files/ugd/c3bacb_b6d4f7d8c6e94ef488f957db3e3f2452.pdf",
+    "place": "Třinec",
+    "contract": "",
+    "shift": "",
+    "description": "Volná pracovní pozice ve firmě Pickering. Více informací naleznete v přiloženém dokumentu."
+   }
+  ],
+  "more": []
+ },
+ "https://www.spstz.cz/nabidka-prace": {
+  "hash": "c4cef613340a0cc4c10e9cf7443faa28ddcf5416",
+  "listings": [
+   {
+    "title": "Učitel/učitelka všeobecně vzdělávacích a odborných předmětů pro žáky speciálních vzdělávacích oborů",
+    "url": "https://www.spstz.cz/_files/ugd/c3bacb_d9bc7529850744c4bd793d7b18328d09.pdf",
+    "place": "Třinec",
+    "contract": "",
+    "shift": "",
+    "description": "Výběrové řízení na pozici učitele/učitelky všeobecně vzdělávacích a odborných předmětů pro žáky speciálních vzdělávacích oborů."
+   },
+   {
+    "title": "Učitel/učitelka anglického jazyka",
+    "url": "https://www.spstz.cz/_files/ugd/c3bacb_10feddc784d34550acf66bffc20e2ef0.pdf",
+    "place": "Třinec",
+    "contract": "",
+    "shift": "",
+    "description": "Výběrové řízení na pozici učitele/učitelky anglického jazyka."
+   },
+   {
+    "title": "Učitel odborného výcviku - Instalatér/Strojní mechanik",
+    "url": "https://www.spstz.cz/_files/ugd/c3bacb_ded1d1184e4e47ee8a1aaf709e7d7ba4.pdf",
+    "place": "Třinec",
+    "contract": "",
+    "shift": "",
+    "description": "Výběrové řízení na pozici učitele odborného výcviku pro obory Instalatér a Strojní mechanik."
+   },
+   {
+    "title": "Učitel odborného výcviku - Elektro",
+    "url": "https://www.spstz.cz/_files/ugd/c3bacb_9c5c86133d3b4f75aa6267e87aaec038.pdf",
+    "place": "Třinec",
+    "contract": "",
+    "shift": "",
+    "description": "Výběrové řízení na pozici učitele odborného výcviku pro oblast Elektro."
+   }
+  ],
+  "more": []
+ },
+ "https://zspisecna.cz/": {
+  "hash": "224a03f0ef10631a6f0f4abf4fce31f4fcdac14e",
+  "listings": [],
+  "more": []
+ },
+ "https://www.zsjablunkov.cz/cs/vyberova-rizeni": {
+  "hash": "60821215de16bfd44625614b538dc82ece34061b",
+  "listings": [],
+  "more": []
+ },
+ "https://www.zspisek.cz/cs/pracovni-nabidky": {
+  "hash": "16019576889f8dfe286b9bd4ffed94d0be643580",
+  "listings": [],
+  "more": []
+ },
+ "https://www.albrechtovastredni.cz/": {
+  "hash": "3af1afa4f683823144c0c2762bd4813e9e9fae8a",
+  "listings": [],
+  "more": []
+ },
+ "https://www.svcamos.cz/informace-o-svc-amos-volna-pracovni-mista": {
+  "hash": "60fbe1ceaa0e5c5e2a806313e0bc4e8c0b75fe2b",
+  "listings": [
+   {
+    "title": "Hledáme nové lektory kroužků pro děti",
+    "url": "https://www.svcamos.cz/informace-o-svc-amos-volna-pracovni-mista/579-hledame-nove-lektory-krouzku-pro-deti",
+    "place": "Český Těšín",
+    "contract": "externí",
+    "shift": "",
+    "description": "Středisko volného času Amos hledá šikovné externí lektory pro vedení zájmových kroužků pro děti v novém školním roce 2026/2027. Požadujeme nápady, energii a chuť pracovat s dětmi."
+   }
+  ],
+  "more": []
+ },
+ "https://www.zsdolnilomna.cz/": {
+  "hash": "fd5a4c094a2bbf8e5867f2e7e3c77024a849f808",
+  "listings": [],
+  "more": []
+ },
+ "https://zshrabina.cz/o-skole/volna-pracovni-mista": {
+  "hash": "1a57441efe1a99ccc36ab673b3e4da41a1966b68",
+  "listings": [
+   {
+    "title": "Učitel pro 1. stupeň ZŠ",
+    "url": "https://zshrabina.cz/o-skole/volna-pracovni-mista/hledame-ucitele-pro-1-stupen-zs.90",
+    "place": "Český Těšín",
+    "contract": "",
+    "shift": "",
+    "description": "Hledáme do našeho týmu kolegu či kolegyni na pozici učitele/učitelky 1. stupně ZŠ s nástupem od 1. 9. 2026."
+   }
+  ],
+  "more": []
+ },
+ "https://www.skolaterlicko.cz/": {
+  "hash": "08c57b3bd2c3e6a4d7c257417461b3287082b619",
+  "listings": [],
+  "more": [
+   "https://www.skolaterlicko.cz/volne-pracovni-pozice/"
+  ]
+ },
+ "https://www.skolaterlicko.cz/volne-pracovni-pozice/": {
+  "hash": "e5b02a93ee6e7e48a442a109fd54d71106a11a03",
+  "listings": [],
+  "more": []
+ },
+ "https://www.zsdobra.cz/o-skole/pracovni-prilezitosti/": {
+  "hash": "9067ef4c103fb4fe2567414882ad59e886ca0f29",
+  "listings": [
+   {
+    "title": "Kuchařka / kuchař",
+    "url": "mailto:jidelna@zsdobra.cz",
+    "place": "Základní škola Dobrá, p. o.",
+    "contract": "zástup za dlouhodobou pracovní neschopnost s možností následného pokračování",
+    "shift": "",
+    "description": "Základní škola Dobrá přijme kuchařku/kuchaře do školní jídelny na zástup za dlouhodobou pracovní neschopnost s možností následného pokračování pracovního poměru. V případě zájmu zašlete svůj životopis do 30. 9. 2026 na e-mail jidelna@zsdobra.cz."
+   }
+  ],
+  "more": []
+ },
+ "https://www.obaka-karvina.cz/volna-mista": {
+  "hash": "ac08c9072e4b7a005455ebc192a41403a6a86d4d",
+  "listings": [
+   {
+    "title": "Učitel/ka ČESKÝ JAZYK a LITERATURA",
+    "url": "https://www.obaka-karvina.cz/ucitel-ka-cesky-jazyk-a-literatura",
+    "place": "Karviná",
+    "contract": "Hlavní pracovní poměr",
+    "shift": "",
+    "description": "Hledáme vyučujícího pro pozici Učitel/ka českého jazyka a literatury na hlavní pracovní poměr."
+   }
+  ],
+  "more": []
+ },
+ "https://pppkarvina.cz/": {
+  "hash": "f278d8314d9d0f220b7a903dc3b4215d2135b829",
+  "listings": [],
+  "more": [
+   "https://pppkarvina.cz/vyberove-rizeni/"
+  ]
+ },
+ "https://pppkarvina.cz/vyberove-rizeni/": {
+  "hash": "a2e46e2682b1681f28039af253b35a3cd3fe2bc7",
+  "listings": [
+   {
+    "title": "Psycholog",
+    "url": "https://pppkarvina.cz/wp-content/uploads/2026/02/vr_psycholog_-_03-25.pdf",
+    "place": "Karviná",
+    "contract": "",
+    "shift": "",
+    "description": "Bylo vypsáno výběrové řízení na pozici psycholog. Pro více informací klikněte na odkaz pro stažení dokumentu."
+   }
+  ],
+  "more": []
+ },
+ "https://www.juventus.cz/kariera": {
+  "hash": "07fb8625072c2c704ce4ad6972f61308c1fdf814",
+  "listings": [
+   {
+    "title": "Vedoucí zájmových útvarů",
+    "url": "https://www.juventus.cz/kariera",
+    "place": "Karviná",
+    "contract": "",
+    "shift": "Minimálně 1 hod./týdně",
+    "description": "Hledáme vedoucí pro keramické, sportovní, taneční, hudební, výtvarné, polytechnické, přírodovědné, turistické či předškolní kroužky. Požadavky: min. 18 let, pedagogické vzdělání (např. studium pedagogiky nebo výuční list + CŽV), zdravotní způsobilost, čistý trestní rejstřík, odborná způsobilost v oboru, flexibilita a kreativita. Zkušenosti s prací s dětmi výhodou."
+   }
+  ],
+  "more": []
+ },
+ "https://www.sstas-karvina.cz/cz/skola/kariera/": {
+  "hash": "14572f6f316a3ab4e64b20c03c445ba344711c80",
+  "listings": [
+   {
+    "title": "Učitel odborného výcviku - instalatér",
+    "url": "https://www.sstas-karvina.cz/cz/skola/kariera/cz/skola/kariera/41-ucitel-odborneho-vycviku-instalater.html",
+    "place": "Karviná",
+    "contract": "",
+    "shift": "",
+    "description": "Volné pracovní místo pro pozici Učitel odborného výcviku - instalatér v Střední škole techniky a služeb Karviná."
+   }
+  ],
+  "more": []
+ },
+ "https://zuskarvina.cz/": {
+  "hash": "b106a6ca7533f85b4dde840c4ce162f137a5fb6e",
+  "listings": [],
+  "more": []
+ },
+ "https://www.borovskeho.cz/": {
+  "hash": "857a1182fca1fa36fa960051c4099130cae5328c",
+  "listings": [],
+  "more": []
+ },
+ "https://zsprameny.cz/": {
+  "hash": "dbe30343ca699eedaca85a45f3fea4ec47e065ea",
+  "listings": [],
+  "more": []
+ },
+ "https://www.asterix-havirov.cz/informace-o-svc-volna-pracovni-mista": {
+  "hash": "51caf80009ce6c691c462d582596bd00f082bfcf",
+  "listings": [
+   {
+    "title": "Vedoucí zájmových útvarů",
+    "url": "https://www.asterix-havirov.cz/informace-o-svc-volna-pracovni-mista",
+    "place": "Havířov",
+    "contract": "DPČ",
+    "shift": "2 hod./týdně",
+    "description": "Hledáme vedoucí pro zájmové útvary (jóga, florbal, tance, keramika, programování a další). Požadavky: věk od 18 let, dobrý zdravotní stav, čistý trestní rejstřík, pedagogické vzdělání (Pedagogické minimum), odborná způsobilost, kladný vztah k dětem, flexibilita a kreativní přístup. Vhodné jako přivýdělek."
+   }
+  ],
+  "more": []
+ },
+ "https://www.asterix-havirov.cz/hlavni-udalosti/212-volna-mista-v-krouzcich": {
+  "hash": "51a0e115f26123a691ae1a8d37f93e5c310f4a50",
+  "listings": [],
+  "more": []
+ },
+ "https://spsehavirov.cz/o-skole/pracovni-prilezitosti/": {
+  "hash": "3bfa07c20f99f9bb451888244905391df8bfd30f",
+  "listings": [
+   {
+    "title": "Učitel odborných předmětů obory Elektrotechnika a Informační technologie (UKR)",
+    "url": "https://spsehavirov.cz/wp-content/uploads/2026/03/UKR-Ucitel-odbornych-predmetu-obory-Elektrotechnika-a-Informacni-technologie-inzerat.pdf",
+    "place": "Havířov",
+    "contract": "",
+    "shift": "",
+    "description": "Hledáme učitele odborných předmětů v oblastech elektrotechniky, informačních technologií, automatizace a příbuzných technických oborů. Podrobné požadavky a kontaktní údaje jsou uvedeny v přiloženém inzerátu."
+   },
+   {
+    "title": "Učitel všeobecných předmětů",
+    "url": "https://spsehavirov.cz/wp-content/uploads/2026/03/Ucitel-vseobecnych-predmetu-inzerat.pdf",
+    "place": "Havířov",
+    "contract": "",
+    "shift": "",
+    "description": "Hledáme učitele všeobecně vzdělávacích předmětů. Základní informace o požadavcích na uchazeče a kontaktní údaje pro zaslání přihlášky naleznete v přiloženém dokumentu."
+   },
+   {
+    "title": "Učitel odborných předmětů obory Elektrotechnika a Informační technologie",
+    "url": "https://spsehavirov.cz/wp-content/uploads/2026/03/Ucitel-odbornych-predmetu-obory-Elektrotechnika-a-Informacni-technologie-inzerat.pdf",
+    "place": "Havířov",
+    "contract": "",
+    "shift": "",
+    "description": "Hledáme učitele odborných technických předmětů pro obory elektrotechnika a informační technologie. Podrobnosti o pozici a požadavcích jsou k dispozici v přiloženém PDF dokumentu."
+   }
+  ],
+  "more": []
+ },
+ "https://spsehavirov.cz/uchazec/karierni-moznosti-studentu/": {
+  "hash": "2a7fe38877ea6de20d428f55fad97e4f7dc54018",
+  "listings": [],
+  "more": []
+ },
+ "https://www.ssph.cz/nabidka-prace-a-brigad/": {
+  "hash": "fbdd47bafd093fa4dbd685156330455a688fde6f",
+  "listings": [
+   {
+    "title": "Osvětlovač / osvětlovačka",
+    "url": "https://www.ssph.cz/wp-content/uploads/2026/06/ndm-osvetlovac-2026.pdf",
+    "place": "Národní divadlo moravskoslezské",
+    "contract": "",
+    "shift": "",
+    "description": "Národní divadlo moravskoslezské hledá osvětlovače / osvětlovačku. Podrobnosti v přiloženém dokumentu."
+   },
+   {
+    "title": "Seřizovač/mechanik výrobních zařízení",
+    "url": "https://www.prace.cz/nabidka/a4b2c8b2-a164-414f-b8a1-5cfaac2446b1/?rps=202",
+    "place": "KES – kabelové a elektrické systémy, spol. s r. o.",
+    "contract": "",
+    "shift": "",
+    "description": "Pozice seřizovače / mechanika výrobních zařízení u společnosti KES – kabelové a elektrické systémy, spol. s r. o."
+   }
+  ],
+  "more": []
+ },
+ "https://ssto-havirov.cz/volna-mista/": {
+  "hash": "6064b48300ba61be30b36dc732cadb864ce6a39a",
+  "listings": [
+   {
+    "title": "Učitel odborného výcviku – elektro",
+    "url": "https://ssto-havirov.cz/volna-mista/",
+    "place": "Střední škola technických oborů, Havířov-Šumbark, Lidická 1a/600",
+    "contract": "doba určitá, později na dobu neurčitou (1× plný úvazek, 1× poloviční úvazek)",
+    "shift": "",
+    "description": "Hledáme 2× učitele odborného výcviku s odbornou způsobilostí elektro (automobilová elektronika a diagnostika). Požadované vzdělání: VŠ nebo SOŠ s maturitou/výučním listem, studium pedagogiky a kvalifikace dle nařízení vlády. Praxe výhodou. Nástup ihned / dle domluvy."
+   }
+  ],
+  "more": []
+ },
+ "https://www.stredniskola-sucha.cz/vyberova-rizeni-a-verejne-zakazky": {
+  "hash": "1dd3795f481278518c5352859431b4dd50ef4372",
+  "listings": [],
+  "more": []
+ },
+ "https://www.zuslj-havirov.cz/cs/kariera.html": {
+  "hash": "040d592f1ef26efd68d18328c9cf427ef4d1f48a",
+  "listings": [],
+  "more": []
+ },
+ "https://zsnabrezi.cz/": {
+  "hash": "7ebfd1aeed6d626799a3ae38d6ac3625063fb54e",
+  "listings": [
+   {
+    "title": "Kuchař či kuchařka do školní kuchyně",
+    "url": "https://zsnabrezi.cz/",
+    "place": "ZŠ Na Nábřeží, Havířov",
+    "contract": "",
+    "shift": "",
+    "description": "Do kuchyně ZŠ Na Nábřeží hledáme vyučeného kuchaře či kuchařku s praxí. Pro další informace kontaktujte vedoucí školní jídelny na tel. č. 596 802 537 nebo na mailu vednalez@zsnabrezi.cz."
+   }
+  ],
+  "more": []
+ },
+ "https://www.zszelena.cz/": {
+  "hash": "e1fa0e799fc779b3fee634e7e9dae5b3e075cfc4",
+  "listings": [],
+  "more": [
+   "https://www.zszelena.cz/aktuality.html"
+  ]
+ },
+ "https://www.zszelena.cz/aktuality.html": {
+  "hash": "1ec63f2e6ac6a4e304ef9ee71bd1777cce2981e7",
+  "listings": []
+ },
+ "https://www.zsskolni-havirov.eu/volna-pracovni-mista/": {
+  "hash": "4dc205018171813cc3e57491502ad8aeadc524b0",
+  "listings": [
+   {
+    "title": "Asistent pedagoga",
+    "url": "https://www.zsskolni-havirov.eu/volna-pracovni-mista/",
+    "place": "ZŠ Školní 1",
+    "contract": "HPP, doba určitá do 31. 8. 2027",
+    "shift": "úvazek 25,556 hodin týdně",
+    "description": "Nabízíme pozici asistenta pedagoga k žákovi šesté třídy ZŠ. Nástup od 1. 11. 2026. Výběrové řízení proběhne v úterý 20. 10. 2026 od 14:00 na ZŠ Školní 1, s sebou doklady o vzdělání. V případě dotazů se obracejte na pavla.nesvadbova@skolnihavirov.cz."
+   }
+  ],
+  "more": []
+ },
+ "https://www.skola-sedliste.cz": {
+  "hash": "64898b84a36b5ae52f226735a1bb69569ec585f3",
+  "listings": [],
+  "more": []
+ },
+ "https://www.dakol-karvina.cz/cz/volna-pracovni-mista/": {
+  "hash": "0ce1f8598bb27d755d2f0d78fd7e4749067bbcbc",
+  "listings": [],
+  "more": []
+ },
+ "https://www.zs-senov.cz/": {
+  "hash": "fd9b13d11711edf89e11188cd9531a09cc266fd4",
+  "listings": [
+   {
+    "title": "učitel/učitelka 1. stupně ZŠ",
+    "url": "https://www.zs-senov.cz/",
+    "place": "ZŠ Šenov, Radniční náměstí 1040",
+    "contract": "plný úvazek",
+    "shift": "plný úvazek, nástup 10. listopadu 2026 do 30. června 2027",
+    "description": "ZŠ Šenov přijme učitele nebo učitelku 1. stupně základní školy. Požadavky: odpovídající odborná kvalifikace pro výuku na 1. stupni ZŠ, pozitivní a vstřícný přístup k dětem, schopnost týmové spolupráce a zodpovědný přístup k práci. Zájemci mohou zasílat životopisy na skola@zs-senov.cz."
+   },
+   {
+    "title": "uklízečka",
+    "url": "https://www.zs-senov.cz/",
+    "place": "ZŠ Šenov",
+    "contract": "hlavní pracovní poměr",
+    "shift": "pondělí–pátek, 11:00–19:30, úvazek 100 %",
+    "description": "Hledáme novou kolegyni na pozici uklízečky od ledna 2027. Nabízíme hlavní pracovní poměr na plný úvazek s pracovní dobou po–pá od 11:00 do 19:30. Bližší informace na telefonních číslech 737 999 381 nebo 596 887 025."
+   }
+  ],
+  "more": []
+ },
+ "https://www.vos-goodwill.cz/": {
+  "hash": "783655a786a1d843196510ccab694bbc3e262c78",
+  "listings": [],
+  "more": []
+ },
+ "https://www.gpbfm.cz/kariera": {
+  "hash": "bef723b6594f22a319070bb467fe8573c48ba54d",
+  "listings": [],
+  "more": []
+ },
+ "https://www.skolaplaneta.cz/kariera/": {
+  "hash": "7564b422fae5fe55ab4e991b271172c1dbf583c8",
+  "listings": [],
+  "more": []
+ },
+ "https://www.pppfm.cz/": {
+  "hash": "5ba0eb4a11a4f4f6a99c28266d15a962bfe2a95d",
+  "listings": [
+   {
+    "title": "Psycholog",
+    "url": "https://www.pppfm.cz/pracovniprilezitostipsycholog.php",
+    "place": "Frýdek-Místek",
+    "contract": "",
+    "shift": "",
+    "description": "Vyhlášené výběrové řízení na místo psychologa v Pedagogicko-psychologické poradně Frýdek-Místek."
+   }
+  ],
+  "more": []
+ },
+ "https://www.primmat.cz/": {
+  "hash": "35a08afe0b3095b2b9acf1228e1fd691686c6940",
+  "listings": [],
+  "more": []
+ },
+ "https://www.scio.cz/prace-u-nas": {
+  "hash": "5ef34d0059437b693630644731ea1e156642bf4f",
+  "listings": [],
+  "more": []
+ },
+ "https://www.klicfm.cz/kariera": {
+  "hash": "fc5e3ec0b7778e2683dc8b96842f1b18a563bcc9",
+  "listings": [
+   {
+    "title": "Finanční referent/ka – pokladní – pomocný/á účetní",
+    "url": "https://www.klicfm.cz/kariera/674-financni-referent-ka-pokladni-pomocny-a-ucetni",
+    "place": "SVČ Klíč FM",
+    "contract": "",
+    "shift": "",
+    "description": "Do SVČ Klíč FM přijmeme nového kolegu či kolegyni na pozici finanční referent/ka – pokladní – pomocný/á účetní. Požadujeme smysl pro pořádek v číslech, zodpovědný přístup k práci a nabízíme stabilní zázemí v příjemném kolektivu."
+   },
+   {
+    "title": "Pedagog volného času",
+    "url": "https://www.klicfm.cz/kariera/633-hledame-novou-posilu-na-pozici-pedagoga-volneho-casu",
+    "place": "SVČ Klíč FM",
+    "contract": "",
+    "shift": "",
+    "description": "Hledáme zapáleného pedagoga se zájmem o vzdělávání a tvoření nejrůznějších volnočasových aktivit pro děti, žáky, rodiče s dětmi i dospělé zájemce. Požadujeme kreativitu, komunikativnost a chuť pracovat s lidmi."
+   },
+   {
+    "title": "Kolega do technického oddělení",
+    "url": "https://www.klicfm.cz/kariera/646-hledame-noveho-kolegu-do-technickeho-oddeleni",
+    "place": "SVČ Klíč FM",
+    "contract": "",
+    "shift": "",
+    "description": "Hledáme zapáleného pedagoga se zájmem o vzdělávání technických oborů a tvoření nejrůznějších volnočasových aktivit pro děti. Požadujeme kreativitu a komunikativnost."
+   },
+   {
+    "title": "Taneční a techničtí lektoři",
+    "url": "https://www.klicfm.cz/kariera/613-hledame-tanecni-a-technicke-lektory",
+    "place": "SVČ Klíč FM",
+    "contract": "",
+    "shift": "",
+    "description": "Středisko volného času Klíč FM hledá lektory do svých tanečních a technických kroužků."
+   },
+   {
+    "title": "Taneční lektor",
+    "url": "https://www.klicfm.cz/kariera/603-d4f-hleda-se-dalsi-tanecni-lektor",
+    "place": "SVČ Klíč FM",
+    "contract": "",
+    "shift": "",
+    "description": "Taneční skupina Dance 4 Fun se rozrůstá a hledá dalšího tanečního lektora či lektorku."
+   }
+  ],
+  "more": []
+ },
+ "https://hzscr.gov.cz/kariera": {
+  "hash": "df9f075e93560fc458e09f06a174192377633704",
+  "listings": [],
+  "more": [
+   "https://hzscr.gov.cz/sluzebni-pomer",
+   "https://hzscr.gov.cz/pracovni-pomer",
+   "https://hzscr.gov.cz/pridejte-se-k-nam"
+  ]
+ },
+ "https://hzscr.gov.cz/sluzebni-pomer": {
+  "hash": "79d3121e93bde332099248b63f9599f4eea1378b",
+  "listings": [
+   {
+    "title": "Výběrové řízení na pozici ředitele/ředitelky SÚJCHBO, v. v. i.",
+    "url": "https://hzscr.gov.cz/vyberove-rizeni-na-pozici-reditelereditelky-sujchbo-v-v-i",
+    "place": "",
+    "contract": "",
+    "shift": "",
+    "description": "Výběrové řízení na vedoucí pozici ředitele/ředitelky Státního ústavu jaderné, chemické a biologické ochrany, v. v. i."
+   }
+  ],
+  "more": [
+   "https://hzscr.gov.cz/prihlasky-do-vyberoveho-rizeni"
+  ]
+ },
+ "https://hzscr.gov.cz/pracovni-pomer": {
+  "hash": "dc9520fcbb0099a1c09d4f689e08fb0f2e64a81c",
+  "listings": [
+   {
+    "title": "Finanční účetní",
+    "url": "https://hzscr.gov.cz/hasicsky-zachranny-sbor-cr-hleda-financni-ucetni",
+    "place": "",
+    "contract": "",
+    "shift": "",
+    "description": "Hasičský záchranný sbor ČR hledá finanční účetní. Požadavky zahrnují splnění standardních podmínek pro přijetí do pracovního poměru, jako je zdravotní způsobilost, bezúhonnost a požadované vzdělání."
+   },
+   {
+    "title": "Koordinační, projektový a programový pracovník",
+    "url": "https://hzscr.gov.cz/nabidka-na-obsazeni-pracovniho-mista---koordinacni-projektovy-a-programovy-pracovnik",
+    "place": "",
+    "contract": "",
+    "shift": "",
+    "description": "Nabídka na obsazení pracovního místa „Koordinační, projektový a programový pracovník“. Nutné splnit všeobecné podmínky pro přijetí do pracovního poměru u HZS ČR."
+   }
+  ],
+  "more": []
+ },
+ "https://hzscr.gov.cz/pridejte-se-k-nam": {
+  "hash": "73fe9d20323e18c3aa5a2af2b784a10550237e48",
+  "listings": [],
+  "more": [
+   "https://hzscr.gov.cz/sluzebni-pomer",
+   "https://hzscr.gov.cz/pracovni-pomer"
+  ]
+ },
+ "https://www.sosfm.cz/category/volna-mista/": {
+  "hash": "8a3ad17bb017eecce69facb641c23d17a89ef9dd",
+  "listings": [
+   {
+    "title": "Nabídka práce – Farma Lička",
+    "url": "https://www.sosfm.cz/aktualne/nabidka-prace-farma-licka/",
+    "place": "",
+    "contract": "",
+    "shift": "",
+    "description": "Nabídka práce od zaměstnavatele Farma Lička."
+   },
+   {
+    "title": "Nabídka práce – Slévárny Třinec, a.s.",
+    "url": "https://www.sosfm.cz/aktualne/nabidka-prace-slevarny-trinec-a-s-2/",
+    "place": "",
+    "contract": "",
+    "shift": "",
+    "description": "Nabídka práce od společnosti Slévárny Třinec, a.s."
+   },
+   {
+    "title": "Nabídka práce – Slévárny Třinec, a.s.",
+    "url": "https://www.sosfm.cz/aktualne/nabidka-prace-slevarny-trinec-a-s/",
+    "place": "",
+    "contract": "",
+    "shift": "",
+    "description": "Nabídka práce od společnosti Slévárny Třinec, a.s."
+   },
+   {
+    "title": "Nabídka práce – Obsluha CNC strojů (Slévárny Třinec, a.s.)",
+    "url": "https://www.sosfm.cz/aktualne/nabidka-prace-obsluha-cnc-stroju-slevarny-trinec-a-s/",
+    "place": "",
+    "contract": "",
+    "shift": "",
+    "description": "Nabídka práce na pozici obsluha CNC strojů ve společnosti Slévárny Třinec, a.s."
+   }
+  ],
+  "more": []
+ },
+ "https://www.ssinfotech.cz/pro-studenty-a-rodice/nabidky-praxi-stazi-prac.-prilezitosti/kariera-zivotopis-motivacni-dopis.php": {
+  "hash": "cf29daf5aea29371a0e5584c8817d9a150cb9043",
+  "listings": [],
+  "more": [
+   "https://www.ssinfotech.cz/pro-studenty-a-rodice/nabidky-praxi-stazi-prac-prilezitosti.php",
+   "https://www.ssinfotech.cz/pro-studenty-a-rodice.php"
+  ]
+ },
+ "https://www.ssinfotech.cz/pro-studenty-a-rodice/nabidky-praxi-stazi-prac-prilezitosti.php": {
+  "hash": "b3337a32872dbda1cc1de4b013f36bf51af4bbbb",
+  "listings": [],
+  "more": []
+ },
+ "https://www.ssinfotech.cz/pro-studenty-a-rodice.php": {
+  "hash": "e56685b40225e8aa0f358abb27092042fe77c46e",
+  "listings": [],
+  "more": [
+   "https://www.ssinfotech.cz/uredni-deska.php",
+   "https://www.ssinfotech.cz/pro-studenty-a-rodice/nabidky-praxi-stazi-prac-prilezitosti.php"
+  ]
+ },
+ "https://www.ssremesel.cz/": {
+  "hash": "6107831d3fb3acb84692615c4de38631a421ecac",
+  "listings": [],
+  "more": []
+ },
+ "https://www.zsdvoracka.cz/volna-pracovni-mista": {
+  "hash": "60ee436aaf4c3d34d700916c320a78e5ce56b1d2",
+  "listings": [],
+  "more": []
+ },
+ "https://www.kestud.cz/volna-mista/": {
+  "hash": "2ed281decc216a89141b544f45953c6533d88ab8",
+  "listings": [],
+  "more": []
+ },
+ "https://www.skolamladi.cz/o-škole/nabídka-zaměstnání": {
+  "hash": "e0fd86a4802df806507972edf84aed5ec4cca362",
+  "listings": [
+   {
+    "title": "Účetní",
+    "url": "https://www.skolamladi.cz/o-%C5%A1kole/nab%C3%ADdka-zam%C4%9Bstn%C3%A1n%C3%AD",
+    "place": "Orlová-Lutyně",
+    "contract": "HPP",
+    "shift": "",
+    "description": "Hledáme spolehlivou a samostatnou účetní pro příspěvkovou organizaci. Požadujeme minimálně středoškolské vzdělání s maturitou, odpovědnost, pečlivost, samostatnost, orientaci v účetní a rozpočtové problematice příspěvkových organizací a uživatelskou znalost práce na PC. Platové zařazení dle 10. platové třídy. Nástup možný od 1. 2. 2026 nebo dle dohody."
+   }
+  ],
+  "more": []
+ },
+ "https://www.zsjarniorlova.cz/pracovniprilezitosti.php": {
+  "hash": "d6b42c5e3ed13cf9823741347d1f3a1fd0b26c72",
+  "listings": [],
+  "more": []
+ },
+ "https://www.zssviadnov.cz/": {
+  "hash": "13c7fc35e7d1a8336239d79c31e8629a37263c9d",
+  "listings": [],
+  "more": []
+ },
+ "https://www.zsdetmarovice.cz/": {
+  "hash": "92a117c8415e166c038864d2e314d6f4572b20a7",
+  "listings": [
+   {
+    "title": "Učitel / učitelka 1. stupně",
+    "url": "https://www.zsdetmarovice.cz/hledame-ucitele-ucitelku-1-stupne-na-zastup/",
+    "place": "Dětmarovice",
+    "contract": "zástup",
+    "shift": "",
+    "description": "Do našeho týmu hledáme učitele nebo učitelku 1. stupně ZŠ na zástup v období..."
+   }
+  ],
+  "more": [
+   "https://www.zsdetmarovice.cz/category/novinkyzs/"
+  ]
+ },
+ "https://www.zsdetmarovice.cz/category/novinkyzs/": {
+  "hash": "79ae425526f992524d8bc7a212a4254ce26b68dc",
+  "listings": [
+   {
+    "title": "Hledáme učitele/učitelku 1. stupně (na zástup)",
+    "url": "https://www.zsdetmarovice.cz/hledame-ucitele-ucitelku-1-stupne-na-zastup/",
+    "place": "Dětmarovice",
+    "contract": "zástup",
+    "shift": "",
+    "description": "Do našeho týmu hledáme učitele nebo učitelku 1. stupně ZŠ na zástup v období od 1. 9. 2026 do 31. 12. 2026. Požadujeme odpovídající kvalifikaci a chuť pracovat s dětmi."
+   }
+  ],
+  "more": []
  }
 }
