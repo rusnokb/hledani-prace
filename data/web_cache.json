@@ -45,15 +45,23 @@
   ]
  },
  "https://pickering.cz/volne-pozice/": {
-  "hash": "3902aed93234e1781fdc58b4be4b52ab426b9fb6",
+  "hash": "c3ddff8e960c6e6f26d34c253db24c69b6ff3b84",
   "listings": [
+   {
+    "title": "Back office technického prodeje",
+    "url": "https://pickering.cz/wp-content/uploads/2026/11/PC-INZERAT-Back-office-technickeho-prodeje-10-2026-v1-scaled.jpg",
+    "place": "Bystřice, Česká republika",
+    "contract": "",
+    "shift": "",
+    "description": "Volná pracovní pozice Back office technického prodeje v Bystřici."
+   },
    {
     "title": "Automatizační technik",
     "url": "https://pickering.cz/wp-content/uploads/2026/10/automatizacni-technik_FINAL-2.jpg",
     "place": "Bystřice, Česká republika",
     "contract": "",
     "shift": "",
-    "description": "Volná pracovní pozice pro automatizačního technika v Bystřici."
+    "description": "Volná pracovní pozice Automatizační technik v Bystřici."
    },
    {
     "title": "Technik výroby B/NPI",
@@ -61,15 +69,7 @@
     "place": "Bystřice, Česká republika",
     "contract": "",
     "shift": "",
-    "description": "Volná pracovní pozice pro technika výroby B/NPI v Bystřici."
-   },
-   {
-    "title": "Production Manager",
-    "url": "https://pickering.cz/wp-content/uploads/2026/09/PE-INZERAT-Production-manager-final-scaled.jpg",
-    "place": "Třinec, Česká republika",
-    "contract": "",
-    "shift": "",
-    "description": "Volná pracovní pozice pro Production Managera v Třinci."
+    "description": "Volná pracovní pozice Technik výroby B/NPI v Bystřici."
    },
    {
     "title": "Montážní pracovník/pracovnice",
@@ -77,7 +77,7 @@
     "place": "Třinec, Česká republika",
     "contract": "",
     "shift": "",
-    "description": "Volná pracovní pozice pro montážního pracovníka/pracovnici v Třinci."
+    "description": "Volná pracovní pozice Montážní pracovník/pracovnice v Třinci."
    }
   ],
   "more": []
@@ -429,7 +429,7 @@
   "more": []
  },
  "https://www.pressmetal.cz/kariera/": {
-  "hash": "52b691c2826a929b3b818201185930326e085042",
+  "hash": "d5b7e031ecd52b02c8be1329454fcc8a1f839899",
   "listings": [
    {
     "title": "Lisař, seřizovač",
@@ -437,23 +437,7 @@
     "place": "Třinec",
     "contract": "",
     "shift": "práce od pondělí do pátku na 2 směny",
-    "description": "Požadován výuční list nebo maturita ve strojním oboru, čtení výkresové dokumentace a manuální zručnost. Náplní je obsluha CNC lisů, výměna a seřízení nástrojů, mezioperační kontrola a údržba stroje. Nabízí se docházkový bonus, 5 dnů dovolené navíc, stravování a další benefity."
-   },
-   {
-    "title": "IT Specialista/ ERP Administrátor (Qi)",
-    "url": "https://www.pressmetal.cz/kariera/",
-    "place": "Třinec",
-    "contract": "",
-    "shift": "flexibilní pracovní doba",
-    "description": "Požadována praxe v IT, orientace v databázích, komunikativní angličtina a znalost správy serverů a virtualizace. Náplní je správa a rozvoj ERP systému Qi, uživatelská podpora, správa databází a spolupráce na projektech digitalizace. Nabízí se prostor pro růst, home office a standardní benefity."
-   },
-   {
-    "title": "OBCHODNÍK A PROJEKTOVÝ MANAŽER",
-    "url": "https://www.pressmetal.cz/kariera/",
-    "place": "Třinec",
-    "contract": "",
-    "shift": "",
-    "description": "Požadována angličtina na komunikační úrovni, zkušenost s PPAP/APQP, čtení výkresů, řidičský průkaz skupiny B a schopnost vedení projektů. Náplní je komunikace se zákazníky a zajištění realizace projektů od počátku do konce. Nabízí se rodinné prostředí, flexibilní doba, homeoffice a mentoring."
+    "description": "Požadován výuční list nebo maturita ve strojním oboru, čtení výkresové dokumentace, samostatnost. Náplní je příprava a obsluha CNC lisu, výroba dílů, údržba stroje a po zaučení výměna a seřízení nástrojů. Nabízíme docházkový bonus, 5 dní dovolené navíc, příspěvek na stravování a penzijní připojištění."
    },
    {
     "title": "NÁSTROJÁŘ",
@@ -461,7 +445,7 @@
     "place": "Třinec",
     "contract": "",
     "shift": "",
-    "description": "Požadováno SOU/SŠ vzdělání strojního oboru, praxe a čtení technické dokumentace. Náplní je příprava lisovacích nástrojů, jejich údržba, broušení a výroba náhradních dílů. Nabízí se docházkový bonus, příspěvky na penzijní připojištění a stravování, vzdělávací kurzy a firemní akce."
+    "description": "Požadováno vzdělání SOU/SŠ strojního oboru, praxe v oboru, čtení technické dokumentace a manuální zručnost. Náplní práce je příprava lisovacích nástrojů pro sériovou výrobu, jejich údržba, broušení a výroba náhradních dílů. Nabízíme bonus za docházku, příspěvek na penzijní připojištění a stravování, vzdělávací kurzy a firemní akce."
    }
   ],
   "more": []
@@ -481,37 +465,29 @@
   "more": []
  },
  "https://www.karireal.cz/cs/kariera": {
-  "hash": "86c51334dc113025d49b3dd0c052afa577e9a468",
+  "hash": "9ba1fa16145dab9047cf9a6388dfc4b9498ea5be",
   "listings": [
-   {
-    "title": "Marketingový pracovník",
-    "url": "https://www.karireal.cz/cs/kariera",
-    "place": "Třinec",
-    "contract": "hlavní pracovní poměr",
-    "shift": "",
-    "description": "Tvorba a úprava grafik v Photoshopu, střih videí, správa sociálních sítí, Meta Ads a copywriting. Požadujeme velmi dobrou znalost Photoshopu, zkušenost se střihem videa a správou sítí, řidičský průkaz skupiny B. Nabízíme hlavní pracovní poměr, stálé zaměstnání s garantovanou mzdou, slevu na palivo, penzijní připojištění, stravenkový paušál a 3 dny Sick Day."
-   },
    {
     "title": "Mechanik - autotronik",
     "url": "https://www.karireal.cz/cs/kariera",
     "place": "",
-    "contract": "",
-    "shift": "",
-    "description": "Aktualizace a programování softwaru řídicích jednotek, diagnostika elektronických systémů, vyhledávání závad a měření elektrických veličin. Požadujeme SŠ vzdělání v oboru autoelektrikář, autotronik či příbuzném technickém oboru, schopnost číst elektrická schémata a řidičský průkaz skupiny B. Nabízíme odpovídající platové ohodnocení, zázemí prosperující společnosti a odborné vzdělávání."
+    "contract": "HPP",
+    "shift": "IHNED",
+    "description": "Náplň práce: aktualizace a programování softwaru řídicích jednotek, diagnostika elektronických systémů, vyhledávání a analýza závad, měření elektrických veličin. Požadavky: SŠ vzdělání v oboru autoelektrikář, autotronik či příbuzném technickém oboru, schopnost číst elektrická schémata, technické myšlení, samostatnost, pečlivost, řidičský průkaz sk. B. Nabízíme odpovídající plat, benefity, zázemí prosperující společnosti a odborné vzdělávání."
    }
   ],
   "more": []
  },
  "https://www.kohut.cz/prace/": {
-  "hash": "3086a8d8f805b28c9128a28f9a95934ef49f1908",
+  "hash": "c2afa74911266b9a15f4d940b2f3c23b1055de07",
   "listings": [
    {
     "title": "SERVISNÍ TECHNIK",
     "url": "https://www.kohut.cz/prace/",
-    "place": "Třinec / Smilovice",
+    "place": "Smilovice",
     "contract": "",
     "shift": "Pracovní doba 6:00 – 14:30, volné víkendy",
-    "description": "Nabízíme zázemí stabilní rodinné společnosti, přátelský kolektiv, obědy zdarma, vzdělávání a mobilní telefon. Požadujeme SŠ/SOU technického směru (příp. chuť se učit), řidičský průkaz skupiny B. Zkušenost s opravami stavebních strojů je výhodou."
+    "description": "Hledáme servisního technika. Požadujeme SŠ/SOU technického směru (nebo chuť se učit) a řidičský průkaz skupiny B. Zkušenost s opravou stavebních strojů je výhodou. Nabízíme zázemí stabilní rodinné společnosti, přátelský kolektiv, obědy zdarma, systém vzdělávání a mobilní telefon."
    }
   ],
   "more": []
@@ -553,7 +529,7 @@
   "more": []
  },
  "https://www.malezdravi.cz/cz/7/kariera": {
-  "hash": "e53631d9268a63a3718a7d856144a104d2669eca",
+  "hash": "ed2de002dabe077ffdfce0017faf533d7fa3432b",
   "listings": []
  },
  "https://www.malezdravi.cz/nabidka-zamestnani": {
@@ -700,7 +676,7 @@
   ]
  },
  "https://www.mojeambulance.cz/kariera/": {
-  "hash": "db3405c434e184b8ba1dd5167fb646b07b9f3c86",
+  "hash": "19109ae3de179a6d68068b89141c2c5ea250167a",
   "listings": [],
   "more": []
  },
@@ -902,7 +878,7 @@
   "more": []
  },
  "https://jablunkov.charita.cz/aktualne/volna-mista/pecovatel-ka-v-charitni-pecovatelske-sluzbe/": {
-  "hash": "2fe5d1bdfab63015b99ea69d767f42dc50251c52",
+  "hash": "5561af6d78c58d8b62d1fa1fd928bc95b1a06c1e",
   "listings": [
    {
     "title": "Pečovatel/ka v Charitní pečovatelské službě",
@@ -910,12 +886,10 @@
     "place": "Jablunkov",
     "contract": "",
     "shift": "Dle dohody, možný ihned.",
-    "description": "Charita Jablunkov přijme pečovatele/ku v Charitní pečovatelské službě. Nástup dle dohody, možný ihned. Kontaktní osobou je Mgr. Lucie Szotkowská (ředitel, statutární zástupce), tel.: 733 755 843, e-mail: reditel@jablunkov.charita.cz."
+    "description": "Charita Jablunkov přijme pečovatele/ku v Charitní pečovatelské službě. Nástup dle dohody, možný ihned. Výběrové řízení."
    }
   ],
-  "more": [
-   "https://jablunkov.charita.cz/aktualne/volna-mista/"
-  ]
+  "more": []
  },
  "https://lexona.cz/kariera/": {
   "hash": "0e69f743618f4c3666a3887dfbc12b007d3a997f",
@@ -1085,15 +1059,15 @@
   "more": []
  },
  "https://deluwork.cz/job/delnik-ve-strojirenske-vyrobe-rychvald/": {
-  "hash": "c785fff5cac0876acc54f22ec1eb24b976cece6d",
+  "hash": "bbc42089a911c1389049919d4f39b4aa1cc21f9f",
   "listings": [
    {
     "title": "Dělník ve strojírenské výrobě — Rychvald",
     "url": "https://deluwork.cz/job/delnik-ve-strojirenske-vyrobe-rychvald/",
     "place": "Rychvald",
-    "contract": "hlavní pracovní poměr (HPP)",
+    "contract": "HPP",
     "shift": "37,5 hodin týdně, třísměnný provoz",
-    "description": "Obsluha strojních zařízení a výrobních linek, montáž a kompletace dílů a sestav dle technologických postupů, manipulace s materiálem, vizuální a rozměrová kontrola kvality, základní údržba pracoviště. Požadujeme spolehlivost a dodržování bezpečnostních předpisů. Nabízíme mzdu 27 723 Kč/měsíc, výkonnostní bonusy, příplatky za směny a 25 dní dovolené."
+    "description": "Obsluha strojních zařízení a výrobních linek, montáž a kompletace dílů a sestav dle technologických postupů, manipulace s materiálem, vizuální a rozměrová kontrola kvality, základní údržba pracoviště a vedení evidence. Požadujeme spolehlivost a dodržování bezpečnostních předpisů."
    }
   ],
   "more": [
@@ -1178,71 +1152,87 @@
   ]
  },
  "https://www.finidr.cz/kariera/volne-pozice/": {
-  "hash": "af42f2b36dca8ef5e546c7dbcd2ecaa7ff51c5d4",
+  "hash": "f0928be5ead2d1faf275ef8c0413f2f3ecda073f",
   "listings": [
+   {
+    "title": "Vedoucí skladu a interní logistiky",
+    "url": "https://www.finidr.cz/pozice/vedouci-skladu-a-interni-logistiky/",
+    "place": "",
+    "contract": "",
+    "shift": "",
+    "description": "Volná pracovní pozice Vedoucí skladu a interní logistiky v tiskárně FINIDR."
+   },
    {
     "title": "SENIOR IT SPECIALISTA PRO SQL A KYBERBEZPEČNOST",
     "url": "https://www.finidr.cz/pozice/senior-it-specialista-pro-sql-a-kyberbezpecnost/",
-    "place": "Český Těšín",
+    "place": "",
     "contract": "",
     "shift": "",
-    "description": "Pozice seniorního IT specialisty zaměřená na SQL a kyberbezpečnost v tiskárně FINIDR."
+    "description": "Volná pracovní pozice Senior IT specialista pro SQL a kyberbezpečnost."
    },
    {
     "title": "Technik procesu v polygrafické výrobě",
     "url": "https://www.finidr.cz/pozice/technik-procesu-v-polygraficke-vyrobe-2/",
-    "place": "Český Těšín",
+    "place": "",
     "contract": "",
     "shift": "",
-    "description": "Technik procesu v polygrafické výrobě."
+    "description": "Volná pracovní pozice Technik procesu v polygrafické výrobě."
    },
    {
     "title": "Směnový mistr výroby / Zástupce vedoucího tisku",
     "url": "https://www.finidr.cz/pozice/smenovy-mistr-vyroby-zastupce-vedouciho-tisku/",
-    "place": "Český Těšín",
+    "place": "",
     "contract": "",
-    "shift": "směnový",
-    "description": "Směnový mistr výroby a zástupce vedoucího tisku."
+    "shift": "Směnový provoz",
+    "description": "Volná pracovní pozice Směnový mistr výroby / Zástupce vedoucího tisku."
    },
    {
     "title": "Pomocný pracovník ve výrobě",
     "url": "https://www.finidr.cz/pozice/pomocny-pracovnik-ve-vyrobe/",
-    "place": "Český Těšín",
+    "place": "",
     "contract": "",
     "shift": "",
-    "description": "Pomocný pracovník ve výrobě."
+    "description": "Volná pracovní pozice Pomocný pracovník ve výrobě."
    },
    {
     "title": "Týmový strojník ve výrobě",
     "url": "https://www.finidr.cz/pozice/strojnik-ve-vyrobe/",
-    "place": "Český Těšín",
+    "place": "",
     "contract": "",
     "shift": "",
-    "description": "Týmový strojník ve výrobě."
+    "description": "Volná pracovní pozice Týmový strojník ve výrobě."
    },
    {
     "title": "Strojník ve výrobě",
     "url": "https://www.finidr.cz/pozice/strojnik-strojnice-ve-vyrobe/",
-    "place": "Český Těšín",
+    "place": "",
     "contract": "",
     "shift": "",
-    "description": "Strojník / strojnice ve výrobě."
+    "description": "Volná pracovní pozice Strojník ve výrobě."
    },
    {
     "title": "Strojník/strojnice ve výrobě – skládací stroje",
     "url": "https://www.finidr.cz/pozice/strojnik-strojnice-serizovac/",
-    "place": "Český Těšín",
+    "place": "",
     "contract": "",
     "shift": "",
-    "description": "Strojník / seřizovač pro skládací stroje ve výrobě."
+    "description": "Volná pracovní pozice Strojník/strojnice ve výrobě – skládací stroje."
+   },
+   {
+    "title": "Ostraha majetku a osob",
+    "url": "https://www.finidr.cz/pozice/ostraha-majetku-a-osob/",
+    "place": "",
+    "contract": "",
+    "shift": "",
+    "description": "Volná pracovní pozice Ostraha majetku a osob."
    },
    {
     "title": "Tiskař",
     "url": "https://www.finidr.cz/pozice/tiskar/",
-    "place": "Český Těšín",
+    "place": "",
     "contract": "",
     "shift": "",
-    "description": "Pozice tiskaře v polygrafické výrobě."
+    "description": "Volná pracovní pozice Tiskař."
    }
   ],
   "more": []
@@ -1650,7 +1640,7 @@
   ]
  },
  "https://www.hyundai-transys.com/ko/careers/jobs.do": {
-  "hash": "9d2a63a4c4eecd97e3cb7d945120b70548d43578",
+  "hash": "aadaf13dcef5845a4f44a917ac12ce259a4cbdbc",
   "listings": [
    {
     "title": "27년 상반기 기술 정규직 신입 채용",
@@ -1658,15 +1648,15 @@
     "place": "",
     "contract": "HPP",
     "shift": "",
-    "description": "Přijetí nových zaměstnanců na pozici technického pracovníka pro rok 2027 (HPP, řádný úvazek)."
+    "description": "Přijímání nových zaměstnanců na pozici technického pracovníka v rámci pravidelného náboru."
    },
    {
     "title": "시트시험부문 계약직 모집",
     "url": "https://hyundai-transys.recruiter.co.kr/career/jobs/132878",
     "place": "",
-    "contract": "kontrakto, plný úvazek",
+    "contract": "Smlouva na dobu určitou",
     "shift": "",
-    "description": "Nábor na zkrácený či projektový úvazek v oddělení testování sedadel."
+    "description": "Nábor na pozici v oblasti testování sedadel (kontrakt)."
    }
   ],
   "more": []
@@ -1773,11 +1763,11 @@
   "more": []
  },
  "https://www.vuhz.cz/kariera": {
-  "hash": "901a31fd6893639dcf99426b1210d63ead3f78dc",
+  "hash": "8bb55e26112672ae45662afda4c42d6ae276d0ab",
   "listings": []
  },
  "https://www.vuhz.cz/kariera/co-nabizime": {
-  "hash": "901a31fd6893639dcf99426b1210d63ead3f78dc",
+  "hash": "8bb55e26112672ae45662afda4c42d6ae276d0ab",
   "listings": []
  },
  "https://cosas.cz/kariera/": {
@@ -1793,15 +1783,127 @@
   ]
  },
  "https://www.baumann-group.com/career/open-positions": {
-  "hash": "6a53a3c758737495815157ca08fa6eb6190d338c",
+  "hash": "4513e7781b92c19f23123b41e11b00c3b2c59aaf",
   "listings": [
+   {
+    "title": "Initiativbewerbung Berufserfahrene & Berufseinsteiger (m/w/d)",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/initiativbewerbung-berufserfahrene-berufseinsteiger-m-w-d-40",
+    "place": "BAUMANN Germany",
+    "contract": null,
+    "shift": null,
+    "description": "Spontánní přihláška pro zkušené pracovníky a absolventy v německé pobočce mezinárodně působící skupiny BAUMANN."
+   },
+   {
+    "title": "Personalvermittler - Bewerbungen für alle Stellen",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/personalvermittler-bewerbungen-fuer-alle-stellen-41",
+    "place": "BAUMANN Switzerland (HQ)",
+    "contract": null,
+    "shift": null,
+    "description": "Prostor pro personální agentury a zprostředkovatele k zasílání kandidátů na volné pozice, pokud není v inzerátu uvedeno jinak."
+   },
+   {
+    "title": "Sachbearbeiter:in Payroll & HR-Administration",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/sachbearbeiterin-payroll-hr-administration",
+    "place": "BAUMANN Switzerland (HQ)",
+    "contract": null,
+    "shift": null,
+    "description": "Hledáme administrativní posilu do oddělení lidských zdrojů a mzdové účtárny, která má ráda přesnou práci s čísly i kontakt s lidmi."
+   },
+   {
+    "title": "Global Product Engineer Division Automotive & Industrial",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/global-product-engineer-division-automotive-industrial-5",
+    "place": "BAUMANN Switzerland (HQ)",
+    "contract": null,
+    "shift": null,
+    "description": "Hledáme produktového inženýra se specializací na kontaktní prvky za účelem zajištění dlouhodobého rozvoje technického know-how v divizi Automotive & Industrial."
+   },
+   {
+    "title": "Industriemeister Division Automotive & Industrial",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/industriemeister-division-automotive-industrial-31",
+    "place": "BAUMANN Switzerland (HQ)",
+    "contract": null,
+    "shift": null,
+    "description": "Hledáme posilu do divize Automotive & Industrial, která se specializuje na výrobu vysoce kvalitních technických pružin."
+   },
+   {
+    "title": "Global Product Engineer Division Automotive & Industrial",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/global-product-engineer-division-automotive-industrial-8",
+    "place": "BAUMANN Switzerland (HQ)",
+    "contract": null,
+    "shift": null,
+    "description": "Pozice produktového inženýra se zaměřením na kontaktní prvky v divizi Automotive & Industrial."
+   },
+   {
+    "title": "Personalvermittler - Bewerbungen für alle Stellen",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/personalvermittler-bewerbungen-fuer-alle-stellen-65",
+    "place": "BAUMANN Switzerland (HQ)",
+    "contract": null,
+    "shift": null,
+    "description": "Možnost pro personální agentury podávat kandidáty na otevřené pozice."
+   },
+   {
+    "title": "Leiter / in Service und Technischer Support im Maschinenbau Group Technology",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/leiter-in-service-und-technischer-support-im-maschinenbau-group-technology-7",
+    "place": "BAUMANN Germany",
+    "contract": null,
+    "shift": null,
+    "description": "Hledáme vedoucího servisu a technické podpory v oblasti strojírenství pro mladý a dynamický globální tým Group Technology."
+   },
+   {
+    "title": "Initiativbewerbung Berufserfahrene & Berufseinsteiger (m/w/d)",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/initiativbewerbung-berufserfahrene-berufseinsteiger-m-w-d-64",
+    "place": "BAUMANN Switzerland (HQ)",
+    "contract": null,
+    "shift": null,
+    "description": "Spontánní přihláška pro zkušené pracovníky a absolventy v centrále ve Švýcarsku."
+   },
+   {
+    "title": "Einrichter Wechselschicht Division Automotive & Industrial",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/einrichter-wechselschicht-division-automotive-industrial-26",
+    "place": "BAUMANN Germany",
+    "contract": null,
+    "shift": null,
+    "description": "Pro naši divizi Automotive & Industrial hledáme zkušeného seřizovače strojů s technickým porozuměním a chutí pracovat ve výměnném provozu."
+   },
+   {
+    "title": "Technical Business Development Manager (m/w/d)",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/technical-business-development-manager-m-w-d",
+    "place": "BAUMANN Switzerland (HQ)",
+    "contract": null,
+    "shift": null,
+    "description": "Hledáme technického manažera pro rozvoj obchodu v mezinárodní skupině BAUMANN."
+   },
    {
     "title": "Produktionsmitarbeiter/in",
     "url": "https://www.baumann-group.com/career/open-positions/job-application/produktionsmitarbeiter-in-2",
+    "place": "BAUMANN Germany",
+    "contract": null,
+    "shift": null,
+    "description": "Hledáme spolehlivou a na kvalitu orientovanou osobu s citem pro detail do výrobního procesu v německé pobočce."
+   },
+   {
+    "title": "Einrichter - Federwindemaschinen (m/w/d) für die BAUMANN Schlegel GmbH",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/einrichter-federwindemaschinen-m-w-d-fuer-die-baumann-schlegel-gmbh-3",
+    "place": "BAUMANN Germany",
+    "contract": null,
+    "shift": null,
+    "description": "Společnost BAUMANN Schlegel GmbH hledá seřizovače strojů na výrobu pružin (federwindemaschinen). Požadujeme odpovídající praxi a technické dovednosti."
+   },
+   {
+    "title": "Senior Process Engineer & Team Leader Manufacturing Engineering - AUTOMOTIVE",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/senior-process-engineer-team-leader-manufacturing-engineering-automotive",
     "place": "BAUMANN Czech Republic",
-    "contract": "",
-    "shift": "",
-    "description": "Hledáme spolehlivou a kvalifikovanou osobnost s citem pro detail pro odpovědnou práci v naší výrobě."
+    "contract": null,
+    "shift": null,
+    "description": "Hledáme zkušeného procesního inženýra a týmového lídra pro oblast výrobního inženýrství v divizi Automotive v české pobočce."
+   },
+   {
+    "title": "EHS Engineer",
+    "url": "https://www.baumann-group.com/career/open-positions/job-application/ehs-engineer",
+    "place": "BAUMANN China",
+    "contract": null,
+    "shift": null,
+    "description": "Hledáme inženýra pro oblast bezpečnosti, ochrany zdraví a životního prostředí (EHS) v čínské pobočce."
    }
   ],
   "more": [
@@ -1877,15 +1979,31 @@
   ]
  },
  "https://www.gscaltex.cz/kariera/volne-pozice/": {
-  "hash": "1f175ce6dc0eb06516f71babab2f3af6176fa087",
+  "hash": "8ee0ff6359eee65ffa6600ec5032f45357cbabc3",
   "listings": [
+   {
+    "title": "Operátor výroby",
+    "url": "https://www.gscaltex.cz/operator-vyroby/",
+    "place": "Karviná",
+    "contract": "",
+    "shift": "Nástup ihned",
+    "description": "Obsluha strojů, kontrola a příprava surovin. Nástup ihned."
+   },
+   {
+    "title": "Operátor technického oddělení",
+    "url": "https://www.gscaltex.cz/operator-technickeho-oddeleni/",
+    "place": "Karviná",
+    "contract": "",
+    "shift": "Nástup ihned",
+    "description": "Příprava směsi, obsluha vstřikovacího zařízení, kontrola barevnosti a balení vzorků. Nástup ihned."
+   },
    {
     "title": "Specialista obchodního rozvoje",
     "url": "https://www.gscaltex.cz/12218-2/",
-    "place": "",
+    "place": "Karviná",
     "contract": "",
     "shift": "Nástup ihned",
-    "description": "Rozvoj nových zákazníků, obchodních příležitostí a nového businessu na evropském trhu."
+    "description": "Rozvoj nových zákazníků, obchodních příležitostí a nového businessu na evropském trhu. Nástup ihned."
    }
   ],
   "more": []
@@ -2240,7 +2358,7 @@
   "more": []
  },
  "https://www.medplus.cz/kariera/": {
-  "hash": "6aac82f4347c014a1ef8d77b9bfcce1a60b522e0",
+  "hash": "ed554c2c9345714c0872417731b6630c78f78335",
   "listings": [],
   "more": []
  },
@@ -2745,7 +2863,7 @@
   "listings": []
  },
  "https://lakum.cz/": {
-  "hash": "8a15a59322d213c87e476f61e5b83d41d6db58df",
+  "hash": "660fa4cd8bddd7f63dffe1aa1c2fc6cca5a5a066",
   "listings": []
  },
  "http://sky-cz.com/kariera": {
@@ -2792,7 +2910,7 @@
   ]
  },
  "https://www.jenprace.cz/": {
-  "hash": "7758bc0e205bb5206033d759d92f82ca024dc714",
+  "hash": "34ff027943fab87accc6a7da6f6619d11691147f",
   "listings": [],
   "more": []
  },
@@ -2806,7 +2924,7 @@
   "more": []
  },
  "https://www.jobs.cz/": {
-  "hash": "6973abe3f9ddc39d609b8badc207988c2a62a6b9",
+  "hash": "d51bff35fd73962b0133b29b4a1a1bbdeaf15015",
   "listings": [],
   "more": []
  },
@@ -2958,7 +3076,7 @@
   "more": []
  },
  "https://charitafm.cz/volna-mista/": {
-  "hash": "a732bb2261c214bdf4c6f3f0b60249a32c4caaa2",
+  "hash": "fe8b3b5a0bd9169eb5b06083f826ccd6e6e58fe4",
   "listings": [
    {
     "title": "sociální pracovník",
@@ -2966,7 +3084,7 @@
     "place": "Třinec",
     "contract": "Plný úvazek",
     "shift": "dohodou",
-    "description": "Výběrové řízení na pozici sociálního pracovníka pro Beskydské centrum duševního zdraví. Kontaktní osoba: Mgr. Karolína Ponická."
+    "description": "Výběrové řízení na pozici sociální pracovník pro Beskydské centrum duševního zdraví. Kontaktní osoba: Mgr. Karolína Ponická."
    },
    {
     "title": "pracovník v sociálních službách - přímá obslužná péče v domě pro seniory",
@@ -2974,7 +3092,7 @@
     "place": "Frýdek-Místek",
     "contract": "Plný úvazek",
     "shift": "12 h. směny",
-    "description": "Výběrové řízení na přímou obslužnou péči v domě pro seniory. Nástup ihned/dohodou. Kontaktní osoba: Mgr. Martin Hořínek MBA."
+    "description": "Přímá obslužná péče v domě pro seniory. Nástup ihned/dohodou. Kontaktní osoba: Mgr. Martin Hořínek MBA."
    },
    {
     "title": "sociální pracovník Centrum Pramínek",
@@ -2982,7 +3100,7 @@
     "place": "Frýdek-Místek",
     "contract": "Částečný úvazek",
     "shift": "leden 2027",
-    "description": "Výběrové řízení pro Centrum Pramínek. Kontaktní osoba: Bc. Andrea Branná."
+    "description": "Pozice sociálního pracovníka v Centru Pramínek. Kontaktní osoba: Bc. Andrea Branná."
    },
    {
     "title": "zdravotní sestra",
@@ -2990,26 +3108,38 @@
     "place": "Frýdek-Místek",
     "contract": "Plný úvazek",
     "shift": "ihned/dohodou",
-    "description": "Výběrové řízení na pozici zdravotní sestry v Domě pokojného stáří. Kontaktní osoba: Mgr. Vlastimil Petr."
+    "description": "Pozice zdravotní sestry v Domě pokojného stáří. Kontaktní osoba: Mgr. Vlastimil Petr."
    },
    {
-    "title": "pracovník v sociálních službách - přímá obslužná péče v domě pro seniory",
+    "title": "pracovník v sociálních službách - přímá obslužná péče v domě pro seniory DPP",
     "url": "https://charitafm.cz/volna-mista/pracovnik-v-socialnich-sluzbach-prima-obsluzna-pece-v-dome-pro-seniory-dpp/",
     "place": "Frýdek-Místek",
     "contract": "DPP/DPČ",
     "shift": "ihned/dohodou",
-    "description": "Výběrové řízení na dohodu pro přímou obslužnou péči v domě pro seniory. Kontaktní osoba: Mgr. Martin Hořínek MBA."
+    "description": "Přímá obslužná péče v domě pro seniory na dohodu. Kontaktní osoba: Mgr. Martin Hořínek MBA."
    },
    {
-    "title": "pracovník prádelny",
+    "title": "pracovník v sociálních službách - přímá obslužná péče v denním stacionáři DPP",
+    "url": "https://charitafm.cz/volna-mista/pracovnik-v-socialnich-sluzbach-prima-obsluzna-pece-v-dennim-stacionari/",
+    "place": "Paskov",
+    "contract": "DPP/DPČ",
+    "shift": "leden 2027",
+    "description": "Přímá obslužná péče v denním stacionáři na dohodu. Kontaktní osoba: Mgr. Marcela Piskořová."
+   },
+   {
+    "title": "pracovník prádelny DPP",
     "url": "https://charitafm.cz/volna-mista/pracovnik-pradelny-dpp/",
     "place": "Frýdek-Místek",
     "contract": "DPP/DPČ",
     "shift": "ihned",
-    "description": "Výběrové řízení na pozici pracovníka prádelny v Domě pokojného stáří. Kontaktní osoba: Mgr. Vlastimil Petr."
+    "description": "Práce v prádelně v Domě pokojného stáří na dohodu. Kontaktní osoba: Mgr. Vlastimil Petr."
    }
   ],
-  "more": []
+  "more": [
+   "https://charitafm.cz/volna-mista/pecujici/",
+   "https://charitafm.cz/volna-mista/studenti/",
+   "https://charitafm.cz/volna-mista/zkuseni/"
+  ]
  },
  "https://charitafm.cz/volna-mista/kontaktni-formular-prace/": {
   "hash": "b9b0b87c1aadb95935a963b63af3476e175bd260",
@@ -3114,7 +3244,7 @@
   "more": []
  },
  "https://www.krevnicentrum.cz/kariera/": {
-  "hash": "cc2d7420cb61261a0df88a40e859ac97d05a5476",
+  "hash": "e7b0cdc8bdc5b96daec36eb4c130b1829fc33e63",
   "listings": [
    {
     "title": "Zdravotní sestra na transfuzní oddělení v Havířově",
@@ -3122,7 +3252,7 @@
     "place": "Havířov",
     "contract": "",
     "shift": "",
-    "description": "Hledáme zdravotní sestru na transfuzní oddělení."
+    "description": "Hledáme zdravotní sestru na transfuzní oddělení v Havířově."
    },
    {
     "title": "Lékař na odběrové místo do Bohumína",
@@ -3130,15 +3260,7 @@
     "place": "Bohumín",
     "contract": "",
     "shift": "",
-    "description": "Hledáme lékaře na odběrové místo."
-   },
-   {
-    "title": "Zdravotní sestra na transfuzní oddělení ve Frýdku-Místku",
-    "url": "https://www.krevnicentrum.cz/hledame-zdravotni-sestru-na-transfuzni-oddeleni-ve-frydku-mistku-215cz44/",
-    "place": "Frýdek-Místek",
-    "contract": "",
-    "shift": "",
-    "description": "Hledáme zdravotní sestru na transfuzní oddělení."
+    "description": "Hledáme lékaře na odběrové místo do Bohumína."
    },
    {
     "title": "Lékař/lékařky v oboru Hematologie a transfuzní lékařství",
@@ -3154,10 +3276,10 @@
     "place": "Hranice",
     "contract": "",
     "shift": "",
-    "description": "Hledáme lékaře na odběrové místo."
+    "description": "Hledáme lékaře na odběrové místo do Hranic."
    },
    {
-    "title": "Dvě všeobecné sestry do Nového Jičína",
+    "title": "Všeobecné sestry do Nového Jičína",
     "url": "https://www.krevnicentrum.cz/hledame-dve-vseobecne-sestry-do-noveho-jicina-na-pondelky-odpoledne-263cz44/",
     "place": "Nový Jičín",
     "contract": "",
@@ -3198,7 +3320,7 @@
   "more": []
  },
  "https://www.mpm-quality.cz/": {
-  "hash": "f187012b1b39ec3e814a515e22540b23bec89a56",
+  "hash": "29eed9318b3a646adb8f3072f8caf666c49c24f5",
   "listings": []
  },
  "https://www.podaneruce.eu/kariera/": {
@@ -3395,7 +3517,7 @@
   "more": []
  },
  "https://www.knihovnatrinec.cz/o-knihovne/pracovni-prilezitosti/": {
-  "hash": "650eae723cb6f67fe446bec6610805fb6a8d79ec",
+  "hash": "bcb522ea45c92c18ae360adcb8778e1616482572",
   "listings": [],
   "more": []
  },
@@ -3513,7 +3635,7 @@
   "more": []
  },
  "https://www.muzeumct.cz./": {
-  "hash": "5cb1e9b7cf046e2c7cb8b841b5699cc5dc8e68b2",
+  "hash": "2d238a0d0efb19efebb10655f90f671d04239422",
   "listings": []
  },
  "http://www.nspka.cz/": {
@@ -3545,23 +3667,15 @@
   "more": []
  },
  "https://www.ssmh.cz/": {
-  "hash": "fd11c347ca553da5fcc09c5749b59c5f01b5e1f1",
+  "hash": "bffb7f1e54c493c3e32e298d1926c0a9e23f9892",
   "listings": [
    {
-    "title": "sociální pracovník /pracovnice",
-    "url": "https://www.ssmh.cz/2026/10/20/volni-pozice-socialni-pracovnik-pracovnice/",
-    "place": "Havířov",
-    "contract": "",
-    "shift": "",
-    "description": "Volná pozice pro sociálního pracovníka / pracovnici v Sociálních službách města Havířova."
-   },
-   {
-    "title": "psycholog, manželský a rodinný poradce / psycholožka, manželská a rodinná poradkyně",
+    "title": "psycholog, manželský a rodinný poradce/ psycholožka, manželská a rodinná poradkyně",
     "url": "https://www.ssmh.cz/2026/10/07/volna-pozice-psycholog-manzelsky-a-rodinny-poradce-psycholozka-manzelska-a-rodinna-poradkyne/",
     "place": "Havířov",
     "contract": "",
     "shift": "",
-    "description": "Volná pozice pro psychologa, manželského a rodinného poradce / psycholožku, manželskou a rodinnou poradkyni."
+    "description": "Volná pozice psychologa, manželského a rodinného poradce."
    },
    {
     "title": "Pracovník v sociálních službách",
@@ -3569,7 +3683,7 @@
     "place": "Havířov",
     "contract": "DPP",
     "shift": "",
-    "description": "Volná pozice pro pracovníka v sociálních službách na dohodu o pracovní činnosti (DPP)."
+    "description": "Volná pozice pracovníka v sociálních službách na dohodu o pracovní činnosti (DPP)."
    },
    {
     "title": "Mzdový/á účetní",
@@ -3577,7 +3691,7 @@
     "place": "Havířov",
     "contract": "",
     "shift": "",
-    "description": "Volná pozice pro mzdového účetního / mzdovou účetní."
+    "description": "Volná pozice na pozici mzdového/é účetní."
    },
    {
     "title": "Pracovník v sociálních službách",
@@ -3585,12 +3699,10 @@
     "place": "Havířov",
     "contract": "",
     "shift": "",
-    "description": "Volná pozice pro pracovníka v sociálních službách."
+    "description": "Volná pozice pracovníka v sociálních službách."
    }
   ],
-  "more": [
-   "https://www.ssmh.cz/clanky/"
-  ]
+  "more": []
  },
  "https://ssrz.cz/kariera": {
   "hash": "ef9611111f8e641e7b5179f9869461fae2337f3e",
@@ -3631,7 +3743,7 @@
   "more": []
  },
  "https://www.sssfno.cz/o-nas/kariera/": {
-  "hash": "bca04fe48960c68a06d5cef57bfe8fa2b14c804b",
+  "hash": "63debf52fb05cfcc4a375a61d87e8628dc15bdc2",
   "listings": [
    {
     "title": "Pracovník v sociálních službách v pobytové službě",
@@ -3639,7 +3751,7 @@
     "place": "Frýdlant nad Ostravicí",
     "contract": "",
     "shift": "",
-    "description": "Hledáme spolehlivého a empatického člověka na pozici pracovník v sociálních službách v pobytové službě. Náplní práce je pomáhat lidem, být jim oporou a přispívat k tomu, aby se cítili bezpečně a respektovaně."
+    "description": "Hledáme spolehlivého a empatického člověka do našeho týmu na pozici pracovník v sociálních službách v pobytové službě. Máte chuť pomáhat lidem, být jim oporou a svou každodenní prací přispívat k tomu, aby se cítili bezpečně, respektovaně a dobře?"
    },
    {
     "title": "Vedoucí Pečovatelské služby",
@@ -3647,7 +3759,7 @@
     "place": "Frýdlant nad Ostravicí",
     "contract": "",
     "shift": "",
-    "description": "Výběrové řízení na pozici vedoucí Pečovatelské služby. Více informací naleznete v přiložené dokumentaci."
+    "description": "Výběrové řízení na pozici vedoucí pečovatelské služby. Aktuálně vyhlášeno ke dni 17. 9. 2026."
    },
    {
     "title": "Řidič/Řidička SENIORTAXI",
@@ -3655,18 +3767,18 @@
     "place": "Frýdlant nad Ostravicí",
     "contract": "",
     "shift": "",
-    "description": "Výběrové řízení na pozici řidič/řidička pro Seniortaxi. Podrobnosti k požadavkům a náplni práce jsou uvedeny v dokumentu PDF."
+    "description": "Výběrové řízení na pozici řidič/řidička Seniortaxi."
    }
   ],
   "more": []
  },
  "https://www.sssfno.cz/o-nas/kariera/pracovnik-v-socialnich-sluzbach/": {
-  "hash": "cb6de772f3285f2e26125e5903060ccbdbeb15b3",
+  "hash": "37992ca9acb64314af9a4d9c72d0bdafc0fd4022",
   "listings": [],
   "more": []
  },
  "https://www.dsfm.cz/kontakt/kariera/": {
-  "hash": "14c3059c87ae0439de0f885dbb187fdc9dc02c96",
+  "hash": "e3d13e5f05ebbfcbdc37b688f87941a00a8c52a3",
   "listings": [
    {
     "title": "Všeobecná sestra v sociálních službách pro Domov se zvláštním režimem",
@@ -3748,36 +3860,28 @@
   "more": []
  },
  "https://www.nemfm.cz/kariera/": {
-  "hash": "f8d3aff8452277db2fddc1427b5303331867ae9c",
+  "hash": "db9a95054fb02f5f80c9eb12e2158355ec6e5a71",
   "listings": [
    {
     "title": "Kuchař/kuchařka do stravovacího provozu",
     "url": "https://www.nemfm.cz/kuchar-kucharka-do-stravovaciho-provozu-173cz67/",
-    "place": "Frýdek-Místek",
+    "place": "Moravskoslezská nemocnice Frýdek-Místek, p.o.",
     "contract": "HPP",
     "shift": "",
-    "description": "Moravskoslezská nemocnice Frýdek-Místek p.o. přijme do pracovního poměru kuchaře či kuchařku do stravovacího provozu."
-   },
-   {
-    "title": "Zedník",
-    "url": "https://www.nemfm.cz/zednik-751cz67/",
-    "place": "Frýdek-Místek",
-    "contract": "HPP",
-    "shift": "",
-    "description": "Moravskoslezská nemocnice Frýdek-Místek, p.o. hledá do svého týmu zedníka."
+    "description": "Moravskoslezská nemocnice Frýdek-Místek, p.o. přijme do pracovního poměru kuchaře/kuchařku do stravovacího provozu."
    },
    {
     "title": "Vrchní sestra oddělení dlouhodobé následné péče a následné péče",
     "url": "https://www.nemfm.cz/vrchni-sestra-oddeleni-dlouhodobe-nasledne-pece-a-nasledne-pece-789cz26/",
-    "place": "Frýdek-Místek",
+    "place": "Moravskoslezská nemocnice Frýdek-Místek, p.o.",
     "contract": "",
     "shift": "",
-    "description": "Moravskoslezská nemocnice Frýdek-Místek, p.o. vypisuje výběrové řízení na pozici vrchní sestry oddělení dlouhodobé následné péče a oddělení následné péče."
+    "description": "Výběrové řízení na pozici vrchní sestry oddělení dlouhodobé následné péče a oddělení následné péče."
    },
    {
     "title": "Lékař/lékařka na ortopedicko-traumatologické oddělení",
     "url": "https://www.nemfm.cz/lekar-lekarka-na-ortopedicko-traumatologicke-oddeleni-788cz26/",
-    "place": "Frýdek-Místek",
+    "place": "Moravskoslezská nemocnice Frýdek-Místek",
     "contract": "",
     "shift": "",
     "description": "Moravskoslezská nemocnice Frýdek-Místek hledá do týmu ortopedicko-traumatologického oddělení lékaře/lékařku."
@@ -3785,23 +3889,23 @@
    {
     "title": "Onkopsycholog / klinický psycholog",
     "url": "https://www.nemfm.cz/onkopsycholog-klinicky-psycholog-783cz26/",
-    "place": "Frýdek-Místek",
+    "place": "Moravskoslezská nemocnice Frýdek-Místek",
     "contract": "",
     "shift": "",
-    "description": "Moravskoslezská nemocnice Frýdek-Místek hledá klinickou psycholožku nebo psychologa pro práci s pacienty, jejich blízkými i zdravotnickým týmem."
+    "description": "Hledáme klinickou psycholožku nebo psychologa, která(ý) chce dělat psychologii tam, kde má bezprostřední význam pro pacienty, jejich blízké i zdravotnický tým."
    },
    {
     "title": "Všeobecné sestry, praktické sestry - ARO, následná intenzivní péče, chirurgická intenzivní péče, centrální operační sály",
     "url": "https://www.nemfm.cz/vseobecne-sestry-prakticke-sestry-aro-nasledna-intenzivni-pece-chirurgicka-intenzivni-pece-centralni-operacni-saly-767cz26/",
-    "place": "Frýdek-Místek",
+    "place": "Moravskoslezská nemocnice Frýdek-Místek, p.o.",
     "contract": "",
     "shift": "",
-    "description": "Moravskoslezská nemocnice Frýdek-Místek, p.o. přijme všeobecné sestry a praktické sestry na vybraná oddělení."
+    "description": "Přijme všeobecné sestry a praktické sestry na oddělení ARO, následná intenzivní péče, chirurgická intenzivní péče a centrální operační sály."
    },
    {
     "title": "Pracovník/pracovnice stravovacího provozu",
     "url": "https://www.nemfm.cz/pracovnik-pracovnice-stravovaciho-provozu-760cz26/",
-    "place": "Frýdek-Místek",
+    "place": "Moravskoslezská nemocnice Frýdek-Místek, p.o.",
     "contract": "HPP",
     "shift": "",
     "description": "Moravskoslezská nemocnice Frýdek-Místek, p.o. přijme do pracovního poměru pracovníka/pracovnici do stravovacího provozu."
@@ -3812,12 +3916,12 @@
     "place": "Příbor",
     "contract": "",
     "shift": "",
-    "description": "Moravskoslezská nemocnice Frýdek-Místek hledá do moderní a přátelské ordinace v Příboře kolegu či kolegyni na pozici praktického lékaře pro dospělé."
+    "description": "Hledáme do naší moderní a přátelské ordinace v Příboře kolegu či kolegyni na pozici praktického lékaře pro dospělé."
    },
    {
     "title": "Lékař/ka neurologického oddělení",
     "url": "https://www.nemfm.cz/lekar-ka-neurologickeho-oddeleni-702cz26/",
-    "place": "Frýdek-Místek",
+    "place": "Moravskoslezská nemocnice Frýdek-Místek",
     "contract": "",
     "shift": "",
     "description": "Moravskoslezská nemocnice Frýdek-Místek hledá do týmu neurologického oddělení lékaře / lékařku."
@@ -3825,26 +3929,25 @@
    {
     "title": "Všeobecné sestry se specializací - Perioperční péče",
     "url": "https://www.nemfm.cz/vseobecne-sestry-se-specializaci-periopercni-pece-157cz66/",
-    "place": "Frýdek-Místek",
+    "place": "Nemocnice ve Frýdku-Místku, p.o.",
     "contract": "",
     "shift": "",
-    "description": "Nemocnice ve Frýdku-Místku, p.o. přijme všeobecné sestry se specializací - Perioperční péče na oddělení centrálních operačních sálů."
+    "description": "Přijme všeobecné sestry se specializací - Perioperční péče na oddělení centrálních operačních sálů."
+   },
+   {
+    "title": "Všeobecné sestry, praktické sestry do gastroenterologické ambulance",
+    "url": "https://www.nemfm.cz/vseobecne-sestry-prakticke-sestry-do-gastroenterologicke-ambulance-505cz26/",
+    "place": "Nemocnice ve Frýdku-Místku p.o.",
+    "contract": "",
+    "shift": "",
+    "description": "Přijme do svého týmu všeobecné sestry a praktické sestry do gastroenterologické ambulance."
    }
   ],
   "more": []
  },
  "https://www.muzeumbeskyd.com/sluzby/kariera/": {
-  "hash": "f10b59da1592ab4b6ad42a176a45b808138073b7",
-  "listings": [
-   {
-    "title": "Administrativní pracovník/pracovnice Muzea Beskyd",
-    "url": "https://www.muzeumbeskyd.com/sluzby/kariera/",
-    "place": "Frýdek-Místek",
-    "contract": "HPP",
-    "shift": "",
-    "description": "Zajištění chodu spisové služby a administrativní podpora sekretariátu. Požadujeme SŠ vzdělání s maturitou, velmi dobrou znalost práce na PC, pečlivost, samostatnost, diskrétnost a zkušenost se spisovou službou výhodou."
-   }
-  ],
+  "hash": "7506dd7a227fd36ba7fe666569ab271249beece8",
+  "listings": [],
   "more": []
  },
  "https://www.zirafafm.cz/kariera": {
@@ -3938,26 +4041,26 @@
   "more": []
  },
  "https://www.nydek.cz/sluzby-pro-obcany/nabidka-prace/": {
-  "hash": "b5ffb11e11daba86bbbdf8eb011c075c2e4349fd",
+  "hash": "ceeb75095dfbc6db8748f78c24435c5cee1c8319",
   "listings": [],
   "more": []
  },
  "https://www.bystrice.cz/uvod/nabidky-prace/": {
-  "hash": "440293f8ac9cdcfb675f597cd6a23239a9f6eedf",
+  "hash": "cdc9013403833364ff312739f022679e396c853a",
   "listings": [],
   "more": []
  },
  "https://www.vendryne.cz/obec/sluzby-obce/nabidka-prace/": {
-  "hash": "0b0b139aaa1f16f0b65eb1a09cced2a524cfb8d2",
+  "hash": "c0d08fba88cdf0cfeb5b7a7c48fcd76c765601f6",
   "listings": [],
   "more": []
  },
  "https://obechradek.cz/": {
-  "hash": "03e2429b353022175d54e395fa63eccc03ca8253",
+  "hash": "5f5e69b694e630fe4676eb575c1c79c4ac8ae087",
   "listings": []
  },
  "https://www.navsi.cz/": {
-  "hash": "2f88148f4ccacd19911e813cc4e46283670376c9",
+  "hash": "96d654560daf4d238eee53ac0a3c911d55cedb4c",
   "listings": []
  },
  "https://www.trinecko.cz/volna-pracovni-mista-ve-skolstvi": {
@@ -3993,11 +4096,11 @@
   ]
  },
  "https://www.obecpisecna.cz/": {
-  "hash": "245476d8569ebba9de131e70753d7a6d01e38328",
+  "hash": "cc5aad8c84f5b0f9b2ca2ef255b200db6cdf76f7",
   "listings": []
  },
  "http://www.obecmilikov.cz/": {
-  "hash": "7109d509b76d3384834d45d36ae42ff2ce04c81d",
+  "hash": "343bd7301e1a307b53d48b5d25d0b9b70a303623",
   "listings": []
  },
  "https://www.jablunkov.cz/": {
@@ -4005,14 +4108,11 @@
   "listings": []
  },
  "https://www.kosariska.cz/": {
-  "hash": "f25f1d95b41a361b3dcfd39be00858b7e007dc6e",
-  "listings": [],
-  "more": [
-   "https://www.kosariska.cz/aktuality/aktuality/nabidky-prace-v-regionu-75cs.html"
-  ]
+  "hash": "2fd1fc55f30b926ff68b759149a3fedf9887da05",
+  "listings": []
  },
  "https://www.obecpisek.cz/": {
-  "hash": "379d96ce8e293bcd81aaf022e0285a2f04ed8ba2",
+  "hash": "4ae293cfbe847ee3d26bac3e56176ff73b04e008",
   "listings": [],
   "more": [
    "https://www.obecpisek.cz/uredni-deska"
@@ -4023,7 +4123,7 @@
   "listings": []
  },
  "https://bocanovice.cz/": {
-  "hash": "9a40c4725afddee33cdafe00f5dbf9debb722c7e",
+  "hash": "2c2f2d6e593be67b90c90c19fd78062ff2249889",
   "listings": []
  },
  "https://www.ropice.cz/": {
@@ -4043,7 +4143,7 @@
   "listings": []
  },
  "https://www.bukovec.cz/": {
-  "hash": "32208972228bc7d417ad688186994c520598d351",
+  "hash": "a673265f335c4c72b6d7fb204b71175fbfe3874c",
   "listings": []
  },
  "https://www.velopoli.cz/": {
@@ -4101,18 +4201,18 @@
   "listings": []
  },
  "https://www.mostyujablunkova.cz/": {
-  "hash": "5ffcb2fa3f6c31bbcd1dc13a9f435c19c541d1e6",
+  "hash": "610f5c9625554d78109831693ee4837141966bb9",
   "listings": [],
   "more": [
    "https://www.mostyujablunkova.cz/uredni-deska"
   ]
  },
  "https://www.mostyujablunkova.cz/uredni-deska": {
-  "hash": "6ca3ebefae39f6724787d89fef26c9824b1d8336",
+  "hash": "226320a5752fee3ba5bde8c1aae5006b4a555e06",
   "listings": []
  },
  "https://www.obechrcava.cz/": {
-  "hash": "a3ba11fb15a0cced62706a86b703361d537f8ccf",
+  "hash": "8fb2ef21db3381c3b11c381f03dea08977c354f8",
   "listings": []
  },
  "https://www.komorni-lhotka.cz/": {
@@ -4137,7 +4237,7 @@
   "more": []
  },
  "https://www.hornilomna.cz/": {
-  "hash": "3377fe5a590ff15ef6b354aa88701b580081d515",
+  "hash": "b6e03a5e892c7281b0e3560a73c76ab57d291c98",
   "listings": []
  },
  "https://www.dolnitosanovice.cz/": {
@@ -4162,11 +4262,11 @@
   ]
  },
  "https://terlicko.cz/": {
-  "hash": "7dd7bf1cd8599008c07adfcbe681aa0a43c7e76e",
+  "hash": "9f1a132bbe91c51d84e5132b9964c61884811e92",
   "listings": []
  },
  "https://www.obecalbrechtice.cz/": {
-  "hash": "2d6bd20559f6862e9af259f937e448ce3af1cf17",
+  "hash": "775055485c8c1e8625c5decda0e3229508727654",
   "listings": []
  },
  "https://www.prazmo.cz/": {
@@ -4174,7 +4274,7 @@
   "listings": []
  },
  "https://www.sobesovice.cz/": {
-  "hash": "685f474e1da99542fb1617c842c1c08fe1ab8414",
+  "hash": "24479b61633f83c624aa6d6fbbfcbaadd2adaf78",
   "listings": []
  },
  "https://www.niznilhoty.cz/": {
@@ -4203,7 +4303,7 @@
   "listings": []
  },
  "https://www.lucina.cz/": {
-  "hash": "c4e51a74af8326c0b71bcb8baca693ab435b1d2a",
+  "hash": "67b1a782872a44addc0a621227b549f6307a15ab",
   "listings": []
  },
  "https://www.nosovice.cz/": {
@@ -4211,7 +4311,7 @@
   "listings": []
  },
  "https://www.hornisucha.cz/": {
-  "hash": "41de0458d388caea2557c20aae0e07c25d4b2a10",
+  "hash": "5627171a86809c3197802ba7614de89b2a2fac58",
   "listings": []
  },
  "https://www.horni-bludovice.cz/": {
@@ -4223,11 +4323,11 @@
   "listings": []
  },
  "https://www.havirov-city.cz/": {
-  "hash": "23ff2f7a8579a686bc7b4bdc52279a7ed7d2b081",
+  "hash": "f2b04505e9507968f2d932ce94c27ba242ad8e9d",
   "listings": []
  },
  "https://www.malenovice.eu/": {
-  "hash": "927e00b64d3559d042a4395c48018fe914478a69",
+  "hash": "db6760f9462a751b8e1b55242c4189d6091186fe",
   "listings": []
  },
  "https://www.obeckanovice.cz/": {
@@ -4235,7 +4335,7 @@
   "listings": []
  },
  "https://www.baska.cz/": {
-  "hash": "fae1b41766597e466514861b8c03c0236c157103",
+  "hash": "4b1094ea69278a339fd2179bb97d843102263113",
   "listings": []
  },
  "https://www.przno.cz/": {
@@ -4251,7 +4351,7 @@
   "listings": []
  },
  "https://www.stare-hamry.cz/": {
-  "hash": "5db565b44616ee9fd6d703f6e5b1a62f0212072f",
+  "hash": "94fa1e7d63fa4c2e9b282153439cba76c040936d",
   "listings": []
  },
  "https://mesto-senov.cz/": {
@@ -4267,7 +4367,7 @@
   "listings": []
  },
  "https://zs-bystrice.cz/": {
-  "hash": "61aaf507185282648ea99835b42214d7741e811c",
+  "hash": "48a1299b2e951fb73d8a4d0a14109738bd7c5390",
   "listings": []
  },
  "https://pspbystrice.cz/": {
@@ -4283,11 +4383,11 @@
   "listings": []
  },
  "https://www.ddmtrinec.cz/": {
-  "hash": "4cbe998550635d7c7e5727a841f2dccd04dfc13f",
+  "hash": "eef5a512b7b57695341aa8f2184b370c8b5b31d9",
   "listings": []
  },
  "https://www.zstrinec.cz/": {
-  "hash": "c789b3af90b21aa435308849cd1294cd22de362c",
+  "hash": "4456499c63ffc44611b55c88c0b94a0bff31eecb",
   "listings": []
  },
  "https://www.tria-tr.cz/": {
@@ -4311,15 +4411,15 @@
   "listings": []
  },
  "https://www.6zstrinec.cz/": {
-  "hash": "e52115ce99e802540aa4dd21617fe4769a266e79",
+  "hash": "c8a28f60ff4f7ccd85408887dbe1e752e37a6ddc",
   "listings": []
  },
  "https://www.zsmilikov.cz/": {
-  "hash": "e96f355761000d2e634624a94c876a740c30f384",
+  "hash": "7fdc7e4b0f2c396ccdf8886bca7b504a3fa5ddcc",
   "listings": []
  },
  "https://www.ddmjablunkov.cz/": {
-  "hash": "37505839cd658dff1c34bcb9506d5b26e59d14c8",
+  "hash": "af8071dbf561db51397fb60d1b0158aa5b5c1008",
   "listings": []
  },
  "https://www.zusjablunkov.cz/": {
@@ -4331,7 +4431,7 @@
   "listings": []
  },
  "https://zsams-ropice.cz/": {
-  "hash": "a3c966fd85a9db79c491c744f1f15e5858e9304e",
+  "hash": "7ed2c5531d8e2ba048448ebb5c14aba8cac68d20",
   "listings": []
  },
  "https://www.zssmilovice.cz/": {
@@ -4339,11 +4439,11 @@
   "listings": []
  },
  "https://www.zsstritez.cz/": {
-  "hash": "e861446aa876bf60cbfea628d208196cf1ed217a",
+  "hash": "0fdcdc841ffcf4f8a0b2f7198850193cc77a2edb",
   "listings": []
  },
  "https://www.zsbukovec.cz/": {
-  "hash": "92e48af623c7088b9b0ef36c2f656ebb7627b687",
+  "hash": "752dbb12977d111fe29b577f022f72d704e88cc3",
   "listings": []
  },
  "https://skolasd.eu/uredni-deska/pracovni-prilezitosti/": {
@@ -4351,7 +4451,7 @@
   "listings": []
  },
  "https://www.oact.cz/": {
-  "hash": "05e67f657e8a4232de226e287efebaeae2cf39b6",
+  "hash": "291fde87d97199719f0cf2dda84ff419fb50a0f4",
   "listings": []
  },
  "https://www.zsptesin.cz/": {
@@ -4359,7 +4459,7 @@
   "listings": []
  },
  "https://www.gympol.cz/": {
-  "hash": "4e60ee206d7f83908bdd63b000b4e32903afd264",
+  "hash": "467f4186705e6e4cf82a160f0eef363dae9ff4a9",
   "listings": []
  },
  "https://www.zusaplus.cz/": {
@@ -4399,7 +4499,7 @@
   "listings": []
  },
  "https://zsddomaslavice.cz/": {
-  "hash": "8df46941d631abbc915691c3c28c682d79e5a0ab",
+  "hash": "a104a911264c56b1f9030b73c4cd686ca06c0143",
   "listings": []
  },
  "https://www.terlickodds.cz/cs": {
@@ -4415,15 +4515,15 @@
   "listings": []
  },
  "https://www.zssobesovice.cz/": {
-  "hash": "da70abe09fb6add42713d96ccf0f014bee498316",
+  "hash": "9be33505d1775dc052b1495a5625d7bf90df9b8a",
   "listings": []
  },
  "https://www.zsraskovice.cz/": {
-  "hash": "02eb4cf7d82195a9de928f435a5e2626362c8eb8",
+  "hash": "02f9521307426ea5f0800cd29f8074aaf02db4dd",
   "listings": []
  },
  "https://www.pspsuchagorna.cz/": {
-  "hash": "949b31ec373d4c06e99128745e3f0c505114e22d",
+  "hash": "4c8fa01c29c4e9c5d83bd89752a6209cbd76ab7f",
   "listings": []
  },
  "https://www.zs-hornisucha.cz/": {
@@ -4435,7 +4535,7 @@
   "listings": []
  },
  "https://www.gym-karvina.cz/": {
-  "hash": "29d6198c777f2e7c5d77852d5504242da5ea3141",
+  "hash": "733f903c1fa3be9a0ea594d92fdc0166057ce831",
   "listings": []
  },
  "https://www.sosoom.cz/": {
@@ -4451,7 +4551,7 @@
   "listings": []
  },
  "https://szmkarvina.cz/": {
-  "hash": "38daf61f408751884dc5af3ba2b75163a829df5d",
+  "hash": "ae0c35086b957a29b0b1c943409ce51e4c55e231",
   "listings": []
  },
  "https://www.open-school-karvina.cz": {
@@ -4459,7 +4559,7 @@
   "listings": []
  },
  "https://www.cihelni.cz/": {
-  "hash": "0235db013301b4d25ea3a2041f8c3425412c18cb",
+  "hash": "749039e070a6b86f043fa75fe10ef5db8510ddac",
   "listings": []
  },
  "https://zsdruzby.cz/": {
@@ -4467,11 +4567,11 @@
   "listings": []
  },
  "https://www.zs-delnicka.cz/": {
-  "hash": "185fb798e71a2696c42e99073c98364c64eb2778",
+  "hash": "1ab46c164b5866a446a428c4b89182b9f2b2c8a2",
   "listings": []
  },
  "https://www.mendelova.cz/": {
-  "hash": "c99c51b819f2a42ce27ee4af5c5f997c999ffd67",
+  "hash": "2cd460b2536736a3740fa6d267b8b387ce632393",
   "listings": []
  },
  "https://www.zs-slovenska.eu/": {
@@ -4499,7 +4599,7 @@
   "listings": []
  },
  "https://www.csvc.cz/": {
-  "hash": "085aeb28fa20f9742addc0c9035210092406a3c2",
+  "hash": "ad408c40ef89a6eade3ea7dbdfd51ae5fe63553f",
   "listings": []
  },
  "https://gsh.cz/": {
@@ -4511,7 +4611,7 @@
   "listings": []
  },
  "https://www.stavha.cz/": {
-  "hash": "5538ebd4df737dd28f89e57f4e5227e5dcfc76d0",
+  "hash": "d1249ca14b7acd11b710c97942a71bfa4065c154",
   "listings": []
  },
  "https://www.ssazs-havirov.cz/": {
@@ -4523,31 +4623,27 @@
   "listings": []
  },
  "https://www.zs1maje.cz/": {
-  "hash": "1d45147b21c6acb5c502449d9fc58c8033258d20",
+  "hash": "100e225e5cbcc19e80822fa49ced4c3f43e7a027",
   "listings": []
  },
  "https://zssvobody.cz/": {
-  "hash": "716d444d3268aad3e12f74e8d97570e8c4b6b5d1",
+  "hash": "33ed9063a369f0f1081c969df9666b29000fe221",
   "listings": [
    {
-    "title": "Pracovník/pracovnice na úklid",
+    "title": "Pracovnice/pracovník na úklid",
     "url": "https://zssvobody.cz/",
     "place": "Havířov",
-    "contract": "plný úvazek 1,0",
+    "contract": "plný úvazek 1,0 (dlouhodobý zástup)",
     "shift": "",
-    "description": "ZŠ Gen. Svobody Havířov přijme na dlouhodobý zástup pracovnici/pracovníka na úklid. Úvazek 1,0. Nástup možný v průběhu měsíce listopadu."
+    "description": "ZŠ Gen. Svobody Havířov přijme pracovnici/pracovníka na úklid na dlouhodobý zástup. Úvazek 1,0. Nástup možný v průběhu měsíce listopadu."
    }
   ],
   "more": []
  },
  "https://www.zsgh.cz/": {
-  "hash": "faec0ca5cfd84401dfec24d4da40e438b6741cfe",
+  "hash": "df160d6547d4d08f4caaf29bbbd14525f5ec9b21",
   "listings": [],
-  "more": [
-   "https://www.zsgh.cz/blog/page/2",
-   "https://www.zsgh.cz/blog/page/3",
-   "https://www.zsgh.cz/blog/page/4"
-  ]
+  "more": []
  },
  "https://www.zssvetle.cz/cs/": {
   "hash": "4dfedb608cb990fbf85383850384a41e28f6695c",
@@ -4565,7 +4661,7 @@
   "listings": []
  },
  "https://www.zsph.cz/zakladni-skola/uvod.php": {
-  "hash": "7a59022bc3bd47fb83d528ac32c38ddf28ffd753",
+  "hash": "b60512ad27a954c3d2dd7eb9aff9a1a80d5f4f58",
   "listings": []
  },
  "https://www.mladezka.cz/": {
@@ -4573,7 +4669,7 @@
   "listings": []
  },
  "https://www.zsmoravska.cz/": {
-  "hash": "b048c3a765444989dc37f3b0ea18fed085c80ae4",
+  "hash": "b7edc0099c9bc10110860baaadc87d759410efc9",
   "listings": []
  },
  "https://www.psp.bledowice.cz/": {
@@ -4585,7 +4681,7 @@
   "listings": []
  },
  "https://www.skolastaremesto.cz/": {
-  "hash": "bb50f90d7cf81251dce41b2c2f41ec3b3b86bdb0",
+  "hash": "4aaad4ff7b8aefbf4d4c86a62054f37c20e3ceba",
   "listings": []
  },
  "https://www.zsprzno.cz/": {
@@ -4593,7 +4689,7 @@
   "listings": []
  },
  "https://www.skolabaska.cz/": {
-  "hash": "140dac18f889801c3d94280c1fbf0a570280adde",
+  "hash": "533acbd7ff8632276542b610870b1b4a0f46ecce",
   "listings": []
  },
  "https://www.zsdoubrava.cz/": {
@@ -4605,15 +4701,15 @@
   "listings": []
  },
  "https://www.gymfrydl.cz/": {
-  "hash": "e5c2d7b9f5a03b3592e8684800b5fb088f5319a4",
+  "hash": "2d50a9b4c1c24bb94ce395c65b0b6541e68fc313",
   "listings": []
  },
  "https://www.zskomenskehofno.cz/": {
-  "hash": "369c375f4dbfe6d86fac1261cbdd41f2ff33a10f",
+  "hash": "039abd395e54d0e2ce8168408e506048ddf0a19a",
   "listings": []
  },
  "https://zsfrydlant.cz/": {
-  "hash": "ed3c16029189593ba0f0b85f9f784cf1919a4bd6",
+  "hash": "456e71157c2e3895ab5fac5f0260e4feeff01714",
   "listings": []
  },
  "https://www.skolananamesti.cz/": {
@@ -4633,7 +4729,7 @@
   "listings": []
  },
  "https://www.zus-senov.cz/": {
-  "hash": "eea363bde6d0dccc3b1df871d416bd7d03332fa3",
+  "hash": "c84d8d49d1af0161318c1bcfcf7acc545ad0283b",
   "listings": []
  },
  "https://zsgalileoschool.edupage.org/": {
@@ -4641,11 +4737,11 @@
   "listings": []
  },
  "https://www.gcfm.cz/": {
-  "hash": "f95977d0613ed37236f5f96b930abfac5ac185fd",
+  "hash": "d4f24bde2a6a0dca66b784911078f3febbca31fa",
   "listings": []
  },
  "https://www.ssosfm.cz/": {
-  "hash": "a551b9c0e7540bbc03b4e6e9b8feed3429d230fa",
+  "hash": "a331d38e1efec71d44a19f636fb5574a532ad458",
   "listings": []
  },
  "https://pojfm.cz/": {
@@ -4657,7 +4753,7 @@
   "listings": []
  },
  "https://www.zdrskolafm.cz/": {
-  "hash": "c99bfe74ea0b8f19140333d33eafb0acdcfee733",
+  "hash": "9cab0ba654c7db367844bb6574a8e42c59cf6ce1",
   "listings": []
  },
  "https://www.ruzovka.eu/zakladni-informace/zakladni-informace-o-skole.php": {
@@ -4673,7 +4769,7 @@
   "listings": []
  },
  "https://7zsfm.cz/": {
-  "hash": "bdb84a178e90751433fa0b7b2ad34df6cd59dddc",
+  "hash": "5437afcf9a5aac358510f29dfd265598246c8c31",
   "listings": []
  },
  "https://www.5zsfm.cz/": {
@@ -4685,16 +4781,15 @@
   "listings": []
  },
  "https://www.11zsfm.cz/": {
-  "hash": "42005460a865e0515328bdc986f9941e44e97644",
-  "listings": [],
-  "more": []
+  "hash": "1bd90a5296ac074bccd93aaedfb3ebc255c1cabe",
+  "listings": []
  },
  "https://www.4zsfm.cz/": {
-  "hash": "362054c08b98ab45415964a45c1d31ba9c123ec8",
+  "hash": "f383985b03586f26b83c939a12449199aaf3731a",
   "listings": []
  },
  "https://web.sestka-fm.cz": {
-  "hash": "e6c1304c70037983dd044d0117cf0112622ed03f",
+  "hash": "ed3f33001b82cdc631b6bd877b74c36ba43640b7",
   "listings": []
  },
  "https://osmicka.cz/": {
@@ -4710,11 +4805,11 @@
   "listings": []
  },
  "https://www.liskovec.cz/": {
-  "hash": "a724808bf8e5880139823181dc840fbb89daebd0",
+  "hash": "81bcdd3423c898af3fac5c7c9d1c58c5653b6b98",
   "listings": []
  },
  "https://www.ddmorlova.cz/": {
-  "hash": "1cd5fcaad4ebaf09156f2539637678c4a367cb6a",
+  "hash": "c4fec8877136d014f42ad045d91930e1fa1bbb72",
   "listings": []
  },
  "https://linguistic.cz/": {
@@ -4726,7 +4821,7 @@
   "listings": []
  },
  "https://www.zspianeta.cz/": {
-  "hash": "248d848240db979af67fc4b790702bd47787f271",
+  "hash": "5ce44e1d4c6ebac7ed8706093567338bc395a740",
   "listings": []
  },
  "https://www.nosch.cz/": {
@@ -4738,7 +4833,7 @@
   "listings": []
  },
  "https://www.zsrepiste.cz/": {
-  "hash": "d98b82c32024289b1a2ff7ea3154de20a134c740",
+  "hash": "874b0d9f1f5e2cf28a12b42b553958c1ecd0e931",
   "listings": []
  },
  "https://stonava.cz/vyberova-rizeni": {
@@ -4752,20 +4847,12 @@
   "more": []
  },
  "https://www.dobra.cz/": {
-  "hash": "a2aa8249efee208a4ae45f46c563b928f7ebbf4a",
-  "listings": [
-   {
-    "title": "Nabídka práce ve Slezské diakonii, konkrétně v Domově pro seniory SAREPTA Komorní Lhotka",
-    "url": "https://www.dobra.cz/obec-dobra/aktuality/nabidka-prace-ve-slezske-diakonii-konkretne-v-domove-pro-seniory-sarepta-komorni-lhotka/",
-    "place": "Komorní Lhotka",
-    "contract": "",
-    "shift": "",
-    "description": "Nabídka práce ve Slezské diakonii pro Domov pro seniory SAREPTA v Komorní Lhotce."
-   }
-  ],
+  "hash": "1a91fc23dae1bb488349990a875c6bc9fa8e2b08",
+  "listings": [],
   "more": [
-   "https://www.dobra.cz/obec-dobra/aktuality/",
-   "https://www.dobra.cz/uredni-deska/"
+   "https://www.dobra.cz/obec-dobra/",
+   "https://www.dobra.cz/uredni-deska/",
+   "https://www.dobra.cz/obec-dobra/aktuality/"
   ]
  },
  "https://www.karvina.cz/magistrat/pracovni-mista": {
@@ -4840,7 +4927,7 @@
   ]
  },
  "https://www.obec-ostravice.cz/aktualne/volna-pracovni-mista/": {
-  "hash": "3f4647fa6e1a837d1be3fbaf290f4cfcb9d8a463",
+  "hash": "6418a807d83452a963342b4eabe5b638b4ade289",
   "listings": [
    {
     "title": "Hledáme číšníky a servírky",
@@ -4878,12 +4965,29 @@
   "more": []
  },
  "https://www.frydekmistek.cz/magistrat/volna-pracovni-mista/": {
-  "hash": "afb8327da6d1ca77d37c670cbdc5e3096653b87c",
-  "listings": [],
+  "hash": "e126d52bc8304fb49d96c21e5827b2e19bfdd5e2",
+  "listings": [
+   {
+    "title": "Sociální pracovník oddělení sociálně-právní ochrany dětí OSS",
+    "url": "https://www.frydekmistek.cz/uredni-deska/vyberove-rizeni-socialni-pracovnik-oddeleni-socialne-pravni-ochrany-deti-oss-t-20-11-2026/",
+    "place": "Frýdek-Místek",
+    "contract": "",
+    "shift": "",
+    "description": "Výběrové řízení na pozici sociálního pracovníka oddělení sociálně-právní ochrany dětí. Termín pro podání přihlášky je do 20. 11. 2026."
+   },
+   {
+    "title": "Vedoucí právního úseku oddělení stavebního řádu OÚRaSŘ",
+    "url": "https://www.frydekmistek.cz/uredni-deska/vyberove-rizeni-vedouci-pravni-useku-oddeleni-stavebniho-radu-ourasr-t-20-11-2026/",
+    "place": "Frýdek-Místek",
+    "contract": "",
+    "shift": "",
+    "description": "Výběrové řízení na pozici vedoucího právního úseku oddělení stavebního řádu OÚRaSŘ. Termín pro podání přihlášky je do 20. 11. 2026."
+   }
+  ],
   "more": []
  },
  "https://www.mesto-orlova.cz/cz/radnice/pracovni-prilezitosti/": {
-  "hash": "b11fb119854c6383c622a7788acb65a77a5b6a69",
+  "hash": "5183f2daf94c7254d78788642277c5608e7a418f",
   "listings": [
    {
     "title": "VŘ 4/2026 - úředník sociálně právní ochrany dětí",
@@ -4897,7 +5001,7 @@
   "more": []
  },
  "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/": {
-  "hash": "58ff60e930e446c1ccb76e345aaf1dacfc27909e",
+  "hash": "f2d51cfe6b353cfc9738b9c83001426e5db19623",
   "listings": [],
   "more": [
    "https://www.mesto-orlova.cz/cz/zamestnani-a-podnikani/cz/zpravodajstvi/nabidky-prace/",
@@ -4928,7 +5032,7 @@
   ]
  },
  "https://metylovice.cz/vse-o-metylovicich/aktuality/2512-volne-pracovni-misto-v-zakladni-skole": {
-  "hash": "dad1a61ace4f6727afc9d649d3b4949a20490e57",
+  "hash": "0c21ba71411dc50059fd6b74175200cf4750d520",
   "listings": [
    {
     "title": "Volné pracovní místo v základní škole",
@@ -4936,18 +5040,18 @@
     "place": "Základní škola Mjr. Ambrože Bílka a Mateřská škola Metylovice, p.o.",
     "contract": "",
     "shift": "",
-    "description": "Základní škola Mjr. Ambrože Bílka a Mateřská škola Metylovice, p.o., hledá posilu do svého kolektivu. Nástup možný již od 1. října 2026."
+    "description": "Základní škola Mjr. Ambrože Bílka a Mateřská škola Metylovice hledá posilu do svého kolektivu. Nástup možný již od 1. října 2026."
    }
   ],
   "more": []
  },
  "https://www.detmarovice.cz/": {
-  "hash": "e1bb47425eca24ad4252dd6a0d5c3338670b28a9",
+  "hash": "220ffbd4092e37d417b7e42455bf293cd48380d5",
   "listings": [],
   "more": []
  },
  "https://www.ddmbystrice.cz/": {
-  "hash": "a722ebe77715914957a83c85d57eea9f765a1d61",
+  "hash": "4abcaac83ea4f293d7c2d51f5f6458aa2d256825",
   "listings": [],
   "more": []
  },
@@ -4974,12 +5078,12 @@
   "more": []
  },
  "https://www.zshradek.cz/materska-skola/volna-mista/": {
-  "hash": "a0c1ba7947349279759b315f62a5bab6bf3dc9e0",
+  "hash": "0f267ab8f49106602faa9d687aab9ce7ade244b5",
   "listings": [],
   "more": []
  },
  "https://www.gymtri.cz/": {
-  "hash": "cd1ae0096973d30c1c480e1c15d7ce5e8fb5833b",
+  "hash": "0d21a67ce26da873b25a5278dc062878021194ea",
   "listings": []
  },
  "https://www.spstz.cz/kariera": {
@@ -5059,9 +5163,8 @@
   "more": []
  },
  "https://zspisecna.cz/": {
-  "hash": "f55df41801883f88d6de5c9b4ff51fb068ddf371",
-  "listings": [],
-  "more": []
+  "hash": "d101137ccde97ed55716855afeef4c47a392a34e",
+  "listings": []
  },
  "https://www.zsjablunkov.cz/cs/vyberova-rizeni": {
   "hash": "60821215de16bfd44625614b538dc82ece34061b",
@@ -5074,7 +5177,7 @@
   "more": []
  },
  "https://www.albrechtovastredni.cz/": {
-  "hash": "25194f9cda036e513309b1ac66684785151782e6",
+  "hash": "ff3b8d86cf4f5ff6c31a50de3178584be2fbac0f",
   "listings": [],
   "more": []
  },
@@ -5111,7 +5214,7 @@
   "more": []
  },
  "https://www.skolaterlicko.cz/": {
-  "hash": "52fb4396ab91507930714bd65eebfb91c66f91dc",
+  "hash": "f58bd28c145737991cf1e9ef3225a38ec436b30c",
   "listings": [],
   "more": [
    "https://www.skolaterlicko.cz/volne-pracovni-pozice/"
@@ -5186,7 +5289,7 @@
   "more": []
  },
  "https://www.sstas-karvina.cz/cz/skola/kariera/": {
-  "hash": "c5a0f05736dddcf8f2159a6395477d64d55aa928",
+  "hash": "5d3825a6dd1e90d06a9b8655c33b6cd5993423ae",
   "listings": [
    {
     "title": "Učitel odborného výcviku – elektrikář",
@@ -5194,7 +5297,7 @@
     "place": "Karviná",
     "contract": "",
     "shift": "",
-    "description": "Volné pracovní místo na pozici učitel odborného výcviku pro obor elektrikář."
+    "description": "Pozice učitele odborného výcviku se zaměřením na obor elektrikář na Střední škole techniky a služeb, Karviná."
    },
    {
     "title": "Učitel všeobecně vzdělávacích a odborných předmětů – elektrikář",
@@ -5202,17 +5305,17 @@
     "place": "Karviná",
     "contract": "",
     "shift": "",
-    "description": "Volné pracovní místo na pozici učitel všeobecně vzdělávacích a odborných předmětů pro obor elektrikář."
+    "description": "Pozice učitele všeobecně vzdělávacích a odborných předmětů pro obor elektrikář na Střední škole techniky a služeb, Karviná."
    }
   ],
   "more": []
  },
  "https://zuskarvina.cz/": {
-  "hash": "bb1e77b8dbda30a81e38be3c2cfe1c23dfd21fa6",
+  "hash": "386add27128de5eaba7542a7b26a89d50710fa0f",
   "listings": []
  },
  "https://www.borovskeho.cz/": {
-  "hash": "858ff8248286eaf8fa21d6b02bd9e9a84d338bda",
+  "hash": "cc4eaf5c6aa1e3cb810eb042708be628d350ddfe",
   "listings": [],
   "more": []
  },
@@ -5300,15 +5403,15 @@
   "more": []
  },
  "https://www.zuslj-havirov.cz/cs/kariera.html": {
-  "hash": "069376cc88a3a01a5e03f61928a991eb222010a2",
+  "hash": "d600211b2e74127a108a7f7a5cd37459603db41d",
   "listings": [],
   "more": []
  },
  "https://zsnabrezi.cz/": {
-  "hash": "0fdc640380ef90eadc60d5c9cc7ef1e22f18a374",
+  "hash": "137ca98b32f450022762a9da88b43ed2c22f0cfd",
   "listings": [
    {
-    "title": "Kuchař či kuchařka do školní kuchyně",
+    "title": "Kuchař / kuchařka",
     "url": "https://zsnabrezi.cz/",
     "place": "ZŠ Na Nábřeží, Havířov",
     "contract": "",
@@ -5342,7 +5445,7 @@
   "more": []
  },
  "https://www.skola-sedliste.cz": {
-  "hash": "4460029a7831fada503e500cd00c492fbba627b3",
+  "hash": "4cecdee6eee2af52620956ba3021136a7a0cc239",
   "listings": [],
   "more": []
  },
@@ -5441,11 +5544,11 @@
   "more": []
  },
  "https://hzscr.gov.cz/kariera": {
-  "hash": "df9f075e93560fc458e09f06a174192377633704",
+  "hash": "17c66aeec6170eaa3393c7276d44008ef418b884",
   "listings": [],
   "more": [
-   "https://hzscr.gov.cz/sluzebni-pomer",
-   "https://hzscr.gov.cz/pracovni-pomer",
+   "https://hzscr.gov.cz/nabidka-volnych-pracovnich-mist",
+   "https://hzscr.gov.cz/obsazovani-sluzebnich-mist",
    "https://hzscr.gov.cz/pridejte-se-k-nam"
   ]
  },
@@ -5546,7 +5649,7 @@
   ]
  },
  "https://www.ssremesel.cz/": {
-  "hash": "e8f75bc727ca676edd0379fe4cb064491dcdd129",
+  "hash": "6026bb22d4875ffdeb2071a73d29eb1da09de495",
   "listings": [],
   "more": []
  },
@@ -5641,11 +5744,11 @@
   "more": []
  },
  "https://www.dobra.cz/uredni-deska/": {
-  "hash": "6e8235ef5fc650e1ef64400ee1b9f3cf9815066b",
+  "hash": "e0307359bf24a8c5ed61d5443083f86943433ac2",
   "listings": []
  },
  "https://www.dobra.cz/obec-dobra/aktuality/": {
-  "hash": "d16cea489d8b2b24443bf10e6b2e630482c0b549",
+  "hash": "327a58964716c33b119a9835bb8cce7e05238189",
   "listings": [
    {
     "title": "PRACOVNÍK / PRACOVNICE V SOCIÁLNÍCH SLUŽBÁCH",
@@ -5653,12 +5756,10 @@
     "place": "Domov pro seniory SAREPTA Komorní Lhotka",
     "contract": "HPP",
     "shift": "nerovnoměrně rozvržená pracovní doba: ranní a noční směny 11,5 hodiny (ranní 6:30–18:30, noční 18:30–6:30)",
-    "description": "Slezská diakonie hledá pracovníka v sociálních službách. Požaduje vzdělání dle zákona o sociálních službách nebo kurz (možno doplnit), trestní bezúhonnost, samostatnost, PC znalosti. Náplní je přímá obslužná péče o seniory, podpora soběstačnosti a vedení dokumentace. Nabízí úvazek 1,0, mzdu od 27 300 Kč + osobní ohodnocení a příplatky."
+    "description": "Slezská diakonie hledá pracovníka v sociálních službách. Požaduje vzdělání dle zákona o sociálních službách nebo příslušný kurz, trestní bezúhonnost, týmovou i samostatnou práci, uživatelskou PC znalost a zodpovědnost. Náplní je přímá obslužná péče o seniory, podpora soběstačnosti, vytváření kontaktů a vedení dokumentace. Nabízí úvazek 1,0, mzdu 27 300 Kč + osobní ohodnocení a příplatky."
    }
   ],
-  "more": [
-   "https://www.dobra.cz/obec-dobra/aktuality/uredni-deska/"
-  ]
+  "more": []
  },
  "https://www.dobra.cz/obec-dobra/vyzvy-obce/": {
   "hash": "d3352e3ea922a78a22076c20e2f9637318c30391",
@@ -5852,5 +5953,39 @@
   "hash": "fc3295ba30f8995c51fdba799ab2a3da6d82b246",
   "listings": [],
   "more": []
+ },
+ "https://charitafm.cz/volna-mista/pecujici/": {
+  "hash": "0d7266e2eb80ca142a25b277b98e6658776ff1ee",
+  "listings": [],
+  "more": [
+   "https://charitafm.cz/volna-mista/"
+  ]
+ },
+ "https://charitafm.cz/volna-mista/studenti/": {
+  "hash": "1a87ae3045ecd7a9e388f1e215358734c2fd62d5",
+  "listings": [],
+  "more": [
+   "https://charitafm.cz/volna-mista/",
+   "https://charitafm.cz/volna-mista/kontaktni-formular-prace/"
+  ]
+ },
+ "https://charitafm.cz/volna-mista/zkuseni/": {
+  "hash": "3ba11f57609b93e2640cc59479fc283545e4286b",
+  "listings": [],
+  "more": [
+   "https://charitafm.cz/volna-mista/"
+  ]
+ },
+ "https://www.dobra.cz/obec-dobra/": {
+  "hash": "11ca151a84d1c3c925985b5213f9a2eb9b0ff01c",
+  "listings": []
+ },
+ "https://hzscr.gov.cz/nabidka-volnych-pracovnich-mist": {
+  "hash": "8dfb19409726db3140cd16fa1ccf1eb4d705bf5c",
+  "listings": []
+ },
+ "https://hzscr.gov.cz/obsazovani-sluzebnich-mist": {
+  "hash": "2e14729384c74a9922d204f9cfa89b89a34d4353",
+  "listings": []
  }
 }
