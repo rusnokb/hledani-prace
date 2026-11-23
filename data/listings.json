@@ -103,6 +103,14 @@
    "removed": 20,
    "web_targets": 626,
    "ai_calls": 82
+  },
+  {
+   "date": "2026-11-23",
+   "found": 365,
+   "new": 10,
+   "removed": 16,
+   "web_targets": 626,
+   "ai_calls": 65
   }
  ],
  "listings": {
@@ -162,7 +170,7 @@
    "reason": "Pozice speciálního pedagoga odpovídá pedagogickému zaměření, ale vyžaduje jiné doplňkové vzdělání.",
    "shift_risk": false,
    "scored_hash": "c581e0a007a0:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -193,9 +201,10 @@
    "shift_risk": false,
    "scored_hash": "ab9373879531:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "upcr:67255826": {
    "id": "upcr:67255826",
@@ -253,7 +262,7 @@
    "reason": "Pozice sociálního pracovníka vyžaduje specifické vzdělání dle zákona 108/2006 Sb., které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "636ee1152606:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -283,7 +292,7 @@
    "reason": "Pozice sociálního pracovníka vyžaduje oborové vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "08fe5769e17c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -313,7 +322,7 @@
    "reason": "Pozice v sociálních službách s přímou péčí a ošetřováním neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "2c0fb9f5ff11:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -343,7 +352,7 @@
    "reason": "Pomocné práce v sociálních službách jsou mimo její preferované zaměření.",
    "shift_risk": false,
    "scored_hash": "ec75e11f5136:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -373,7 +382,7 @@
    "reason": "Zdravotnická profese vyžaduje specifické zdravotnické vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "e76a3cdc54e1:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -403,7 +412,7 @@
    "reason": "Pozice učitele anglického jazyka na SŠ, uchazečka nemá aprobaci pro cizí jazyky.",
    "shift_risk": false,
    "scored_hash": "9bb799b3574c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -433,7 +442,7 @@
    "reason": "Odborný výcvik pro řemeslné obory vyžaduje specifické výuční list v oboru a praxi.",
    "shift_risk": false,
    "scored_hash": "cc2934973384:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -463,7 +472,7 @@
    "reason": "Odborný výcvik elektro vyžaduje elektrotechnické vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "28703ba404fd:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -494,9 +503,10 @@
    "shift_risk": false,
    "scored_hash": "394c553a504b:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "upcr:67240454": {
    "id": "upcr:67240454",
@@ -523,7 +533,7 @@
    "reason": "Pozice požaduje řízení menšího týmu, což odpovídá její zkušenosti s vedením, ale jde spíše o facility management.",
    "shift_risk": false,
    "scored_hash": "eb81f2d7b54b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -553,7 +563,7 @@
    "reason": "Administrativní pozice na poště dobře odpovídá jejím administrativním zkušenostem a zkrácenému úvazku.",
    "shift_risk": false,
    "scored_hash": "d259e1831b63:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -614,7 +624,7 @@
    "reason": "Jedná se o manuální pozici v gastro provozu, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "35aa516ffcac:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -706,7 +716,7 @@
    "reason": "Pozice kalkulanta a rozpočtáře ve stavebnictví vyžaduje specifickou technickou praxi, kterou uchazečka nemá v plném rozsahu.",
    "shift_risk": false,
    "scored_hash": "7d35cbab3ed8:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -736,7 +746,7 @@
    "reason": "Pozice účetní a fakturantky přímo navazuje na její dlouholetou praxi fakturantky.",
    "shift_risk": false,
    "scored_hash": "69bf1f7bb917:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -766,7 +776,7 @@
    "reason": "Jde o manuální a technickou údržbářskou práci, která neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "02b3b568db75:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -797,9 +807,10 @@
    "shift_risk": false,
    "scored_hash": "3045bc763d7e:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "upcr:67300955": {
    "id": "upcr:67300955",
@@ -981,7 +992,7 @@
    "reason": "Jde o manuální chovatelskou práci s hmyzem, což spadá do odmítaných dělnických pozic.",
    "shift_risk": false,
    "scored_hash": "3c8f289af1ec:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1011,7 +1022,7 @@
    "reason": "Jedná se o manuální péči o krmný hmyz, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "67bb821b93b7:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1041,7 +1052,7 @@
    "reason": "Sociální práce vyžaduje specifické vzdělání, které uchazečka nemá, i když jde o práci s lidmi a administrativu.",
    "shift_risk": false,
    "scored_hash": "ba345bab2b45:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1071,7 +1082,7 @@
    "reason": "Pozice obnáší práci s hotovostí a administrativu, což odpovídá jejím administrativním zkušenostem.",
    "shift_risk": false,
    "scored_hash": "8b1b8c900daa:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1101,7 +1112,7 @@
    "reason": "Pozice zahrnuje aktivní prodej a telefonickou akvizici, což uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "0da3c9265b3a:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1162,7 +1173,7 @@
    "reason": "Jde o úklidovou práci, kterou uchazečka výslovně odmítá.",
    "shift_risk": true,
    "scored_hash": "5288e3044709:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1193,7 +1204,7 @@
    "shift_risk": false,
    "scored_hash": "3acab447d3be:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
    "is_new": false
   },
@@ -1223,9 +1234,10 @@
    "shift_risk": false,
    "scored_hash": "18801764c399:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "upcr:67288450": {
    "id": "upcr:67288450",
@@ -1345,7 +1357,7 @@
    "reason": "Běžná administrativní pozice na jednu směnu v Havířově přesně odpovídá jejím požadavkům a praxi.",
    "shift_risk": false,
    "scored_hash": "d5e44a5a1212:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1375,7 +1387,7 @@
    "reason": "Jde o předškolní vzdělávání v lesní mateřské škole, což neodpovídá její aprobaci pro 2. stupeň ZŠ.",
    "shift_risk": false,
    "scored_hash": "804fd113f41d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1436,7 +1448,7 @@
    "reason": "Účetní v příspěvkové organizaci, uchazečka má administrativní a ekonomické zázemí, ale chybí komplexní účetní praxe.",
    "shift_risk": false,
    "scored_hash": "b45c68918615:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1497,7 +1509,7 @@
    "reason": "Pozice odpovídá její dlouholeté praxi fakturantky a administrativní zkušenosti.",
    "shift_risk": false,
    "scored_hash": "9fce793533a9:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1527,7 +1539,7 @@
    "reason": "Odborný výcvik elektro vyžaduje strojírenské či elektro vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "6c90434d7dc5:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1557,7 +1569,7 @@
    "reason": "Odborný výcvik elektro vyžaduje specifickou odbornou kvalifikaci v oboru elektro.",
    "shift_risk": false,
    "scored_hash": "8c295902a163:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1587,7 +1599,7 @@
    "reason": "Manuální a gastro pozice kuchaře odporuje preferencím uchazečky.",
    "shift_risk": false,
    "scored_hash": "f135295d502e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1617,7 +1629,7 @@
    "reason": "Jde o manuální výdej stravy, což uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "7071a84a33cc:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1709,7 +1721,7 @@
    "reason": "Pozice praktické sestry vyžaduje zdravotnické vzdělání a praxi, což nesplňuje.",
    "shift_risk": false,
    "scored_hash": "6ed0f8dc248f:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1739,7 +1751,7 @@
    "reason": "Gastro pozice kuchaře odporuje požadavkům uchazečky.",
    "shift_risk": false,
    "scored_hash": "e9ba118450fa:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1769,7 +1781,7 @@
    "reason": "Aktivizační pracovník souvisí s volnočasovými aktivitami, ale nespadá přímo do jejích preferencí.",
    "shift_risk": false,
    "scored_hash": "0985a7fd5394:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1892,7 +1904,7 @@
    "reason": "Všeobecná účetní velmi dobře odpovídá její dlouholeté administrativní a fakturační praxi.",
    "shift_risk": false,
    "scored_hash": "38c16f0939b2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1922,7 +1934,7 @@
    "reason": "Učitelka na 1. stupni ZŠ neodpovídá její aprobaci pro 2. stupeň (matematika-technická výchova).",
    "shift_risk": false,
    "scored_hash": "1ceee4ac8b51:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1952,7 +1964,7 @@
    "reason": "Pozice vyžaduje VŠ speciální pedagogika, kterou uchazečka nemá (má učitelství pro 2. stupeň).",
    "shift_risk": false,
    "scored_hash": "dd8aed368113:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -1982,7 +1994,7 @@
    "reason": "Uchazečka má aprobaci pro 2. stupeň ZŠ, tato pozice je na 1. stupni ZŠ.",
    "shift_risk": false,
    "scored_hash": "227bc4dad546:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2044,9 +2056,10 @@
    "shift_risk": false,
    "scored_hash": "b6c1001de9b6:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "upcr:67250530": {
    "id": "upcr:67250530",
@@ -2166,7 +2179,7 @@
    "reason": "Vhodná administrativní/účetní pozice na zkrácený úvazek či HPP odpovídající její praxi.",
    "shift_risk": false,
    "scored_hash": "dc6743151302:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2351,7 +2364,7 @@
    "reason": "Jedná se o pozici v mezinárodním obchodu, což uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "c2c50975a608:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2412,7 +2425,7 @@
    "reason": "Jde o manuální/údržbářskou pozici, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "804dfc308457:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2473,7 +2486,7 @@
    "reason": "Pozice odpovídá jejím dlouholetým zkušenostem s fakturací a administrativou.",
    "shift_risk": false,
    "scored_hash": "f88ac6edc0b4:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2565,7 +2578,7 @@
    "reason": "Administrativní pozice na zkrácený úvazek velmi dobře odpovídá její profilu.",
    "shift_risk": false,
    "scored_hash": "5d78e3baf171:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2595,7 +2608,7 @@
    "reason": "Mzdové účetnictví na zkrácený úvazek nebo DPP odpovídá jejím administrativním zkušenostem.",
    "shift_risk": false,
    "scored_hash": "1a96756c741e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2656,7 +2669,7 @@
    "reason": "Aprobace ČJ/AJ/TV na SŠ pro speciální obory neodpovídá její aprobaci M-TV.",
    "shift_risk": false,
    "scored_hash": "7acbec28c6a2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2686,7 +2699,7 @@
    "reason": "Strojírenské předměty na SŠ vyžadují odborné technické vzdělání, které nemá.",
    "shift_risk": false,
    "scored_hash": "3cf51feebfcb:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2716,7 +2729,7 @@
    "reason": "Pozice vychovatelky odpovídá jejím preferencím v oblasti školství.",
    "shift_risk": false,
    "scored_hash": "1965ba4a142b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2746,7 +2759,7 @@
    "reason": "Požaduje humanitní předměty, což neodpovídá její aprobaci matematika-technická výchova.",
    "shift_risk": false,
    "scored_hash": "d0d29225e757:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2776,7 +2789,7 @@
    "reason": "Administrativní a sociální agenda v dětském domově částečně odpovídá jejímu profilu.",
    "shift_risk": false,
    "scored_hash": "a0a1cd550168:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2806,7 +2819,7 @@
    "reason": "Jde o manuální a skladnickou pozici s požadavkem na řízení VZV, což uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "8dd16569a86e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2836,7 +2849,7 @@
    "reason": "Strojírenské předměty na SŠ vyžadují odbornou středoškolskou či vysokoškolskou specializaci.",
    "shift_risk": false,
    "scored_hash": "32f5ee4eb1ce:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2866,7 +2879,7 @@
    "reason": "Pozice rozpočtáře ve stavebnictví vyžaduje specifickou odbornou praxi, kterou nemá.",
    "shift_risk": false,
    "scored_hash": "37ad552eb8c5:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2896,7 +2909,7 @@
    "reason": "Uchazečka má dlouhou praxi s fakturací a administrativou, ale chybí jí přímá hlubší praxe s komplexním účetnictvím a mezdami.",
    "shift_risk": false,
    "scored_hash": "52e8b63d52e0:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -2957,7 +2970,7 @@
    "reason": "Zdravotnická pozice lékaře vyžaduje specifické lékařské vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "0c753ad6f5e2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3018,7 +3031,7 @@
    "reason": "Pozice školního psychologa vyžaduje magisterské studium psychologie, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "5efa3b463958:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3048,7 +3061,7 @@
    "reason": "Učitelka matematiky na SŠ odpovídá její aprobaci, byť primárně studovala 2. stupeň ZŠ.",
    "shift_risk": false,
    "scored_hash": "f5dd5b198e08:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3078,7 +3091,7 @@
    "reason": "Pozice v herně nesplňuje požadavky uchazečky na vhodnou pracovní náplň a charakter prostředí.",
    "shift_risk": false,
    "scored_hash": "12a06542255c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3109,9 +3122,10 @@
    "shift_risk": false,
    "scored_hash": "760dbe4be5cc:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "upcr:67254927": {
    "id": "upcr:67254927",
@@ -3293,7 +3307,7 @@
    "reason": "Pozice lékaře na interním oddělení vyžaduje vystudovanou všeobecné lékařství.",
    "shift_risk": false,
    "scored_hash": "f3277c6ce22c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3346,7 +3360,7 @@
    "reason": "Jedná se o manuální řidičskou pozici, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "2787998894b6:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3372,7 +3386,7 @@
    "reason": "Jde o manuální a dělnickou pozici mechanika, což neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "439520edcc3c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3398,7 +3412,7 @@
    "reason": "Pozice strojníka stavebních strojů spadá mezi manuální a dělnické práce.",
    "shift_risk": false,
    "scored_hash": "5b4bd25ff5ba:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3424,7 +3438,7 @@
    "reason": "Výškový pracovník je manuální a řemeslná pozice, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "c5dbf2d4b9c2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3477,7 +3491,7 @@
    "reason": "Technická výrobní pozice ve výrobě, což uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "bef9ff236c31:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3558,9 +3572,10 @@
    "shift_risk": false,
    "scored_hash": "82e3b172c860:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "web:26841398:764145974a": {
    "id": "web:26841398:764145974a",
@@ -3713,7 +3728,7 @@
    "reason": "Pozice vyžaduje manuální zručnost a údržbu, což odporuje profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "d73bc603b68c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3739,7 +3754,7 @@
    "reason": "Administrativní a recepční práce, ale směny zahrnují víkendy a pozice je určena pro OZP.",
    "shift_risk": true,
    "scored_hash": "16df21338819:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3765,7 +3780,7 @@
    "reason": "Jedná se o manuální práci ve výrobě (balení), což uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "0049a22086a1:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3791,7 +3806,7 @@
    "reason": "Jde o čistě manuální dělnickou pozici zámečníka, což nevyhovuje profilu.",
    "shift_risk": false,
    "scored_hash": "c0d051a44dd7:2",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3817,7 +3832,7 @@
    "reason": "Požaduje specializované technické vzdělání v IT a programování, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "aa19054f578b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3843,7 +3858,7 @@
    "reason": "Pozice projektanta slaboproudu vyžaduje specifické elektrotechnické vzdělání a vyhlášku.",
    "shift_risk": false,
    "scored_hash": "eae1cc25333d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3923,7 +3938,7 @@
    "reason": "Pozice údržby je manuálního a technického charakteru ve výrobním prostředí, což uchazečka nechce.",
    "shift_risk": false,
    "scored_hash": "bd277464d887:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3949,7 +3964,7 @@
    "reason": "Skladnická pozice představuje manuální práci, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "58e900e020af:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -3975,7 +3990,7 @@
    "reason": "Operátor výroby je manuální výrobní pozice, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "90bcbefff336:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4001,7 +4016,7 @@
    "reason": "Obráběč kovů je manuální a dělnická pozice.",
    "shift_risk": false,
    "scored_hash": "fe785be72402:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4027,7 +4042,7 @@
    "reason": "Svářeč je manuální řemeslná pozice.",
    "shift_risk": false,
    "scored_hash": "9234cbfe2e94:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4053,7 +4068,7 @@
    "reason": "Provozní zámečník je manuální a dělnická práce.",
    "shift_risk": false,
    "scored_hash": "c754e200542e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4079,7 +4094,7 @@
    "reason": "Strojní zámečník je manuální řemeslná pozice.",
    "shift_risk": false,
    "scored_hash": "61fca6727ed2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4105,7 +4120,7 @@
    "reason": "Jde o manuální a dělnickou pozici montéra, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "505fcfe529b9:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4131,7 +4146,7 @@
    "reason": "Technická a montážní pozice vyžadující cestování, což neodpovídá jejímu zaměření na administrativu či školství.",
    "shift_risk": true,
    "scored_hash": "b83f53684d77:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4157,7 +4172,7 @@
    "reason": "Jedná se o manuální a výrobní pozici obráběče kovů, kterou uchazečka nechce.",
    "shift_risk": false,
    "scored_hash": "1beea40e9763:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4183,7 +4198,7 @@
    "reason": "Pozice svářeče je manuální výrobní práce, což neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "87008f20c55c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4209,7 +4224,7 @@
    "reason": "Jde o dělnickou a manuální pozici provozního zámečníka, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "ed5f1b5eb5fa:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4235,7 +4250,7 @@
    "reason": "Pozice strojního zámečníka je manuální práce ve výrobě, kterou uchazečka nehledá.",
    "shift_risk": false,
    "scored_hash": "494f0c1feb9d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4261,7 +4276,7 @@
    "reason": "Jedná se o manuální montážní pozici, která nesplňuje požadavky uchazečky.",
    "shift_risk": false,
    "scored_hash": "ba8096f75352:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4287,7 +4302,7 @@
    "reason": "Pozice vedoucího zakázek vyžaduje technické vzdělání a praxi ve stavebnictví či montážích, které postrádá.",
    "shift_risk": false,
    "scored_hash": "788c4ec4f6e6:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4313,7 +4328,7 @@
    "reason": "Pozice ve výrobě s nepřetržitým a směnným provozem, což uchazečka výslovně odmítá.",
    "shift_risk": true,
    "scored_hash": "228a76261310:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4339,7 +4354,7 @@
    "reason": "Jedná se o směnný provoz a fyzickou práci ve skladu, kterou uchazečka odmítá.",
    "shift_risk": true,
    "scored_hash": "16da892ca76a:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4365,7 +4380,7 @@
    "reason": "Skladnická pozice spojená s fyzickou manipulací a manuální prací, což uchazečka nechce.",
    "shift_risk": false,
    "scored_hash": "1ddf7ecc984e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4391,7 +4406,7 @@
    "reason": "Pozice v gastro provozu a potravinářské výrobě, což uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "860113c8df16:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4417,7 +4432,7 @@
    "reason": "Jde o manuální a výrobní práci v přípravně, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "fff4b458d2b0:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4443,7 +4458,7 @@
    "reason": "Jedná se o dvousměnný provoz a manuální práci, což uchazečka odmítá.",
    "shift_risk": true,
    "scored_hash": "a49499683b21:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4551,9 +4566,10 @@
    "shift_risk": false,
    "scored_hash": "b06ecc862365:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "web:25864025:53cf18e6c0": {
    "id": "web:25864025:53cf18e6c0",
@@ -4568,15 +4584,15 @@
    "contract": "",
    "url": "https://www.kohut.cz/prace/",
    "source_url": "https://www.kohut.cz/prace/",
-   "description": "Požadujeme SŠ nebo SOU technického směru (případně chuť se učit), řidičský průkaz skupiny B, zkušenost s opravami stavebních strojů je výhodou. Nabízíme zázemí stabilní rodinné společnosti, přátelský kolektiv, obědy zdarma, systém vzdělávání a mobilní telefon.",
-   "content_hash": "e3ead45f498a",
+   "description": "Zázemí stabilní rodinné společnosti, přátelský kolektiv, obědy zdarma, vzdělávání, mobilní telefon. Požadujeme SŠ/SOU technického směru (nebo chuť se učit), řidičský průkaz skupiny B. Zkušenost s opravami stavebních strojů výhodou.",
+   "content_hash": "14606c2fc010",
    "first_seen": "2026-10-18",
    "score": 1,
    "category": "Jiné",
    "reason": "Servisní technik stavebních strojů je manuální a technická pozice v terénu, kterou uchazečka nehledá.",
    "shift_risk": false,
-   "scored_hash": "e3ead45f498a:2",
-   "last_seen": "2026-11-19",
+   "scored_hash": "14606c2fc010:2",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4602,7 +4618,7 @@
    "reason": "Jde o manuální a dělnickou pozici v hutní výrobě, což uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "3edff78cc319:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4628,7 +4644,7 @@
    "reason": "Projektant vzduchotechniky vyžaduje specializované VŠ/SŠ vzdělání TZB, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "377b1ec14515:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4654,7 +4670,7 @@
    "reason": "Zdravotnická pozice lékaře vyžaduje specifické lékařské vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "fc30c2e7781d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4680,7 +4696,7 @@
    "reason": "Zdravotnická pozice lékaře vyžaduje specifické lékařské vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "7ea4f11b76d6:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4706,7 +4722,7 @@
    "reason": "Zdravotnická pozice lékaře vyžaduje specifické lékařské vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "ef70a146e52d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4732,7 +4748,7 @@
    "reason": "Pozice zdravotní sestry je zdravotnická práce, kterou uchazečka nehledá.",
    "shift_risk": false,
    "scored_hash": "41a51eb7bbf5:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4758,7 +4774,7 @@
    "reason": "Zdravotnická pozice lékaře vyžaduje specifické lékařské vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "5e2ce567a6b8:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4784,7 +4800,7 @@
    "reason": "Pozice zdravotní sestry je zdravotnická práce, kterou uchazečka nehledá.",
    "shift_risk": false,
    "scored_hash": "76a30dd1fe3d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4810,7 +4826,7 @@
    "reason": "Zdravotnická pozice lékaře vyžaduje specifické lékařské vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "e8edd4e36bf5:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4836,7 +4852,7 @@
    "reason": "Zdravotnická pozice lékaře vyžaduje specifické lékařské vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "ba45996ba2ec:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4862,7 +4878,7 @@
    "reason": "Servisní technik laserových zařízení vyžaduje specifickou elektrotechnickou vyhlášku a zaměření, chybí praxe.",
    "shift_risk": false,
    "scored_hash": "54edfdd6f650:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -4880,15 +4896,15 @@
    "contract": "",
    "url": "https://milkeffekt.cz/kariera/technolog-ve-vyrobe-parenych-syru/",
    "source_url": "https://milkeffekt.cz/kariera/",
-   "description": "Hledáme šikovné ruce do výroby sýrů. Pozice je vhodná i pro uchazeče bez praxe, kompletně vás zaučíme.",
-   "content_hash": "d0fdce12cdc2",
+   "description": "Šikovné ruce do výroby sýrů. Bez praxe? Nevadí, zaučíme vás. V případě zájmu zašlete životopis na email personalni@milkeffekt.cz nebo volejte +420 731 183 602.",
+   "content_hash": "4beac6f8de99",
    "first_seen": "2026-10-18",
    "score": 0,
    "category": "Jiné",
    "reason": "Jde o manuální a výrobní pozici, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
-   "scored_hash": "d0fdce12cdc2:2",
-   "last_seen": "2026-11-16",
+   "scored_hash": "4beac6f8de99:2",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -5044,7 +5060,7 @@
    "reason": "Manuální a řidičská pozice, což je pro uchazečku nevhodné.",
    "shift_risk": false,
    "scored_hash": "17ef891175a6:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -5070,7 +5086,7 @@
    "reason": "Pozice stavbyvedoucího vyžaduje specifické stavební vzdělání a praxi, kterou nemá.",
    "shift_risk": false,
    "scored_hash": "5f7830744aaf:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -5096,7 +5112,7 @@
    "reason": "Dělnická pozice ve svzu odpadu, kterou uchazečka nechce.",
    "shift_risk": false,
    "scored_hash": "caeb944804cf:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -5200,7 +5216,7 @@
    "reason": "Jedná se o víkendovou brigádu v gastro provozu, což uchazečka odmítá.",
    "shift_risk": true,
    "scored_hash": "d28f06f52763:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -5226,7 +5242,7 @@
    "reason": "Gastro pozice kuchaře, kterou uchazečka výslovně nechce.",
    "shift_risk": false,
    "scored_hash": "6a983e67d11b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -5306,7 +5322,7 @@
    "reason": "Pozice pečovatelky v sociálních službách neodpovídá profilu uchazečky, spadá do zdravotně-sociální oblasti.",
    "shift_risk": false,
    "scored_hash": "741d298562e2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -5359,7 +5375,7 @@
    "reason": "Pozice nákupčí částečně odpovídá administrativnímu a ekonomickému profilu, ale chybí bližší specifikace náplně práce.",
    "shift_risk": false,
    "scored_hash": "87f266499905:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -5385,7 +5401,7 @@
    "reason": "Pozice prodavačky v maloobchodě představuje prodej a obvykle i sménný provoz, což uchazečka odmítá.",
    "shift_risk": true,
    "scored_hash": "241711883792:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -5411,7 +5427,7 @@
    "reason": "Pozice všeobecné sestry spadá do zdravotnictví, pro které nemá uchazečka vzdělání.",
    "shift_risk": true,
    "scored_hash": "6e8695d74b75:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -5997,7 +6013,7 @@
    "reason": "Pozice strojírenského konstruktéra vyžaduje specializované strojírenské vzdělání a praxi, kterou nemá.",
    "shift_risk": false,
    "scored_hash": "f580bdca7932:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -6104,7 +6120,7 @@
    "reason": "Manuální a dělnická pozice v provozu, což odporuje požadavkům uchazečky.",
    "shift_risk": true,
    "scored_hash": "a534c6b4f27d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -6130,7 +6146,7 @@
    "reason": "Dělnická a výrobní práce, kterou uchazečka odmítá.",
    "shift_risk": true,
    "scored_hash": "9a550dfc55d2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -6156,7 +6172,7 @@
    "reason": "Manuální svářečská pozice nevyhovuje profilu uchazečky.",
    "shift_risk": true,
    "scored_hash": "f581cdb8074c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -6182,7 +6198,7 @@
    "reason": "Výrobní a strojní pozice, uchazečka odmítá manuální práci.",
    "shift_risk": true,
    "scored_hash": "b2344b9be5f4:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -6208,7 +6224,7 @@
    "reason": "Manuální řemeslná pozice, kterou uchazečka nehledá.",
    "shift_risk": true,
    "scored_hash": "f5b7816837a7:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -6234,7 +6250,7 @@
    "reason": "Obráběčská pozice ve výrobě, nesplňuje požadavky na zaměření.",
    "shift_risk": true,
    "scored_hash": "293b13f9faf9:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -6260,7 +6276,7 @@
    "reason": "Manuální práce v provozu neodpovídá zaměření uchazečky.",
    "shift_risk": true,
    "scored_hash": "630942946e9c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -6286,7 +6302,7 @@
    "reason": "Stavební řemeslná práce, uchazečka odmítá manuální pozice.",
    "shift_risk": false,
    "scored_hash": "596956495270:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -6312,7 +6328,7 @@
    "reason": "Manuální stavební pozice, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "841b072273c3:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -6925,7 +6941,7 @@
    "reason": "Technická a údržbářská pozice v protipožárních systémech neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "b281e74deb51:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -6978,7 +6994,7 @@
    "reason": "Pozice v nákupu vyžaduje administrativní a korporátní zázemí, ale bližší specifikace chybí.",
    "shift_risk": false,
    "scored_hash": "7c5a9f2108b3:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7112,7 +7128,7 @@
    "reason": "Jde o manuální dělnickou pozici svářeče, kterou uchazečka vysloveně nechce.",
    "shift_risk": false,
    "scored_hash": "9eb34728266d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7138,7 +7154,7 @@
    "reason": "Obchodní referent může obsahovat prodejní či akviziční prvky, kterým se chce uchazečka vyhnout.",
    "shift_risk": false,
    "scored_hash": "b16f989e5fa3:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7164,7 +7180,7 @@
    "reason": "Jde o řidiče a fyzicky náročnou práci s barely, což uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "7a0a590db1f2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7190,7 +7206,7 @@
    "reason": "Obecná spontánní přihláška do zahraniční firmy, chybí konkrétní zaměření.",
    "shift_risk": false,
    "scored_hash": "74dcb1c5546a:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7216,7 +7232,7 @@
    "reason": "Jedná se o rozhraní pro personální agentury.",
    "shift_risk": false,
    "scored_hash": "7439fb4facc8:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7296,7 +7312,7 @@
    "reason": "Inženýrská pozice v automotive vyžaduje odpovídající technické vzdělání a praxi.",
    "shift_risk": false,
    "scored_hash": "55baa3409a49:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7322,7 +7338,7 @@
    "reason": "Výrobní a průmyslová pozice neodpovídá jejím požadavkům ani vzdělání.",
    "shift_risk": false,
    "scored_hash": "a425a9723e47:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7348,7 +7364,7 @@
    "reason": "Globální produktový inženýr je pozice mimo její obor a kvalifikaci.",
    "shift_risk": false,
    "scored_hash": "45ef8d8add4b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7374,7 +7390,7 @@
    "reason": "Rozhraní pro personální agentury.",
    "shift_risk": false,
    "scored_hash": "7aa88b9f2299:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7400,7 +7416,7 @@
    "reason": "Vedoucí pozice ve strojírenství, nemá odpovídající řídící praxi.",
    "shift_risk": false,
    "scored_hash": "00d116e3cdd1:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7426,7 +7442,7 @@
    "reason": "Spontánní přihláška bez konkrétního určení pozice.",
    "shift_risk": false,
    "scored_hash": "3fd00cd7705d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7452,7 +7468,7 @@
    "reason": "Pozice obsahuje střídavé směny, což uchazečka výslovně odmítá.",
    "shift_risk": true,
    "scored_hash": "7a70281ef3c0:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7478,7 +7494,7 @@
    "reason": "Pozice obchodního zástupce (Business Development) v zahraničí neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "b8571ec374c6:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7504,7 +7520,7 @@
    "reason": "Jde o inženýrskou a manažerskou pozici v automotive výrobě, což nesplňuje její kvalifikaci ani zaměření.",
    "shift_risk": false,
    "scored_hash": "9b06675bbc6d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7530,7 +7546,7 @@
    "reason": "Pozice vedoucího inženýringu vyžaduje silnou technickou praxi v oboru, uchazečka nemá potřebnou praxi.",
    "shift_risk": false,
    "scored_hash": "2868f37e4bd2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7583,7 +7599,7 @@
    "reason": "Pozice EHS inženýra v Číně zcela neodpovídá profilu ani místu působení uchazečky.",
    "shift_risk": false,
    "scored_hash": "6d7cfc529550:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7609,7 +7625,7 @@
    "reason": "Práce operátora v zabezpečovacích systémech může obnášet směnný provoz, který uchazečka nechce.",
    "shift_risk": true,
    "scored_hash": "4e5ac2493d34:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7635,7 +7651,7 @@
    "reason": "Pozice domovníka představuje manuální práci, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "a2bb96e7ae1a:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7661,7 +7677,7 @@
    "reason": "Pozice odpovídá požadavkům na administrativu a recepci, uchazečka má odpovídající praxi.",
    "shift_risk": false,
    "scored_hash": "de06de2652aa:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7687,7 +7703,7 @@
    "reason": "Jedná se o výjezdovou skupinu a ostrahu, což představuje nepřetržitý nebo směnný provoz.",
    "shift_risk": true,
    "scored_hash": "c020f3d33d7d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7713,7 +7729,7 @@
    "reason": "Pozice servisního technika vyžaduje manuální a technickou práci v terénu, což uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "75925805ee7c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7739,7 +7755,7 @@
    "reason": "Strážní služba obvykle obnáší směnný a nepřetržitý provoz, což je v rozporu s preferencemi.",
    "shift_risk": true,
    "scored_hash": "b0ff1617bc4f:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7819,7 +7835,7 @@
    "reason": "Jedná se o obchodní pozici, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "1dc463e43cf9:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7899,7 +7915,7 @@
    "reason": "Pozice elektrikáře vyžaduje výuční list a elektro praxi, navíc se jedná o výrobní prostředí.",
    "shift_risk": true,
    "scored_hash": "1ab7066fa92d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7925,7 +7941,7 @@
    "reason": "Inzerát neobsahuje dostatek informací, ale obvykle jde o výrobní či technickou pozici v průmyslu.",
    "shift_risk": false,
    "scored_hash": "083a3e39297d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7951,7 +7967,7 @@
    "reason": "Pozice technika údržby je technická a manuální práce v provozu, což uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "f1437c2261d5:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -7977,7 +7993,7 @@
    "reason": "Pozice vyžaduje komunikativní znalost anglického jazyka, kterou uchazečka nemá uvedenu v profilu.",
    "shift_risk": false,
    "scored_hash": "4c2b5cecd783:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8003,7 +8019,7 @@
    "reason": "Pozice personalistky a mzdové účetní by seděla, ale je zde požadována komunikativní angličtina.",
    "shift_risk": false,
    "scored_hash": "967f986532a7:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8029,7 +8045,7 @@
    "reason": "Inspektor kvality je typicky pozice ve výrobním podniku, což neodpovídá preferencím.",
    "shift_risk": false,
    "scored_hash": "3125470274db:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8055,7 +8071,7 @@
    "reason": "Pozice v oblasti kvality částečně odpovídá technickému vzdělání, ale chybí bližší specifikace náplně práce.",
    "shift_risk": false,
    "scored_hash": "fc3829782cce:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8081,7 +8097,7 @@
    "reason": "Jedná se o manuální a technickou údržbu, což odporuje požadavku uchazečky na administrativní či pedagogickou práci.",
    "shift_risk": false,
    "scored_hash": "1d789cb65efb:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8107,7 +8123,7 @@
    "reason": "Pozice vyžaduje komunikativní znalost anglického jazyka, kterou uchazečka v profilu neuvádí.",
    "shift_risk": false,
    "scored_hash": "db3633908ca7:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8133,7 +8149,7 @@
    "reason": "Mzdová účetní a administrativa odpovídá praxi uchazečky, avšak nevýhodou je požadavek na anglický jazyk.",
    "shift_risk": false,
    "scored_hash": "44ec91e0b267:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8159,7 +8175,7 @@
    "reason": "Pozice inspektora kvality ve výrobě neodpovídá preferovanému zaměření na školství, administrativu či úřady.",
    "shift_risk": false,
    "scored_hash": "3916322d25b6:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8185,7 +8201,7 @@
    "reason": "Jedná se o manuální dělnickou pozici ve 12hodinovém směnném provozu, což uchazečka výslovně odmítá.",
    "shift_risk": true,
    "scored_hash": "ddaf4177e9ca:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8211,7 +8227,7 @@
    "reason": "Pozice vedoucího stavby vyžaduje stavební VŠ vzdělání, praxi v oboru a angličtinu.",
    "shift_risk": false,
    "scored_hash": "f2fc30440f26:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8237,7 +8253,7 @@
    "reason": "Vyžaduje VŠ technického směru, aktivní angličtinu a čtení výkresů v prostředí výrobního závodu.",
    "shift_risk": false,
    "scored_hash": "bf5e62e94323:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8263,7 +8279,7 @@
    "reason": "Manuální a výrobní pozice obráběče kovů, což zcela neodpovídá profilu ani preferencím uchazečky.",
    "shift_risk": false,
    "scored_hash": "ac5291d52335:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8289,7 +8305,7 @@
    "reason": "Jde o dělnickou profesi obsluhy CNC strojů, což je v rozporu s hledanými obory.",
    "shift_risk": false,
    "scored_hash": "ecf8ae091815:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8315,7 +8331,7 @@
    "reason": "Svářečská pozice představuje manuální výrobní práci, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "f543c9706587:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8341,7 +8357,7 @@
    "reason": "Pozice soustružníka je čistě manuální a výrobní prací, kterou uchazečka nehledá.",
    "shift_risk": false,
    "scored_hash": "02d70adb9d57:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8367,7 +8383,7 @@
    "reason": "Pozice detektiva v supermarketu nesplňuje žádná kritéria uchazečky a často obnáší směnný provoz.",
    "shift_risk": true,
    "scored_hash": "436a205bdf47:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8393,7 +8409,7 @@
    "reason": "Práce strážného je ostraha objektů, často ve směnném provozu, což uchazečka odmítá.",
    "shift_risk": true,
    "scored_hash": "7ca385e0a89a:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8419,7 +8435,7 @@
    "reason": "Pozice strážného psovoda je bezpečnostní služba často ve směnném provozu, zcela mimo profil uchazečky.",
    "shift_risk": true,
    "scored_hash": "53018bb188f8:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8445,7 +8461,7 @@
    "reason": "Jde o manuální a technickou stavební pozici na železnici, která neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "4b3ba736aeba:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8471,7 +8487,7 @@
    "reason": "Pozice rozpočtáře v stavebnictví vyžaduje specifickou odbornou praxi, kterou uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "76ab0c440c2c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8551,7 +8567,7 @@
    "reason": "Technická specialistka na Slovensku, vyžaduje časté cestování nebo pobyt mimo region.",
    "shift_risk": false,
    "scored_hash": "08749a197c7c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8604,7 +8620,7 @@
    "reason": "Manuální montáž ocelových konstrukcí neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "73db8044c14c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8630,7 +8646,7 @@
    "reason": "Svářečská pozice je manuální prací, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "f4f10ba0f3ab:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8656,7 +8672,7 @@
    "reason": "Obsluha strojů je výrobní a manuální pozice, kterou uchazečka nechce.",
    "shift_risk": false,
    "scored_hash": "e108430aef0b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8682,7 +8698,7 @@
    "reason": "Obrábění kovů je manuální a výrobní pozice, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "1b5e3c4bb17b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8708,7 +8724,7 @@
    "reason": "Strojní zámečnictví je manuální práce, kterou uchazečka nehledá.",
    "shift_risk": false,
    "scored_hash": "1553ef6d8ec6:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8734,7 +8750,7 @@
    "reason": "Příprava výroby a zpracování dokumentace částečně odpovídá administrativním zkušenostem uchazečky.",
    "shift_risk": false,
    "scored_hash": "95f18a21acc1:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8760,7 +8776,7 @@
    "reason": "Obsluha tryskacího zařízení je výrobní a manuální práce.",
    "shift_risk": false,
    "scored_hash": "370253598576:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8786,7 +8802,7 @@
    "reason": "Pozice účetní odpovídá administrativní praxi uchazečky a jejím zkušenostem s fakturací.",
    "shift_risk": false,
    "scored_hash": "eec4f984f9fd:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8812,7 +8828,7 @@
    "reason": "Obsluha CNC strojů je výrobní a manuální pozice, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "513958db65c8:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8838,7 +8854,7 @@
    "reason": "Pozice vyžaduje specializovanou praxi v oboru CNC programování, kterou uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "582004a6dfe4:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8864,7 +8880,7 @@
    "reason": "Pozice softwarového vývojáře vyžaduje hluboké IT vzdělání a zkušenosti s programováním.",
    "shift_risk": false,
    "scored_hash": "174ae3e9eee1:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8890,7 +8906,7 @@
    "reason": "Jedná se o manuální skladovou a doplňkovou práci, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "8b8000d3c32e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8916,7 +8932,7 @@
    "reason": "Jde o manuální a výrobní dělnickou pozici lakýrníka, což nevyhovuje požadavkům uchazečky.",
    "shift_risk": true,
    "scored_hash": "2b03b4ab9536:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8942,7 +8958,7 @@
    "reason": "Pozice vyžaduje technickou orientaci a práci s výkresy, chybí však přímá vazba na administrativu nebo školství.",
    "shift_risk": false,
    "scored_hash": "bb161b62f032:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8968,7 +8984,7 @@
    "reason": "Pozice obsahuje kalkulace a technickou administrativu, což odpovídá jejím zkušenostem z fakturace.",
    "shift_risk": false,
    "scored_hash": "2b37c16e88be:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -8994,7 +9010,7 @@
    "reason": "Technická příprava a tvorba výkresů v dřevovýrobě vyžaduje specifickou praxi, kterou postrádá.",
    "shift_risk": false,
    "scored_hash": "5aa85f6f480c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -9072,7 +9088,7 @@
    "reason": "Jde o manuální a výrobní pozici lakýrníka, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "0d8056128b23:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -9098,7 +9114,7 @@
    "reason": "Pozice elektrikáře v údržbě je manuální a technická práce mimo její obor.",
    "shift_risk": false,
    "scored_hash": "83584c70b477:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -9124,7 +9140,7 @@
    "reason": "Svářeč kovů je čistě manuální a dělnická pozice.",
    "shift_risk": false,
    "scored_hash": "fd4bb482e7b5:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -9150,7 +9166,7 @@
    "reason": "Modelář ve slévárenství je spíše technická či řemeslná pozice mimo její hlavní zaměření.",
    "shift_risk": false,
    "scored_hash": "dccdbe018be2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -9176,7 +9192,7 @@
    "reason": "Slévárenský pracovník je těžká dělnická práce, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "fbd5694b25b4:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -9256,7 +9272,7 @@
    "reason": "Pozice kuchaře spadá do gastra, které uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "46f4bd292c97:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -9282,7 +9298,7 @@
    "reason": "Pozice číšníka spadá do gastra, které uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "ce54a9cbde06:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -9308,7 +9324,7 @@
    "reason": "Recepční odpovídá administrativním požadavkům, ale místo v Beskydech je dál od bydliště.",
    "shift_risk": false,
    "scored_hash": "5cafeeed2426:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -9334,7 +9350,7 @@
    "reason": "Pozice pokojské spadá do úklidových prací, které uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "23689b4b2704:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -9360,7 +9376,7 @@
    "reason": "Pozice údržbáře je manuální prací, kterou uchazečka nehledá.",
    "shift_risk": false,
    "scored_hash": "7db4cab99e76:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10003,7 +10019,7 @@
    "reason": "Zdravotní sestra je zdravotnická pozice, na kterou uchazečka nemá požadované vzdělání.",
    "shift_risk": false,
    "scored_hash": "abe062ff7fac:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10029,7 +10045,7 @@
    "reason": "Pozice lékaře vyžaduje specifické vysokoškolské vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "0d5924b1b79d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10082,7 +10098,7 @@
    "reason": "Lékařská pozice v oboru hematologie vyžaduje lékařské vzdělání.",
    "shift_risk": false,
    "scored_hash": "3ab9805cda74:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10108,7 +10124,7 @@
    "reason": "Pozice lékaře vyžaduje medicínské vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "a2dd852eec1a:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10239,7 +10255,7 @@
    "reason": "Pozice v sociálních službách neodpovídá pedagogickému ani administrativnímu zaměření uchazečky.",
    "shift_risk": true,
    "scored_hash": "78e6b2037fec:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10265,7 +10281,7 @@
    "reason": "Jedná se o krátkodobou sezónní brigádu se odpoledním provozem, což neodpovídá dlouhodobému hledání stabilního zaměstnání.",
    "shift_risk": false,
    "scored_hash": "ed6dc78a6a7f:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10291,7 +10307,7 @@
    "reason": "Vedení plavecké výuky odpovídá zájmu o sport a pedagogické praxi, jde však o krátkodobou DPP dopoledne.",
    "shift_risk": false,
    "scored_hash": "564a84973b9d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10317,7 +10333,7 @@
    "reason": "Manuální a výrobní pozice CNC operátora, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "92eefefd8e46:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10343,7 +10359,7 @@
    "reason": "Výrobní a strojírenská pozice v dělnickém provozu neodpovídá profilu.",
    "shift_risk": false,
    "scored_hash": "0207bbcf56d1:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10369,7 +10385,7 @@
    "reason": "Výrobní pozice CNC seřizovače je manuálního charakteru.",
    "shift_risk": false,
    "scored_hash": "4982c0f0ca08:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10395,7 +10411,7 @@
    "reason": "Dělnická a řemeslná pozice údržbáře/elektrikáře je pro uchazečku nevhodná.",
    "shift_risk": false,
    "scored_hash": "01f7c61d8782:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10421,7 +10437,7 @@
    "reason": "Jde o manuální a technickou výrobní pozici CNC programátora, což uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "82e361104ddd:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10447,7 +10463,7 @@
    "reason": "Pozice stavbyvedoucího v rekultivacích je stavebně-technického charakteru mimo profil uchazečky.",
    "shift_risk": false,
    "scored_hash": "5a280f9b77d4:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10473,7 +10489,7 @@
    "reason": "Pozice projektanta v pozemním stavitelství neodpovídá pedagogickému ani administrativnímu profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "655d827d4bd6:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10580,7 +10596,7 @@
    "reason": "Práce v sociálních službách představuje přímou obslužnou péči a nerovnoměrnou pracovní dobu.",
    "shift_risk": true,
    "scored_hash": "d73eb8874786:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10606,7 +10622,7 @@
    "reason": "Pozice všeobecné sestry vyžaduje specifické zdravotnické vzdělání, které uchazečka nemá.",
    "shift_risk": true,
    "scored_hash": "928ddeb923da:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10632,7 +10648,7 @@
    "reason": "Pozice kuchaře spadá do gastronomie, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "7c868927b4d9:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10712,7 +10728,7 @@
    "reason": "Mzdové účetnictví dobře odpovídá administrativní praxi uchazečky, blíží se jejím zkušenostem s fakturací.",
    "shift_risk": false,
    "scored_hash": "d7b989bb1910:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10870,7 +10886,7 @@
    "reason": "Jedná se o manuální práci v sociálních službách, kterou uchazečka výslovně odmítá.",
    "shift_risk": true,
    "scored_hash": "b94d046a8000:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10923,7 +10939,7 @@
    "reason": "Zdravotnická pozice sestry neodpovídá vzdělání ani zaměření uchazečky.",
    "shift_risk": true,
    "scored_hash": "fc3a6af7dfa5:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10949,7 +10965,7 @@
    "reason": "Pozice všeobecné sestry vyžaduje specifické zdravotnické vzdělání a praxi, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "60491573788a:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -10975,7 +10991,7 @@
    "reason": "Lékařská pozice vyžaduje vystudovanou medicínu, což neodpovídá profilu.",
    "shift_risk": false,
    "scored_hash": "6f87206e8557:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11001,7 +11017,7 @@
    "reason": "Pozice vyžaduje dvanáctihodinové denní a noční směny ve zdravotnictví, což uchazečka odmítá.",
    "shift_risk": true,
    "scored_hash": "53886871ca86:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11054,7 +11070,7 @@
    "reason": "Zdravotnická pozice pro sestry v intenzivní péči, uchazečka nesplňuje kvalifikaci.",
    "shift_risk": false,
    "scored_hash": "5aa5d00baa7d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11080,7 +11096,7 @@
    "reason": "Lékařské rezidenční místo, zcela mimo obor uchazečky.",
    "shift_risk": false,
    "scored_hash": "53fa288536f1:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11106,7 +11122,7 @@
    "reason": "Vrchní sestra je zdravotnická a manažerská pozice vyžadující odborné zdravotnické vzdělání.",
    "shift_risk": false,
    "scored_hash": "2757b7ad3ab1:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11132,7 +11148,7 @@
    "reason": "Pozice lékaře vyžaduje specifické lékařské vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "31751af8afe3:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11158,7 +11174,7 @@
    "reason": "Pozice psychologa vyžaduje specifické VŠ vzdělání v oboru psychologie.",
    "shift_risk": false,
    "scored_hash": "45f08e495051:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11211,7 +11227,7 @@
    "reason": "Jedná se o manuální pozici ve stravovacím provozu, což uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "a85815879e91:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11237,7 +11253,7 @@
    "reason": "Pozice praktického lékaře vyžaduje vystudovanou medicínu.",
    "shift_risk": false,
    "scored_hash": "5814f2f5ecae:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11290,7 +11306,7 @@
    "reason": "Pozice lékaře vyžaduje lékařskou fakultu.",
    "shift_risk": false,
    "scored_hash": "3e57bb5b8902:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11397,7 +11413,7 @@
    "reason": "Práce v sociálních službách s přímou péčí plně neodpovídá jejím preferencím.",
    "shift_risk": false,
    "scored_hash": "3ef052e32486:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11504,7 +11520,7 @@
    "reason": "Práce v přímé obslužné péči neodpovídá preferovanému zaměření na školství či administrativu.",
    "shift_risk": false,
    "scored_hash": "57a86206ddfa:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11805,22 +11821,22 @@
    "source": "Web zaměstnavatele",
    "title": "Volné pracovní místo v základní škole",
    "employer": "Obec Metylovice",
-   "place": "Základní škola Mjr. Ambrože Bílka a Mateřská škola Metylovice, p.o.",
+   "place": "Základní škola Metylovice",
    "km": 32.1,
    "wage": "",
    "shift": "",
    "contract": "",
    "url": "https://metylovice.cz/vse-o-metylovicich/aktuality/2512-volne-pracovni-misto-v-zakladni-skole",
-   "source_url": "https://metylovice.cz/vse-o-metylovicich/aktuality/2512-volne-pracovni-misto-v-zakladni-skole",
-   "description": "Základní škola Mjr. Ambrože Bílka a Mateřská škola Metylovice, p.o., hledá posilu do svého kolektivu. Nástup možný již od 1. října 2026.",
-   "content_hash": "06357d1913f5",
+   "source_url": "https://metylovice.cz/vse-o-metylovicich/aktuality",
+   "description": "Volné pracovní místo v základní škole v Metylovicích.",
+   "content_hash": "f7ed0dbee929",
    "first_seen": "2026-10-18",
    "score": 6,
    "category": "Školství",
    "reason": "Obecná nabídka práce v ZŠ bez specifikace předmětů odpovídá obecné pozici učitelky 2. stupně.",
    "shift_risk": false,
-   "scored_hash": "06357d1913f5:2",
-   "last_seen": "2026-11-19",
+   "scored_hash": "f7ed0dbee929:2",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11846,7 +11862,7 @@
    "reason": "Pozice učitelky na 1. stupni ZŠ neodpovídá aprobaci uchazečky pro 2. stupeň.",
    "shift_risk": false,
    "scored_hash": "fd4960987d33:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11872,7 +11888,7 @@
    "reason": "Aprobace anglického jazyka není v profilu uchazečky uvedena.",
    "shift_risk": false,
    "scored_hash": "7f7cdea9e0b8:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11925,7 +11941,7 @@
    "reason": "Nejasná pozice v průmyslovém podniku, hrozí riziko provozu.",
    "shift_risk": true,
    "scored_hash": "d0d43aa62b05:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11951,7 +11967,7 @@
    "reason": "Nejasná pozice v energetice, hrozí riziko provozu.",
    "shift_risk": true,
    "scored_hash": "17e21d378d6b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -11977,7 +11993,7 @@
    "reason": "Nejasná pozice v energetice, hrozí riziko provozu.",
    "shift_risk": true,
    "scored_hash": "17e21d378d6b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12003,7 +12019,7 @@
    "reason": "Nepřesná specifikace pozice v technické škole, obor nevyplývá z názvu.",
    "shift_risk": false,
    "scored_hash": "c32981b4f67e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12029,7 +12045,7 @@
    "reason": "Pozice pro speciální vzdělávací obory neodpovídá aprobaci uchazečky.",
    "shift_risk": false,
    "scored_hash": "6c08d063c085:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12055,7 +12071,7 @@
    "reason": "Aprobace nezahrnuje anglický jazyk.",
    "shift_risk": false,
    "scored_hash": "d8c692681b91:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12081,7 +12097,7 @@
    "reason": "Odborný výcvik pro instalatéry a strojaře vyžaduje specifické řemeslné vzdělání.",
    "shift_risk": false,
    "scored_hash": "c733a1886506:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12107,7 +12123,7 @@
    "reason": "Odborný výcvik v oblasti elektro vyžaduje elektrotechnické vzdělání.",
    "shift_risk": false,
    "scored_hash": "0cd0c5efe2c1:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12133,7 +12149,7 @@
    "reason": "Vedení kroužků pro děti odpovídá zájmům a pedagogickému vzdělání.",
    "shift_risk": false,
    "scored_hash": "e293e6c6625f:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12186,7 +12202,7 @@
    "reason": "Gastro pozice (kuchařka) je pro uchazečku nevhodná.",
    "shift_risk": false,
    "scored_hash": "b7edbbf7d4cd:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12212,7 +12228,7 @@
    "reason": "Aprobace nezahrnuje český jazyk a literaturę na střední škole.",
    "shift_risk": false,
    "scored_hash": "1e89b606e25d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12238,7 +12254,7 @@
    "reason": "Pozice psychologa vyžaduje specifické magisterské studium psychologie.",
    "shift_risk": false,
    "scored_hash": "1272965ac51c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12264,7 +12280,7 @@
    "reason": "Vedení zájmových kroužků odpovídá pedagogickému vzdělání, jde však o velmi krátké úvazky.",
    "shift_risk": false,
    "scored_hash": "9427dcd3b3bc:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12317,7 +12333,7 @@
    "reason": "Vedení zájmových útvarů odpovídá jejímu pedagogickému vzdělání, jedná se však o minimální úvazek formou DPČ.",
    "shift_risk": false,
    "scored_hash": "0067fd754f00:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12343,7 +12359,7 @@
    "reason": "Odborné předměty elektrotechnika a IT na SŠ vyžadují specializované vysokoškolské vzdělání.",
    "shift_risk": false,
    "scored_hash": "c78f8b6945c3:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12369,7 +12385,7 @@
    "reason": "Všeobecné předměty bez specifikace M/F na SŠ neodpovídají přesné aprobaci.",
    "shift_risk": false,
    "scored_hash": "4a8723491ac7:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12395,7 +12411,7 @@
    "reason": "Pozice vyžaduje odborné vzdělání v oboru elektrotechnika, což neodpovídá její aprobaci na 2. stupeň ZŠ.",
    "shift_risk": false,
    "scored_hash": "65b5f6b32c86:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12475,7 +12491,7 @@
    "reason": "Pozice vyžaduje odborné vzdělání v oboru elektro, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "524775eae835:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12504,7 +12520,7 @@
    "last_seen": "2026-11-19",
    "missing_runs": 0,
    "status": "active",
-   "is_new": true
+   "is_new": false
   },
   "web:70958149:8a14683b72": {
    "id": "web:70958149:8a14683b72",
@@ -12527,7 +12543,7 @@
    "reason": "Pozice asistenta pedagoga odpovídá jejím preferencím ve školství.",
    "shift_risk": false,
    "scored_hash": "7b0a50aeea78:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12607,7 +12623,7 @@
    "reason": "Pozice psychologa vyžaduje specifické VŠ vzdělání v psychologii.",
    "shift_risk": false,
    "scored_hash": "9db8d5576466:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12633,7 +12649,7 @@
    "reason": "Finanční referentka a účetní podpora skvěle odpovídá její dlouholeté praxi fakturantky.",
    "shift_risk": false,
    "scored_hash": "7589619bc4bf:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12659,7 +12675,7 @@
    "reason": "Pozice pedagoga volného času odpovídá hledaným volnočasovým a školským pozicím.",
    "shift_risk": false,
    "scored_hash": "5a28d4f6a9d7:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12685,7 +12701,7 @@
    "reason": "Ideální shoda díky zaměření na technické obory a pedagogickou praxi.",
    "shift_risk": false,
    "scored_hash": "17bd531e3740:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12711,7 +12727,7 @@
    "reason": "Lektorská pozice na kroužky představuje spíše kratší úvazek.",
    "shift_risk": false,
    "scored_hash": "439c27d46073:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12737,7 +12753,7 @@
    "reason": "Lektorská pozice odpovídá zájmům o sport, ale jde o kratší úvazek.",
    "shift_risk": false,
    "scored_hash": "e39ff82621dd:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12844,7 +12860,7 @@
    "reason": "Jedná se o práci v zemědělství na farmě, což nevyhovuje požadavkům uchazečky na kancelářskou nebo pedagogickou práci.",
    "shift_risk": false,
    "scored_hash": "a83800825b8c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12870,7 +12886,7 @@
    "reason": "Nabídka ze sléváren spadá do průmyslového a výrobního sektoru, který uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "b5cfc2376349:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12896,7 +12912,7 @@
    "reason": "Nabídka ze sléváren spadá do průmyslového a výrobního sektoru, který uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "b5cfc2376349:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12922,7 +12938,7 @@
    "reason": "Jedná se o manuální a dělnickou pozici obsluhy CNC strojů, což uchazečka odmítá.",
    "shift_risk": true,
    "scored_hash": "069a62d7b6ae:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -12948,7 +12964,7 @@
    "reason": "Pozice účetní v příspěvkové organizaci dobře navazuje na administrativní praxi uchazečky, vyžaduje však hlubší znalost rozpočtového účetnictví.",
    "shift_risk": false,
    "scored_hash": "99aeb1760d29:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -13001,7 +13017,7 @@
    "reason": "Jedná se o pozici na 1. stupni ZŠ, což neodpovídá její aprobaci pro 2. stupeň.",
    "shift_risk": false,
    "scored_hash": "65f725cd9606:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -13138,7 +13154,7 @@
    "reason": "Pozice účetní dobře odpovídá jejím administrativním a fakturačním zkušenostem.",
    "shift_risk": false,
    "scored_hash": "a26e3c31adff:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -13199,7 +13215,7 @@
    "reason": "Jde o manuální a údržbářskou práci, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "28f0a7d4755e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -13229,7 +13245,7 @@
    "reason": "Administrativní pozice přesně odpovídá jejím dlouholetým zkušenostem v oboru.",
    "shift_risk": false,
    "scored_hash": "d754f1eb2d7a:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -13290,7 +13306,7 @@
    "reason": "Odborná výuka svařování vyžaduje specifickou průmyslovou kvalifikaci, kterou nemá.",
    "shift_risk": false,
    "scored_hash": "1d80c3cc1fd7:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -13540,7 +13556,7 @@
    "reason": "Jedná se o dělnickou pozici ve výrobě, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "7770a8f10e28:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -13567,9 +13583,10 @@
    "shift_risk": false,
    "scored_hash": "b252d0041619:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "web:26790203:15977c21a0": {
    "id": "web:26790203:15977c21a0",
@@ -13592,7 +13609,7 @@
    "reason": "Jedná se o manuální výrobní pozici, kterou uchazečka výslovně odmítá.",
    "shift_risk": true,
    "scored_hash": "2901c73c6fca:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -13618,7 +13635,7 @@
    "reason": "Skladnická pozice, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "32b5b6fa3845:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -13644,7 +13661,7 @@
    "reason": "Jde o dělnickou pozici ve výrobě, což zcela neodpovídá profilu.",
    "shift_risk": true,
    "scored_hash": "4ab77b7a83f3:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -13670,7 +13687,7 @@
    "reason": "Pozice řezníka představuje manuální práci, kterou uchazečka nechce.",
    "shift_risk": true,
    "scored_hash": "b5bc3daa9837:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -13696,7 +13713,7 @@
    "reason": "Jedná se o prodej na prodejnách, což spadá do odmítaného obchodu a prodeje.",
    "shift_risk": false,
    "scored_hash": "01cda22d7df1:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -14046,7 +14063,7 @@
    "last_seen": "2026-11-19",
    "missing_runs": 0,
    "status": "active",
-   "is_new": true
+   "is_new": false
   },
   "web:48805271:71ea9111e6": {
    "id": "web:48805271:71ea9111e6",
@@ -14099,7 +14116,7 @@
    "reason": "Pozice účetní a fakturantky v Havířově velmi dobře odpovídá dlouholeté praxi uchazečky.",
    "shift_risk": false,
    "scored_hash": "1a6a8f4ca2a3:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -14160,7 +14177,7 @@
    "reason": "Úklidová práce ve škole, kterou uchazečka nechce.",
    "shift_risk": false,
    "scored_hash": "528030ad8004:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -14191,7 +14208,7 @@
    "shift_risk": false,
    "scored_hash": "d1eced947a12:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
    "is_new": false
   },
@@ -14688,9 +14705,10 @@
    "shift_risk": true,
    "scored_hash": "02c339d7baa8:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "web:25861832:4b8b7ecded": {
    "id": "web:25861832:4b8b7ecded",
@@ -14713,7 +14731,7 @@
    "reason": "Pozice řidiče VZV je manuální prací, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "9f2ca03f0f0b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -14739,7 +14757,7 @@
    "reason": "Pozice kuchaře v gastro provozu neodpovídá profilu uchazečky.",
    "shift_risk": true,
    "scored_hash": "a5b89fadaad3:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -14892,15 +14910,15 @@
    "contract": "",
    "url": "https://www.sstas-karvina.cz/cz/skola/kariera/cz/skola/kariera/64-ucitel-odborneho-vycviku-elektrikar.html",
    "source_url": "https://www.sstas-karvina.cz/cz/skola/kariera/",
-   "description": "Volné pracovní místo pro pozici učitel odborného výcviku se zaměřením na elektrikáře.",
-   "content_hash": "d25dc7890cbb",
+   "description": "Volné pracovní místo pro pozici učitel odborného výcviku – elektrikář.",
+   "content_hash": "b1035201e462",
    "first_seen": "2026-10-26",
    "score": 1,
    "category": "Školství",
    "reason": "Učitel odborného výcviku pro elektrikáře vyžaduje širší oborové vzdělání, které uchazečka nemá.",
    "shift_risk": false,
-   "scored_hash": "d25dc7890cbb:2",
-   "last_seen": "2026-11-19",
+   "scored_hash": "b1035201e462:2",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -14918,15 +14936,15 @@
    "contract": "",
    "url": "https://www.sstas-karvina.cz/cz/skola/kariera/cz/skola/kariera/63-ucitel-vseobecne-vzdelavacich-a-odbornych-predmetu-elektrikar.html",
    "source_url": "https://www.sstas-karvina.cz/cz/skola/kariera/",
-   "description": "Volné pracovní místo pro pozici učitel všeobecně vzdělávacích a odborných předmětů se zaměřením na elektrikáře.",
-   "content_hash": "4f155bc2c8b8",
+   "description": "Volné pracovní místo pro pozici učitel všeobecně vzdělávacích a odborných předmětů – elektrikář.",
+   "content_hash": "c7d0b6b98f01",
    "first_seen": "2026-10-26",
    "score": 1,
    "category": "Školství",
    "reason": "Odborné předměty pro elektrikáře na SŠ vyžadují specifickou elektrotechnickou kvalifikaci.",
    "shift_risk": false,
-   "scored_hash": "4f155bc2c8b8:2",
-   "last_seen": "2026-11-19",
+   "scored_hash": "c7d0b6b98f01:2",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15037,7 +15055,7 @@
    "reason": "Pozice mzdové účetní odpovídá její dlouholeté administrativní praxi a požadavkům na jednosměnný provoz.",
    "shift_risk": false,
    "scored_hash": "ced32676bcb6:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15067,7 +15085,7 @@
    "reason": "Jedná se o manažerskou pozici v úklidové službě a vyžaduje řídící praxi, kterou nemá.",
    "shift_risk": false,
    "scored_hash": "a1fc54f1c7a2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15311,7 +15329,7 @@
    "reason": "Mzdová účetní a HR administrativa dobře odpovídá její praxi fakturantky a administrativní pracovnice.",
    "shift_risk": false,
    "scored_hash": "67a89089d82d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15364,7 +15382,7 @@
    "reason": "Jde o manuální a řemeslnou pozici mechanika, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "e4bd3cc33465:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15390,7 +15408,7 @@
    "reason": "Jedná se o manuální skladnickou práci, kterou uchazečka výslovně nechce.",
    "shift_risk": false,
    "scored_hash": "bb9102686f8d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15443,7 +15461,7 @@
    "reason": "Jde o přímou obslužnou péči v sociálních službách, což spadá pod zdravotnickou a pečovatelskou práci.",
    "shift_risk": false,
    "scored_hash": "f983ff904966:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15469,7 +15487,7 @@
    "reason": "Pozice kuchaře je gastro práce a vyžaduje 11hodinové směny v režimu krátký/dlouhý týden.",
    "shift_risk": true,
    "scored_hash": "bca0ae9cebc8:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15495,7 +15513,7 @@
    "reason": "Jedná se o úklidovou práci, která neodpovídá požadované kvalifikaci uchazečky.",
    "shift_risk": false,
    "scored_hash": "ee0fc35ff5e7:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15583,7 +15601,7 @@
    "reason": "Pozice na městském úřadě odpovídá administrativnímu zaměření, chybí však specifické vzdělání v sociální oblasti.",
    "shift_risk": false,
    "scored_hash": "d465f05be915:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15799,9 +15817,9 @@
    "shift_risk": false,
    "scored_hash": "9234a5e90ae8:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
-   "is_new": true
+   "is_new": false
   },
   "web:27424481:9dfd0e5eeb": {
    "id": "web:27424481:9dfd0e5eeb",
@@ -15824,7 +15842,7 @@
    "reason": "Jde o manuální a výrobní pozici ve výrobě, kterou uchazečka výslovně odmítá.",
    "shift_risk": true,
    "scored_hash": "e3c987412b36:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15850,7 +15868,7 @@
    "reason": "Pozice vyžaduje obchodní zaměření a vyhledávání obchodních příležitostí, což uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "0f395f1da618:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15876,7 +15894,7 @@
    "reason": "Jedná se o manuální výrobní pozici, kterou uchazečka nehledá.",
    "shift_risk": false,
    "scored_hash": "a05c4611e915:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15902,7 +15920,7 @@
    "reason": "Skladnická pozice představuje manuální práci, kterou uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "71a347112207:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15928,7 +15946,7 @@
    "reason": "Údržbářská pozice je manuální prací, což neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "ed784ee64d22:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -15955,9 +15973,10 @@
    "shift_risk": false,
    "scored_hash": "27991f6b5a08:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "web:45235201:bab12d0df9": {
    "id": "web:45235201:bab12d0df9",
@@ -16034,7 +16053,7 @@
    "reason": "Pozice servisního technika vyžaduje manuální práci a zámečnické činnosti, což uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "57d9626b836f:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16091,7 +16110,7 @@
    "reason": "Pozice referentky ve veřejné správě dobře odpovídá jejím administrativním zkušenostem a požadavkům.",
    "shift_risk": false,
    "scored_hash": "658af8c548f2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16121,7 +16140,7 @@
    "reason": "Jedná se o gastro pozici kuchařky, což je obor, který uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "01c25a680980:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16151,7 +16170,7 @@
    "reason": "Pozice v administrativě a back-office v místě bydliště (Bystřice) velmi dobře odpovídá profilu.",
    "shift_risk": false,
    "scored_hash": "92400163eb64:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16181,7 +16200,7 @@
    "reason": "Mzdová a účetní podpora odpovídá její dlouholeté praxi fakturantky a administrativní pracovnice.",
    "shift_risk": false,
    "scored_hash": "f4fbb50d26e9:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16242,7 +16261,7 @@
    "reason": "Administrativní pozice vyhrazená pro OZP, uchazečka však nesplňuje specifické zdravotní zvýhodnění.",
    "shift_risk": false,
    "scored_hash": "aeb4f3241e71:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16303,7 +16322,7 @@
    "reason": "Pozice sociálního pracovníka vyžaduje specifické vzdělání v oboru, které uchazečka nesplňuje.",
    "shift_risk": false,
    "scored_hash": "89db48c9393e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16329,7 +16348,7 @@
    "reason": "Back office v oblasti technického prodeje odpovídá administrativním zkušenostem a regionu.",
    "shift_risk": false,
    "scored_hash": "e7800ab689e9:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16408,7 +16427,7 @@
    "reason": "Jde o seřizovače strojů ve výrobě v Německu, což odporuje jejím požadavkům na administrativu či školství.",
    "shift_risk": true,
    "scored_hash": "1ae258c58b11:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16434,7 +16453,7 @@
    "reason": "Pozice operátora výroby je dělnická/výrobní práce, kterou uchazečka výslovně odmítá.",
    "shift_risk": true,
    "scored_hash": "b9c583a121d6:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16460,7 +16479,7 @@
    "reason": "Jde o výrobní pozici operátora technického oddělení spojenou s obsluhou strojů ve výrobě.",
    "shift_risk": true,
    "scored_hash": "6760b547e83f:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16512,7 +16531,7 @@
    "reason": "Pozice všeobecné sestry vyžaduje specifické zdravotnické vzdělání, které uchazečka nemá.",
    "shift_risk": false,
    "scored_hash": "5b4ac577da3f:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16593,7 +16612,7 @@
    "shift_risk": false,
    "scored_hash": "80ea5c5d9a26:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
    "is_new": false
   },
@@ -16649,7 +16668,7 @@
    "reason": "Pozice sociálního pedagoga spadá do oblasti školských pozic a odpovídá pedagogickému zaměření uchazečky.",
    "shift_risk": false,
    "scored_hash": "5f41b633d7b0:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16679,7 +16698,7 @@
    "reason": "Práce kuchařky spadá do gastro oboru, který uchazečka odmítá.",
    "shift_risk": false,
    "scored_hash": "4a426aacadb7:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16709,7 +16728,7 @@
    "reason": "Pozice učitele autoškoly vyžaduje specifická řidičská oprávnění a profesní osvědčení, která nemá.",
    "shift_risk": false,
    "scored_hash": "898f6fb4deb2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16766,7 +16785,7 @@
    "reason": "Lékařská pozice vyžaduje úplné lékařské vzdělání a atestaci, což uchazečka nesplňuje.",
    "shift_risk": false,
    "scored_hash": "5d8907707b9a:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16792,7 +16811,7 @@
    "reason": "Text inzerátu výslovně uvádí třísměnný pracovní cyklus, proto je skóre nulové.",
    "shift_risk": true,
    "scored_hash": "cf3d4ba8cf3e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16818,7 +16837,7 @@
    "reason": "Práce v gastro provozu a obsluze neodpovídá zaměření uchazečky.",
    "shift_risk": false,
    "scored_hash": "102a71c11b3a:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16844,7 +16863,7 @@
    "reason": "Pozice kuchařky spadá do gastronomie, kterou uchazečka nechce dělat.",
    "shift_risk": false,
    "scored_hash": "4b86d43b6843:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16870,7 +16889,7 @@
    "reason": "Dělnická a technická údržbářská pozice vyžadující elektro vyhlášku neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "ea9ebde6b9cb:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -16923,7 +16942,7 @@
    "reason": "Zdravotnická pozice sestry v domácí péči nevyhovuje její kvalifikaci.",
    "shift_risk": false,
    "scored_hash": "77eae6a0ab11:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17081,7 +17100,7 @@
    "reason": "Pozice v nákupu a obchodu neodpovídá profilu a uchazečka ji odmítá.",
    "shift_risk": false,
    "scored_hash": "4966e64d44d3:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17159,7 +17178,7 @@
    "reason": "Práce v sociálních službách nespadá do hledaných oblastí vzdělávání či administrativy.",
    "shift_risk": false,
    "scored_hash": "72f06dd6e462:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17189,7 +17208,7 @@
    "reason": "Učitelka předškolní a mimoškolní pedagogiky neodpovídá aprobaci pro 2. stupeň ZŠ či SŠ, jde o jiný typ pedagogického zaměření.",
    "shift_risk": false,
    "scored_hash": "cabcc98cce54:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17219,7 +17238,7 @@
    "reason": "Pozice účetní odpovídá administrativním zkušenostem uchazečky, avšak požaduje hlubší účetní znalosti než její běžná praxe fakturantki.",
    "shift_risk": false,
    "scored_hash": "c15909c43344:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17249,7 +17268,7 @@
    "reason": "Všeobecná administrativa v Třinci skvěle odpovídá jejím dlouholetým zkušenostem s fakturací a administrativou.",
    "shift_risk": false,
    "scored_hash": "50ac9da847a2:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17276,9 +17295,10 @@
    "shift_risk": false,
    "scored_hash": "c5b207fa36d1:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "web:65468562:a0c985a916": {
    "id": "web:65468562:a0c985a916",
@@ -17379,7 +17399,7 @@
    "reason": "Technický konzultant pro bezpečnostní technologie může obsahovat prvky obchodu nebo technického prodeje, což neodpovídá profilu.",
    "shift_risk": false,
    "scored_hash": "c179498a5faa:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17405,7 +17425,7 @@
    "reason": "Jde o dělnickou pozici v pekárenské výrobě a práci na podvečerní směny, což uchazečka odmítá.",
    "shift_risk": true,
    "scored_hash": "7fcfca0345d1:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17432,9 +17452,10 @@
    "shift_risk": false,
    "scored_hash": "5a0a4360bcb0:2",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
-   "is_new": false
+   "missing_runs": 2,
+   "status": "removed",
+   "is_new": false,
+   "removed_on": "2026-11-23"
   },
   "web:00577049:524df5d139": {
    "id": "web:00577049:524df5d139",
@@ -17510,7 +17531,7 @@
    "shift_risk": false,
    "scored_hash": "857b79d62ca4:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
    "is_new": false
   },
@@ -17563,7 +17584,7 @@
    "shift_risk": false,
    "scored_hash": "2b4b14196a8e:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
    "is_new": false
   },
@@ -17589,7 +17610,7 @@
    "shift_risk": false,
    "scored_hash": "e994067b0ab0:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
    "is_new": false
   },
@@ -17615,7 +17636,7 @@
    "shift_risk": false,
    "scored_hash": "4b40cbb5c97b:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
    "is_new": false
   },
@@ -17694,7 +17715,7 @@
    "reason": "Uchazečka nemá aprobaci pro 1. stupeň ZŠ.",
    "shift_risk": false,
    "scored_hash": "d3e1f6f357e8:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17720,7 +17741,7 @@
    "reason": "Pozice specialisty BOZP/PO neodpovídá profilu ani vzdělání uchazečky.",
    "shift_risk": false,
    "scored_hash": "fc76fed5cd74:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17798,7 +17819,7 @@
    "reason": "Technická výrobní pozice inženýra procesů neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "78873e1ea41b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17824,7 +17845,7 @@
    "reason": "Vývojové inženýrství ve výrobě neodpovídá zaměření ani vzdělání uchazečky.",
    "shift_risk": false,
    "scored_hash": "a1e39075633a:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17850,7 +17871,7 @@
    "reason": "Pozice v oblasti kybernetické bezpečnosti a IT neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "283b4759364c:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17877,7 +17898,7 @@
    "shift_risk": false,
    "scored_hash": "841c96514199:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
    "is_new": false
   },
@@ -17903,7 +17924,7 @@
    "shift_risk": false,
    "scored_hash": "f402140f92c3:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
    "is_new": false
   },
@@ -17928,7 +17949,7 @@
    "reason": "Zdravotnická pozice sestry vyžaduje specifické zdravotnické vzdělání.",
    "shift_risk": false,
    "scored_hash": "43f50494bd02:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17954,7 +17975,7 @@
    "reason": "Zdravotnická pozice sestry na operačních sálech vyžaduje zdravotnickou kvalifikaci.",
    "shift_risk": false,
    "scored_hash": "0f74575ab91d:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -17980,7 +18001,7 @@
    "reason": "Specializovaná zdravotnická pozice sestry neodpovídá profilu uchazečky.",
    "shift_risk": false,
    "scored_hash": "02727c49956e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -18002,14 +18023,15 @@
    "content_hash": "1aabd736a9f6",
    "first_seen": "2026-11-16",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
+   "missing_runs": 2,
+   "status": "removed",
    "is_new": false,
    "score": 7,
    "category": "Administrativa",
    "reason": "Pozice odpovídá její dlouholeté praxi s fakturací a administrativou, místo výkonu je v dojezdové vzdálenosti.",
    "shift_risk": false,
-   "scored_hash": "1aabd736a9f6:2"
+   "scored_hash": "1aabd736a9f6:2",
+   "removed_on": "2026-11-23"
   },
   "web:00296899:97df141839": {
    "id": "web:00296899:97df141839",
@@ -18033,7 +18055,7 @@
    "shift_risk": false,
    "scored_hash": "c2669eed2174:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
    "is_new": false
   },
@@ -18058,7 +18080,7 @@
    "reason": "Jedná se o úklidovou práci, kterou uchazečka výslovně odmítá.",
    "shift_risk": false,
    "scored_hash": "ac371a6f5e64:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -18085,7 +18107,7 @@
    "shift_risk": false,
    "scored_hash": "80ca0c5e4572:2",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
    "is_new": false
   },
@@ -18095,7 +18117,7 @@
    "source": "Web zaměstnavatele",
    "title": "učitel/učitelka 1. stupně základní školy",
    "employer": "Základní škola a Mateřská škola Písečná",
-   "place": "Základní škola Chomutov, Písečná 5144",
+   "place": "Chomutov",
    "km": 10.4,
    "wage": "",
    "shift": "",
@@ -18110,7 +18132,7 @@
    "reason": "Učitelka 1. stupně neodpovídá aprobaci uchazečky pro 2. stupeň ZŠ.",
    "shift_risk": false,
    "scored_hash": "4f8a7858049b:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -18136,7 +18158,7 @@
    "reason": "Výtvarná výchova není její aprobací, kvalifikaci splňuje pro jiné předměty.",
    "shift_risk": false,
    "scored_hash": "0c421bef50b4:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -18158,14 +18180,15 @@
    "content_hash": "2f601d21b12e",
    "first_seen": "2026-11-16",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
+   "missing_runs": 2,
+   "status": "removed",
    "is_new": false,
    "score": 6,
    "category": "Školství",
    "reason": "Pozice vychovatelky ve školní družině odpovídá jejím preferencím v oblasti školství.",
    "shift_risk": false,
-   "scored_hash": "2f601d21b12e:2"
+   "scored_hash": "2f601d21b12e:2",
+   "removed_on": "2026-11-23"
   },
   "web:61963607:d1184b099c": {
    "id": "web:61963607:d1184b099c",
@@ -18184,14 +18207,15 @@
    "content_hash": "f94f36db974f",
    "first_seen": "2026-11-16",
    "last_seen": "2026-11-16",
-   "missing_runs": 1,
-   "status": "active",
+   "missing_runs": 2,
+   "status": "removed",
    "is_new": false,
    "score": 1,
    "category": "Jiné",
    "reason": "Jde o úklid a provozní práce v mateřské škole, což uchazečka odmítá.",
    "shift_risk": false,
-   "scored_hash": "f94f36db974f:2"
+   "scored_hash": "f94f36db974f:2",
+   "removed_on": "2026-11-23"
   },
   "web:08090599:bac2e943da": {
    "id": "web:08090599:bac2e943da",
@@ -18214,7 +18238,7 @@
    "reason": "Pozice vyžaduje anglického učitele, což nesplňuje její aprobaci matematiky, fyziky či techniky.",
    "shift_risk": false,
    "scored_hash": "3b07b7865801:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -18240,7 +18264,7 @@
    "reason": "Pozice učitele na 2. stupni ZŠ odpovídá její praxi, byť specifický Montessori přístup vyžaduje zaučení.",
    "shift_risk": false,
    "scored_hash": "7c4e75a3db1e:2",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "missing_runs": 0,
    "status": "active",
    "is_new": false
@@ -18262,18 +18286,18 @@
    "url": "https://up.gov.cz/volna-mista-v-cr#/volna-mista-detail/67311522",
    "source_url": "https://up.gov.cz/volna-mista-v-cr",
    "employer_url": "",
-   "description": "Psycholog/psycholožka\nVysokoškolské vzdělání – jednooborová  psychologie, Mgr., praxe výhodou.  \nNabízíme pružnou pracovní dobu, finanční příspěvek na stravování, osobní příplatek,  8 týdnů dovolené, studijní volno.\nVíce informací na www.pppfm.cz.",
-   "content_hash": "6ee15017ee22",
+   "description": "Psycholog/psycholožka\nVysokoškolské vzdělání – jednooborová  psychologie, Mgr., praxe výhodou.  \nNabízíme pružnou pracovní dobu, finanční příspěvek na stravování, osobní příplatek,  8 týdnů dovolené, studijní volno.\nVhodné i pro absolventy.\nVíce informací na www.pppfm.cz.",
+   "content_hash": "590827da306e",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 1,
    "category": "Školství",
    "reason": "Pozice psychologa vyžaduje jednooborovou psychologii, kterou uchazečka nemá.",
    "shift_risk": false,
-   "scored_hash": "6ee15017ee22:2"
+   "scored_hash": "590827da306e:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "upcr:67310911": {
    "id": "upcr:67310911",
@@ -18295,15 +18319,15 @@
    "description": "Referent/referentka odboru kancelář vedení města – vztahy k veřejnosti\nPožadované vzdělání: vysokoškolské v bakalářském studijním programu nebo vyšší odborné vzdělání\nCharakteristika vykonávané práce: \nZjišťování informačních, publicistických a tiskových vztahů k veřejnosti a hromadným sdělovacím prostředkům. Zajišťování odborných agend pracovníka veřejných vztahů (public relations) – systematické soustřeďování a vyhodnocování informací ve všech oborech činnosti organizace, tvorba odborných informačních výstupů a zpracovávání informací pro veřejnost a hromadné sdělovací prostředky. Kompletní zajišťování on-line marketingu včetně sociálních médií. Zajišťování publicity významných akcí ve městě vč. zajišťování fotodokumentace z těchto akcí. Monitorování názorů veřejnosti k činnosti organizace a jejich vyhodnocování. Zajišťování vydávání Třineckého zpravodaje. \nVýkon činnosti v oblasti marketingu a digitální komunikace; stanovování priorit dalšího rozvoje moderní komunikace města vůči občanům; komunikace s vedením města a odbory magistrátu; vedení a správa komunikačních kanálů města; provádění informačních kampaní včetně jejich přípravy, realizace a vyhodnocování.\nPlatové podmínky: Platová třída 10. – základní platový tarif od 39.840 Kč (zaručený plat), možnost přiznání osobního příplatku v souladu se zákoníkem práce.\nNabízíme:\nJsme stabilní zaměstnavatel. Nabízíme pružnou pracovní dobu, 5 týdnů dovolené, 4 dny indispozičního volna, možnost vzdělávání se, příspěvek na stravování, příspěvek na penzijní připojištění, věrnostní odměny a další benefity ze sociálního fondu.\nJiné požadavky:\n- samostatnost, odpovědnost, výborné komunikační a organizační schopnosti, bezchybný písemný projev, kreativita, časová flexibilta, odolnost vůči stresu,\n- vítáno vzdělání nebo praxe v oblasti marketingu nebo PR,\n- znalost práce s webovými nástroji, správa webových stránek, znalost limitů webových stránek veřejné správy,\n- vítana znalost práce s daty, grafickými programy, s prezentačními technologiemi vč. tvorby kreativního obsahu (video, audio, foto),\n- vítana zkušenost se správou on-line kanálů, mobilních aplikací, sociálních sítí včetně tvorby digitálního obsahu, zkušenost práce se sociálními sítěmi (Facebook, Instragram, YouTube), \n- vítána znalost prostředí města,\n- zkušenost s fotografováním/natáčením,\n- řidičský průkaz skupiny B (řízení referentského vozidla při pracovních cestách).\nNáležitosti přihlášky:\n- jméno, příjmení, titul, datum a místo narození, státní příslušnost, místo trvalého pobytu,\n- druh a číslo dokladu prokazujícího totožnost a státní občanství (u cizince též číslo dokladu o povolení k trvalému pobytu), datum a podpis uchazeče, telefon/e-mail (dobrovolný údaj k snadnější komunikaci v rámci daného výběrového řízení).\nPřílohy přihlášky dle § 7 odst. 5 zákona č. 312/2002 Sb.:\n- profesní životopis s časovým vymezením praxí od měsíc/rok do měsíc/rok, včetně zaměření na popis vykonávaných činností, případně údajů o odborných znalostech a dovednostech ",
    "content_hash": "2a7d7d6300e7",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 6,
    "category": "Veřejná správa",
    "reason": "Referentka pro vztahy s veřejností na městském úřadě odpovídá administrativnímu zaměření a VŠ vzdělání.",
    "shift_risk": false,
-   "scored_hash": "2a7d7d6300e7:2"
+   "scored_hash": "2a7d7d6300e7:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "upcr:67310854": {
    "id": "upcr:67310854",
@@ -18325,15 +18349,15 @@
    "description": "Referent/referentka odboru školství, kultury a tělovýchovy\nCharakteristika vykonávané práce: \nSpolupráce se společenskými a sportovními organizacemi při rozvoji kultury, sportu a volnočasových aktivit dětí a mládeže, organizační zajišťování kulturně-společenských akcí města, administrace dotačních programů v oblasti kultury a sportu, agenda městské kroniky a kronik místních částí, organizační a administrativní zajišťování činnosti komisí pro kulturu a sport a pro poskytování účelových finančních dotací, koordinace údržby a oprav uměleckých děl, památníků a pomníků včetně jejich běžné údržby a přípravy podkladů pro změny rozpočtu. \nVýkon státní správy v oblasti válečných hrobů a pietních míst.\nPožadované vzdělání: vyšší odborné vzdělání nebo střední vzdělání s maturitní zkouškou\nPracovní poměr: doba neurčitá\nPředpoklady dle § 4 zákona č. 312/2002 Sb.:\n- občan ČR, EU nebo státu, který je smluvním státem Dohody o Evropském hospodářském prostoru, popřípadě cizinec s trvalým pobytem v ČR,\n- dosažení věku 18 let,\n- plná svéprávnost,\n- předložení výpisu z RT,\n- ovládat český jazyk,\n- splňuje další předpoklady pro výkon správních činností stanovené zvláštním právním předpisem.\nPlatové podmínky:\nPlatová třída 9. – základní platový tarif od 34.860 Kč (zaručený plat), možnost přiznání osobního příplatku v souladu se zákoníkem práce.\nNabízíme:\nJsme stabilní zaměstnavatel. Nabízíme pružnou pracovní dobu, 5 týdnů dovolené, 4 dny indispozičního volna, možnost vzdělávání se, příspěvek na stravování, příspěvek na penzijní připojištění, věrnostní odměny a další benefity ze sociálního fondu.\nJiné požadavky:\n- zájem o oblast kultury, sportu a společenského života města,\n- dobré organizační a komunikační schopnosti, profesionální přístup ke klientům, dobré písemné a stylistické vyjadřovací schopnosti,\n- schopnost samostatné práce, pečlivost a zodpovědný přístup, schopnost týmové spolupráce, flexibilita,\n- znalost práce na PC v rozsahu zkoušky ECDL (v životopise specifikujte úroveň znalostí), výhodou znalost práce v programu Access,\n- výhodou řidičský průkaz skupiny B (řízení referentského vozidla při pracovních cestách).\nNáležitosti přihlášky:\n- jméno, příjmení, titul, \n- datum a místo narození, \n- státní příslušnost,\n- místo trvalého pobytu,\n- druh a číslo dokladu prokazujícího totožnost a státní občanství (u cizince též číslo dokladu o povolení k trvalému pobytu),\n- datum a podpis uchazeče,\n- telefon/e-mail (dobrovolný údaj k snadnější komunikaci v rámci daného výběrového řízení).\nPřílohy přihlášky dle § 7 odst. 5 zákona č. 312/2002 Sb.:\n- profesní životopis s časovým vymezením praxí od měsíc/rok do měsíc/rok, včetně zaměření na popis vykonávaných činností, případně údajů o odborných znalostech a dovednostech vztahujících se k vyhlašované pozici,\n- ověřená kopie dokladu o nejvyšším dosaženém vzdělání, příp. také kopie dokladu o vzdělání vztahujícímu se k vyhlašované pozici,\n- výpis z evidence Rejstříku trestů ne starší než 3 měsíce; u cizinců obdobný doklad osvědču",
    "content_hash": "d87eaa708029",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 7,
    "category": "Veřejná správa",
    "reason": "Referentka odboru školství, kultury a tělovýchovy na MěÚ skvěle propojuje pedagogické vzdělání a administrativu.",
    "shift_risk": false,
-   "scored_hash": "d87eaa708029:2"
+   "scored_hash": "d87eaa708029:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "upcr:67310833": {
    "id": "upcr:67310833",
@@ -18355,15 +18379,15 @@
    "description": "obor - kuchař, \npožadujeme spolehlivost, zodpovědnost, samostatnost, pracovitost, dodržování hygienických podmínek, dodržování bezpečnosti práce, ranní směny 5:00-13:30, pouze pracovní dny, práce ve školní jídelně",
    "content_hash": "9e1487b5111e",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 2,
    "category": "Jiné",
    "reason": "Pozice kuchařky spadá do gastra, které uchazečka výslovně odmítá.",
    "shift_risk": false,
-   "scored_hash": "9e1487b5111e:2"
+   "scored_hash": "9e1487b5111e:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "upcr:67310222": {
    "id": "upcr:67310222",
@@ -18385,15 +18409,15 @@
    "description": "Účetní (m/ž)\nStaňte se klíčovým členem našeho firemního týmu jako Účetní!\nCo Vás u Nás Čeká:\n- Evidenci a zpracování faktur, pokladních dokladů, bankovních výpisů a dalších účetních dokumentů\n- Tvorbu mezd pro naše zaměstnance\n- Komunikaci s úřady\n- Spolupráce s naším daňovým poradcem\n- Skladové a finanční uzávěrky.\nCo Očekáváme:\n- Znalost Podvojného Účetnictví\n- Středoškolské vzdělání ekonomického směru\n- Samostatnost, pečlivost, spolehlivost a loajalita jsou pro nás důležité.\nVýhodou:\n- MS Office a ABRA GEN SW: Znalost těchto nástrojů je velkou výhodou\n- Zkušenosti v oboru jsou vítány, předání účetní agendy stávající účetní.\nCo Vám Nabízíme:\n- Předání účetní agendy stávající účetní\n- Profesní růst a rozvoj\n- Staňte se součástí přátelského kolektivu, který vás podpoří\n- Příspěvek na stravování a další firemní benefity.\nKontakt emailem.",
    "content_hash": "aa1e772e9b42",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 7,
    "category": "Administrativa",
    "reason": "Pozice účetní s fakturací a administrativou odpovídá dlouholeté praxi uchazečky jako fakturantka.",
    "shift_risk": false,
-   "scored_hash": "aa1e772e9b42:2"
+   "scored_hash": "aa1e772e9b42:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:03619770:594ed964b6": {
    "id": "web:03619770:594ed964b6",
@@ -18411,15 +18435,15 @@
    "description": "Montážní pracovník pro Pickering Electronics.",
    "content_hash": "394e3f29ef32",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 1,
    "category": "Jiné",
    "reason": "Jde o manuální a výrobní pozici, což uchazečka výslovně odmítá.",
    "shift_risk": false,
-   "scored_hash": "394e3f29ef32:2"
+   "scored_hash": "394e3f29ef32:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:03619770:e410be41e7": {
    "id": "web:03619770:e410be41e7",
@@ -18437,15 +18461,15 @@
    "description": "Junior Aplication Software developer pro Pickering Interfaces.",
    "content_hash": "aa821212935c",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 1,
    "category": "Jiné",
    "reason": "Pozice softwarového vývojáře vyžaduje IT vzdělání a praxi, které uchazečka nemá.",
    "shift_risk": false,
-   "scored_hash": "aa821212935c:2"
+   "scored_hash": "aa821212935c:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:65468562:3d61bb6203": {
    "id": "web:65468562:3d61bb6203",
@@ -18466,7 +18490,7 @@
    "last_seen": "2026-11-19",
    "missing_runs": 0,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 4,
    "category": "Jiné",
    "reason": "Práce v sociálních službách pro pěstounské rodiny neodpovídá jejímu pedagogickému ani administrativnímu zaměření.",
@@ -18492,7 +18516,7 @@
    "last_seen": "2026-11-19",
    "missing_runs": 0,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 2,
    "category": "Jiné",
    "reason": "Pozice pracovníka v sociálních službách nevyhovuje jejímu profilu.",
@@ -18515,15 +18539,15 @@
    "description": "Dělnická pozice v oblasti výroby na plný úvazek.",
    "content_hash": "332b51b56677",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 1,
    "category": "Jiné",
    "reason": "Jedná se o dělnickou výrobní pozici, kterou uchazečka nechce.",
    "shift_risk": false,
-   "scored_hash": "332b51b56677:2"
+   "scored_hash": "332b51b56677:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:27786161:60d175bff9": {
    "id": "web:27786161:60d175bff9",
@@ -18542,9 +18566,9 @@
    "content_hash": "ff0f93202dd7",
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 1,
    "category": "Jiné",
    "reason": "Výrobní pozice ve firmě Hyundai neodpovídá profilu uchazečky.",
@@ -18568,9 +18592,9 @@
    "content_hash": "fc2d4537161e",
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 6,
    "category": "Administrativa",
    "reason": "Personální administrativa částečně odpovídá jejím administrativním zkušenostem.",
@@ -18596,7 +18620,7 @@
    "last_seen": "2026-11-19",
    "missing_runs": 0,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 2,
    "category": "Jiné",
    "reason": "Pozice údržby a oprav strojů představuje manuální práci, kterou uchazečka odmítá.",
@@ -18622,7 +18646,7 @@
    "last_seen": "2026-11-19",
    "missing_runs": 0,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 4,
    "category": "Administrativa",
    "reason": "Kalkulace a podpora obchodu jsou blízko administrativě, ale obsahují prvek podpory prodeje.",
@@ -18645,15 +18669,15 @@
    "description": "Hledáme nového zaměstnance na pozici Zástupce/kyně oblastní manažerky prodejen v rámci technicko-hospodářských pracovníků. Přidejte se do týmu rozvíjející se společnosti Beskydské uzeniny, a.s.",
    "content_hash": "0af5820e8fcb",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 3,
    "category": "Jiné",
    "reason": "Pozice spojená s prodejnami neodpovídá hledané administrativní či pedagogické práci.",
    "shift_risk": false,
-   "scored_hash": "0af5820e8fcb:2"
+   "scored_hash": "0af5820e8fcb:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:26790203:3025d927cb": {
    "id": "web:26790203:3025d927cb",
@@ -18671,15 +18695,15 @@
    "description": "Hledáme účetní prodejen na zkrácený úvazek do týmu technicko-hospodářských pracovníků ve společnosti Beskydské uzeniny, a.s.",
    "content_hash": "1b5f90283e38",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 8,
    "category": "Administrativa",
    "reason": "Pozice účetní prodejen velmi dobře odpovídá její dlouholeté praxi fakturantky.",
    "shift_risk": false,
-   "scored_hash": "1b5f90283e38:2"
+   "scored_hash": "1b5f90283e38:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:26790203:cb5f8b22ff": {
    "id": "web:26790203:cb5f8b22ff",
@@ -18697,15 +18721,15 @@
    "description": "Hledáme provozního údržbáře / elektromechanika. K pozici nabízíme náborový bonus do výše 30 000 Kč.",
    "content_hash": "6fdf4458abf8",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 1,
    "category": "Jiné",
    "reason": "Jedná se o manuální a údržbářskou pozici, což je pro ni nevhodné.",
    "shift_risk": false,
-   "scored_hash": "6fdf4458abf8:2"
+   "scored_hash": "6fdf4458abf8:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:26790203:5f13053585": {
    "id": "web:26790203:5f13053585",
@@ -18723,15 +18747,15 @@
    "description": "Hledáme údržbáře / obsluhu strojního chlazení a kotelny do výroby. Nabízíme náborový bonus do výše 30 000 Kč.",
    "content_hash": "d516473423e2",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 1,
    "category": "Jiné",
    "reason": "Údržba a obsluha zařízení ve výrobě je manuální práce, kterou uchazečka odmítá.",
    "shift_risk": true,
-   "scored_hash": "d516473423e2:2"
+   "scored_hash": "d516473423e2:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:00847020:0387c1306a": {
    "id": "web:00847020:0387c1306a",
@@ -18752,7 +18776,7 @@
    "last_seen": "2026-11-19",
    "missing_runs": 0,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 3,
    "category": "Veřejná správa",
    "reason": "Vedoucí pozice v sociálních službách neodpovídá jejímu zaměření a nemá řídící praxi.",
@@ -18775,15 +18799,15 @@
    "description": "Odborná způsobilost dle zákona 96/2004 Sb. Poskytování odborné péče, nepedagogická výchovná činnost a podpora dětí v rozvoji. Požadujeme spolehlivost, zodpovědnost, pečlivost, trpělivost, loajalitu, zručnost, empatii a znalost práce na PC.",
    "content_hash": "19f82603f930",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 2,
    "category": "Jiné",
    "reason": "Pozice vyžaduje odbornou způsobilost dle zákona 96/2004 Sb. pro zdravotnickou nebo ošetřovatelskou péči.",
    "shift_risk": false,
-   "scored_hash": "19f82603f930:2"
+   "scored_hash": "19f82603f930:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:00576930:458564d233": {
    "id": "web:00576930:458564d233",
@@ -18802,9 +18826,9 @@
    "content_hash": "85e69f5ecd06",
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 7,
    "category": "Administrativa",
    "reason": "Pozice hlavní účetní a rozpočtářky v Hnojníku dobře odpovídá její dlouholeté praxi s fakturací a administrativou.",
@@ -18823,19 +18847,19 @@
    "shift": "",
    "contract": "",
    "url": "https://www.velopoli.cz/aktuality/obec-hnojnik-vyberove-rizeni-na-pozici-hlavni-ucetni-rozpoctar",
-   "source_url": "https://www.velopoli.cz/aktuality",
-   "description": "Výběrové řízení na pozici hlavní účetní a rozpočtář vyhlašuje Obec Hnojník.",
-   "content_hash": "43fb67f8f7ce",
+   "source_url": "https://www.velopoli.cz/",
+   "description": "Výběrové řízení na pozici hlavní účetní a rozpočtář v nedaleké obci Hnojník.",
+   "content_hash": "46f03f0aac89",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 7,
    "category": "Administrativa",
    "reason": "Pozice hlavní účetní a rozpočtářky v Hnojníku dobře odpovídá její dlouholeté praxi s fakturací a administrativou.",
    "shift_risk": false,
-   "scored_hash": "43fb67f8f7ce:2"
+   "scored_hash": "46f03f0aac89:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:00296678:8a30adb503": {
    "id": "web:00296678:8a30adb503",
@@ -18856,7 +18880,7 @@
    "last_seen": "2026-11-19",
    "missing_runs": 0,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 7,
    "category": "Administrativa",
    "reason": "Pozice hlavní účetní a rozpočtářky v Hnojníku dobře odpovídá její dlouholeté praxi s fakturací a administrativou.",
@@ -18882,7 +18906,7 @@
    "last_seen": "2026-11-19",
    "missing_runs": 0,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 7,
    "category": "Administrativa",
    "reason": "Pozice hlavní účetní a rozpočtářky v Hnojníku dobře odpovídá její dlouholeté praxi s fakturací a administrativou.",
@@ -18895,25 +18919,25 @@
    "source": "Web zaměstnavatele",
    "title": "Veřejná výzva - výběrové řízení + přihláška do výběrového řízení obce Hnojník",
    "employer": "Obec Komorní Lhotka",
-   "place": "Hnojník",
+   "place": "Obec Hnojník",
    "km": 17.2,
    "wage": "",
    "shift": "",
    "contract": "",
    "url": "https://www.komorni-lhotka.cz/aktuality/verejna-vyzva-vyberove-rizeni-prihlaska-do-vyberove-rizeni-obce-hnojnik",
    "source_url": "https://www.komorni-lhotka.cz/aktuality",
-   "description": "Výběrové řízení vypsané obcí Hnojník. Podrobnosti k požadavkům a náplni práce naleznete v detailu výzvy.",
-   "content_hash": "e8e7f3f65e2a",
+   "description": "Výběrové řízení vyhlášené obcí Hnojník. Podrobnosti k požadavkům a náplni práce naleznete v detailu výzvy.",
+   "content_hash": "b1525a7751ae",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 6,
    "category": "Veřejná správa",
    "reason": "Administrativní pozice v obci odpovídá jejím zkušenostem z ekonomiky a administrativy, místo výkonu je blízko.",
    "shift_risk": false,
-   "scored_hash": "e8e7f3f65e2a:2"
+   "scored_hash": "b1525a7751ae:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:00494232:9329bc095b": {
    "id": "web:00494232:9329bc095b",
@@ -18928,18 +18952,18 @@
    "contract": "",
    "url": "https://www.komorni-lhotka.cz/aktuality/pracovnich-prilezitosti-pro-nadchazejici-zimni-sezonu-20262027-v-resortu-bila-v-beskydech",
    "source_url": "https://www.komorni-lhotka.cz/aktuality",
-   "description": "Nabídka pracovních příležitostí pro nadcházející zimní sezónu v Resortu Bílá v Beskydech. Více informací o volných pozicích v odkazu.",
-   "content_hash": "e13d159dd7b1",
+   "description": "Nabídka pracovních příležitostí pro nadcházející zimní sezónu v Resortu Bílá v Beskydech.",
+   "content_hash": "c88f5aa3d256",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 0,
    "category": "Jiné",
    "reason": "Sezónní nabídka v resortu neodpovídá profilu uchazečky a hrozí zde směnnost.",
    "shift_risk": true,
-   "scored_hash": "e13d159dd7b1:2"
+   "scored_hash": "c88f5aa3d256:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:00297577:537aa9ae58": {
    "id": "web:00297577:537aa9ae58",
@@ -18957,15 +18981,15 @@
    "description": "Tajemník MěÚ Orlová vyhlásil výběrové řízení na obsazení pracovní pozice investičního referenta (-ntky). Bližší požadavky pro podání přihlášky naleznete v textu výběrového řízení.",
    "content_hash": "c5517b2c9619",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 6,
    "category": "Veřejná správa",
    "reason": "Pozice investičního referenta na úřadě v Orlové spadá do veřejné správy, ale vyžaduje specifickou agendu.",
    "shift_risk": false,
-   "scored_hash": "c5517b2c9619:2"
+   "scored_hash": "c5517b2c9619:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:61944084:29abfa9d48": {
    "id": "web:61944084:29abfa9d48",
@@ -18983,15 +19007,15 @@
    "description": "Výuka předmětů Právo a Veřejná správa, příprava žáků na maturitní zkoušku. Požadováno ukončené vysokoškolské vzdělání v oboru, pedagogický titul není nutný (lze si jej dodělat v průběhu).",
    "content_hash": "f29e2a3eaf80",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 1,
    "category": "Školství",
    "reason": "Výuka předmětů Právo a Veřejná správa vyžaduje specifické odborné vzdělání, které uchazečka nemá.",
    "shift_risk": false,
-   "scored_hash": "f29e2a3eaf80:2"
+   "scored_hash": "f29e2a3eaf80:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:61944084:90be0fb0ec": {
    "id": "web:61944084:90be0fb0ec",
@@ -19009,15 +19033,15 @@
    "description": "Výuka psaní deseti prsty, obchodní a úřední korespondence, zpracování dokumentů na počítači. Požadováno vysokoškolské vzdělání s pedagogickou aprobací pro ekonomické předměty/PEK (případně pedagogické minimum) a znalost techniky psaní všemi deseti.",
    "content_hash": "788da5144f62",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 5,
    "category": "Školství",
    "reason": "Výuka administrativních předmětů částečně odpovídá jejímu gymnáziu se zaměřením na ekonomiku a administrativu.",
    "shift_risk": false,
-   "scored_hash": "788da5144f62:2"
+   "scored_hash": "788da5144f62:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:61944084:23683c1cd2": {
    "id": "web:61944084:23683c1cd2",
@@ -19035,15 +19059,15 @@
    "description": "Výuka IT předmětů (programování, tvorba webu, počítačové sítě Cisco, hardware, robotika, operační systémy aj.). Požadováno ukončené vysokoškolské vzdělání v oboru, pedagogický titul není nutný.",
    "content_hash": "9eabc9cd7570",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 1,
    "category": "Školství",
    "reason": "Výuka IT předmětů na SŠ neodpovídá její aprobaci matematika – technická výchova.",
    "shift_risk": false,
-   "scored_hash": "9eabc9cd7570:2"
+   "scored_hash": "9eabc9cd7570:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:70640289:ebb086da47": {
    "id": "web:70640289:ebb086da47",
@@ -19061,15 +19085,15 @@
    "description": "Nabídka pracovní pozice na pozici učitel/učitelka 1. stupně základní školy.",
    "content_hash": "eb79b79d5321",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 3,
    "category": "Školství",
    "reason": "Učitelka na 1. stupni ZŠ neodpovídá její aprobaci pro 2. stupeň.",
    "shift_risk": false,
-   "scored_hash": "eb79b79d5321:2"
+   "scored_hash": "eb79b79d5321:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
   },
   "web:48004286:464e3e951e": {
    "id": "web:48004286:464e3e951e",
@@ -19088,9 +19112,9 @@
    "content_hash": "260609f823c3",
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 0,
    "category": "Jiné",
    "reason": "Úklidová práce je v rozporu s požadavky uchazečky, která odmítá manuální a úklidové pozice.",
@@ -19114,9 +19138,9 @@
    "content_hash": "3dcb923e9f2f",
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
-   "missing_runs": 0,
+   "missing_runs": 1,
    "status": "active",
-   "is_new": true,
+   "is_new": false,
    "score": 0,
    "category": "Jiné",
    "reason": "Pozice uklízečky je manuální a zahrnuje odpolední směny, což uchazečka výslovně odmítá.",
@@ -19139,15 +19163,253 @@
    "description": "Hledáme sociálního pedagoga pro podporu žáků při řešení obtíží, spolupráci s pedagogy a rodinami a realizaci preventivních programů. Požadujeme odbornou kvalifikaci dle zákona č. 563/2004 Sb. (VŠ v oboru sociální pedagogika či příbuzném), empatii, bezúhonnost a komunikační dovednosti. Nástup 1. 12. 2026 nebo dle dohody.",
    "content_hash": "1c7bddea7ac8",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
-   "missing_runs": 0,
-   "status": "active",
-   "is_new": true,
    "score": 1,
    "category": "Školství",
    "reason": "Pozice sociálního pedagoga vyžaduje specifické VŠ vzdělání v oboru sociální pedagogika.",
    "shift_risk": false,
-   "scored_hash": "1c7bddea7ac8:2"
+   "scored_hash": "1c7bddea7ac8:2",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": false
+  },
+  "upcr:67312160": {
+   "id": "upcr:67312160",
+   "source_key": "upcr",
+   "source": "Úřad práce ČR",
+   "title": "uklízeč/ka",
+   "employer": "Regionální knihovna Karviná, příspěvková organizace",
+   "place": "Karviná",
+   "km": 25.6,
+   "wage": "24 900 Kč/měs",
+   "shift": "jednosměnný",
+   "contract": "HPP",
+   "hours": null,
+   "polish": false,
+   "posted": "2026-11-20",
+   "url": "https://up.gov.cz/volna-mista-v-cr#/volna-mista-detail/67312160",
+   "source_url": "https://up.gov.cz/volna-mista-v-cr",
+   "employer_url": "",
+   "description": "Pracovní náplň:\n•\túklid veřejných a kancelářských prostor včetně sociálních zařízení v budově městského informačního centra a Galerie města Karviné\n•\tvýpomoc při instalaci a demontáži výstav\n•\tzástup za pracovnice úklidu na pobočkách Regionální knihovny Karviná v době jejich nepřítomnosti\nPožadavky: \n•\tminimálně ukončené ZŠ vzdělání\n•\taktivní přístup, pečlivost, samostatnost, zodpovědnost, spolehlivost, flexibilita\n•\tzkušenost, praxe na této nebo obdobné pracovní pozici vítána\n•\tpéče o estetický vzhled pobočky\nNabízíme:\n•\tpracovní poměr na dobu určitou s možností změny na neurčito\n•\tpříjemné pracovní prostředí\n•\t25 dní dovolené, sick days a další benefity\n\nPřihlašování do výběrového řízení:\nStrukturovaný životopis zasílejte do 6. 12. 2026 na e-mail lucie.zachatova@rkka.cz.\nDo předmětu zprávy napište heslo „Výběrové řízení – uklízeč/uklízečka“.\nUpozornění\nVýběrová komise posoudí přihlášky doručené ve stanoveném termínu.\nV případě, že výběrová komise doporučí přihlášku do dalšího kola, bude kandidát pozván k dalším kolům výběrového řízení. Rozhodnutí výběrové komise bude uchazečům oznámeno e-mailem.\nVyhlašovatel si vyhrazuje právo zrušit výběrové řízení bez uvedení důvodu kdykoli v jeho průběhu nebo nevybrat žádného uchazeče.\nPodáním dokumentů uchazeč/ka souhlasí s tím, že zadavatel bude pro potřeby výběrového řízení nakládat s jeho osobními údaji.\nDalší informace: personální úsek RKK, tel. 558 849 514, e-mail: lucie.zachatova@rkka.cz.",
+   "content_hash": "abba87bf7146",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": true
+  },
+  "upcr:67311896": {
+   "id": "upcr:67311896",
+   "source_key": "upcr",
+   "source": "Úřad práce ČR",
+   "title": "Obsluha Casina",
+   "employer": "Oldřich Gavenda",
+   "place": "Karviná",
+   "km": 25.6,
+   "wage": "22 400 Kč/měs",
+   "shift": "jednosměnný",
+   "contract": "HPP",
+   "hours": 40,
+   "polish": false,
+   "posted": "2026-11-19",
+   "url": "https://up.gov.cz/volna-mista-v-cr#/volna-mista-detail/67311896",
+   "source_url": "https://up.gov.cz/volna-mista-v-cr",
+   "employer_url": "",
+   "description": "",
+   "content_hash": "d4d6ef757eb8",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": true
+  },
+  "web:07652046:39a5a42fb9": {
+   "id": "web:07652046:39a5a42fb9",
+   "source_key": "web:07652046",
+   "source": "Web zaměstnavatele",
+   "title": "Specialista kvality",
+   "employer": "MILKEFFEKT, a.s.",
+   "place": "Třinec",
+   "km": 8.9,
+   "wage": "",
+   "shift": "",
+   "contract": "",
+   "url": "https://milkeffekt.cz/kariera/specialistakvality/",
+   "source_url": "https://milkeffekt.cz/kariera/",
+   "description": "Hledáme posilu do oddělení kvality ve výrobě pářených sýrů. V případě zájmu zašlete životopis na email personalni@milkeffekt.cz nebo volejte +420 731 183 602.",
+   "content_hash": "5f161eaecdb4",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": true
+  },
+  "web:07652046:db6bb14b06": {
+   "id": "web:07652046:db6bb14b06",
+   "source_key": "web:07652046",
+   "source": "Web zaměstnavatele",
+   "title": "ELEKTROMECHANIK / ÚDRŽBÁŘ VÝROBNÍCH A BALÍCÍch LINEK",
+   "employer": "MILKEFFEKT, a.s.",
+   "place": "Třinec",
+   "km": 8.9,
+   "wage": "",
+   "shift": "",
+   "contract": "",
+   "url": "https://milkeffekt.cz/kariera/elektromechanik-udrzbar-vyrobnich-a-balicich-linek/",
+   "source_url": "https://milkeffekt.cz/kariera/",
+   "description": "Hledáme technicky zdatného člověka, který nechce pouze opravovat stroje. V případě zájmu zašlete životopis na email personalni@milkeffekt.cz nebo volejte +420 731 183 602.",
+   "content_hash": "82aa577311fa",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": true
+  },
+  "web:27798941:382811b554": {
+   "id": "web:27798941:382811b554",
+   "source_key": "web:27798941",
+   "source": "Web zaměstnavatele",
+   "title": "Praktický lékař s atestací (L3) - nová ordinace v pražském Karlíně",
+   "employer": "MOJE AMBULANCE a.s.",
+   "place": "Praha - Karlín",
+   "km": 8.9,
+   "wage": "",
+   "shift": "",
+   "contract": "",
+   "url": "https://www.praktikjebudoucnost.cz/svet-praktika/prakticky-lekar-s-atestaci-praha-karlin",
+   "source_url": "https://www.mojeambulance.cz/kariera/",
+   "description": "Do nové ordinace MOJE AMBULANCE v pražském Karlíně hledáme praktické lékařky a lékaře s atestací. Nabízíme moderní diagnostické vybavení, zázemí silné společnosti a minimální administrativu.",
+   "content_hash": "e8d592fd70ed",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": true
+  },
+  "web:00576930:066c21486a": {
+   "id": "web:00576930:066c21486a",
+   "source_key": "web:00576930",
+   "source": "Web zaměstnavatele",
+   "title": "Výběrové řízení na pozici hlavní účetní, rozpočtář",
+   "employer": "Obec Vělopolí",
+   "place": "Obec Hnojník",
+   "km": 14.8,
+   "wage": "",
+   "shift": "",
+   "contract": "",
+   "url": "https://www.velopoli.cz/aktuality/obec-hnojnik-vytvorove-rizeni-na-pozici-hlavni-ucetni-rozpoctar",
+   "source_url": "https://www.velopoli.cz/aktuality",
+   "description": "Výběrové řízení na pozici hlavní účetní a rozpočtář v obci Hnojník.",
+   "content_hash": "553c655f5a83",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": true
+  },
+  "web:00296643:938b7806c6": {
+   "id": "web:00296643:938b7806c6",
+   "source_key": "web:00296643",
+   "source": "Web zaměstnavatele",
+   "title": "Veřejný opatrovník oddělení veřejného opatrovnictví OSS",
+   "employer": "Statutární město Frýdek-Místek",
+   "place": "Frýdek-Místek",
+   "km": 31.3,
+   "wage": "",
+   "shift": "",
+   "contract": "",
+   "url": "https://www.frydekmistek.cz/uredni-deska/vyberove-rizeni-verejny-opatrovnik-oddeleni-verejneho-opatrovnictvi-oss-t-30-11-2026/",
+   "source_url": "https://www.frydekmistek.cz/magistrat/volna-pracovni-mista/",
+   "description": "Výběrové řízení na pozici veřejný opatrovník oddělení veřejného opatrovnictví OSS. Termín pro podání přihlášky je do 30. 11. 2026.",
+   "content_hash": "b9855fd948e8",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": true,
+   "score": 6,
+   "category": "Veřejná správa",
+   "reason": "Pozice referentky ve veřejné správě odpovídá jejím administrativním zkušenostem a požadavkům na práci na úřadě.",
+   "shift_risk": false,
+   "scored_hash": "b9855fd948e8:2"
+  },
+  "web:00296643:e499178117": {
+   "id": "web:00296643:e499178117",
+   "source_key": "web:00296643",
+   "source": "Web zaměstnavatele",
+   "title": "Matrikář/ka oddělení matriky OVV",
+   "employer": "Statutární město Frýdek-Místek",
+   "place": "Frýdek-Místek",
+   "km": 31.3,
+   "wage": "",
+   "shift": "",
+   "contract": "",
+   "url": "https://www.frydekmistek.cz/uredni-deska/vyberove-rizeni-matrikar-ka-oddeleni-matriky-ovv-t-14-12-2026/",
+   "source_url": "https://www.frydekmistek.cz/magistrat/volna-pracovni-mista/",
+   "description": "Výběrové řízení na pozici matrikář/ka oddělení matriky OVV. Termín pro podání přihlášky je do 14. 12. 2026.",
+   "content_hash": "f2570785cf96",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": true,
+   "score": 6,
+   "category": "Veřejná správa",
+   "reason": "Administrativní práce na matrice dobře odpovídá jejím zkušenostem z administrativy a státní správy.",
+   "shift_risk": false,
+   "scored_hash": "f2570785cf96:2"
+  },
+  "web:00296643:d45a84a341": {
+   "id": "web:00296643:d45a84a341",
+   "source_key": "web:00296643",
+   "source": "Web zaměstnavatele",
+   "title": "Koordinátor spolupráce s investory oddělení územního rozvoje OÚRaSŘ",
+   "employer": "Statutární město Frýdek-Místek",
+   "place": "Frýdek-Místek",
+   "km": 31.3,
+   "wage": "",
+   "shift": "",
+   "contract": "",
+   "url": "https://www.frydekmistek.cz/uredni-deska/vyberove-rizeni-koordinator-spoluprace-s-investory-oddeleni-uzemniho-rozvoje-ourasr-t-27-11-2026/",
+   "source_url": "https://www.frydekmistek.cz/magistrat/volna-pracovni-mista/",
+   "description": "Výběrové řízení na pozici koordinátor spolupráce s investory oddělení územního rozvoje OÚRaSŘ. Termín pro podání přihlášky je do 27. 11. 2026.",
+   "content_hash": "f7359c312fb8",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": true,
+   "score": 4,
+   "category": "Veřejná správa",
+   "reason": "Pozice koordinátora spolupráce s investory vyžaduje specifickou praxi, kterou uchazečka v této oblasti nemá.",
+   "shift_risk": false,
+   "scored_hash": "f7359c312fb8:2"
+  },
+  "web:61963607:21965715ee": {
+   "id": "web:61963607:21965715ee",
+   "source_key": "web:61963607",
+   "source": "Web zaměstnavatele",
+   "title": "Nabídka pracovního místa - uklízečka",
+   "employer": "Jubilejní Masarykova základní škola a mateřská škola Sedliště",
+   "place": "Sedliště",
+   "km": 29.7,
+   "wage": "",
+   "shift": "odpolední hodiny od 13:00 do 21:30",
+   "contract": "plný pracovní úvazek",
+   "url": "https://www.skola-sedliste.cz/prispevky/nabidka-pracovniho-mista---uklizecka-2092",
+   "source_url": "https://www.skola-sedliste.cz",
+   "description": "Nabízíme pracovní místo uklízečky na plný pracovní úvazek jako zástup za dočasnou pracovní neschopnost s nástupem od 4. 1. 2027. Předpokládaná doba zaměstnání je jeden rok.",
+   "content_hash": "5e5179d27b3f",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "missing_runs": 0,
+   "status": "active",
+   "is_new": true,
+   "score": 0,
+   "category": "Jiné",
+   "reason": "Jedná se o úklidovou práci a odpolední směnný provoz, což uchazečka výslovně odmítá.",
+   "shift_risk": true,
+   "scored_hash": "5e5179d27b3f:2"
   }
  }
 }
